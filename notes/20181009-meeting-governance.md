@@ -40,7 +40,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
    * Funds: creating a targeted list of people & investors to reach out to, crafting the message, and assuring that funds will be used appropriately.
    * Audit: getting a 3rd audit company, appealing to open-source nature of project, and prioritizing items to be audited (to reduce scope)
 ##### Action points:
-* [ ] @ignopeverell to produce a writeup to send to @Catheryne_N_twitter for review and then publish on grin-tech.org. 
+* [X] @ignopeverell to produce a writeup to send to @Catheryne_N_twitter for review and then [publish on grin-tech.org](https://grin-tech.org/sec_audit.html). 
 * [ ] @Catheryne_N_twitter to reach out to a third firm to obtain a third quote.
 
 #### 2.3 Vision / Mission / Values
