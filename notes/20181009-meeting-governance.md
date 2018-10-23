@@ -41,7 +41,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
    * Audit: getting a 3rd audit company, appealing to open-source nature of project, and prioritizing items to be audited (to reduce scope)
 ##### Action points:
 * [X] @ignopeverell to produce a writeup to send to @Catheryne_N_twitter for review and then [publish on grin-tech.org](https://grin-tech.org/sec_audit.html). 
-* [ ] @Catheryne_N_twitter to reach out to a third firm to obtain a third quote.
+* [X] @Catheryne_N_twitter to reach out to a third firm to obtain a third quote.
 
 #### 2.3 Vision / Mission / Values
 * No update, doc has still not been published
@@ -57,7 +57,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
    * Notes and meetings are announced/cross-posted to the forum
 * No objections to the proposal from the meeting.
 ##### Action points:
-* [x] @ignopeverell to create the repo, with @lehnberg taking the lead on maintaining it.
+* [X] @ignopeverell to create the repo, with @lehnberg taking the lead on maintaining it.
 
 ### 4. PoW update
 * No relevant update
