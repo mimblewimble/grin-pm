@@ -51,9 +51,9 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 * [ ] @ignopeverell to send out another request for funding.
 * [ ] @hashmap to confim what degree of sponsorship is acceptable to Grincon0 venue hosts.
 * @lehnberg to create issues to track: 
-   * [ ] auction items
-   * [ ] sponsorships of Grincon0
-   * [ ] Grincon0 donations
+   * [X] auction items
+   * [X] sponsorships of Grincon0
+   * [X] Grincon0 donations
 
 ### 4. Vision / Mission / Values
 
