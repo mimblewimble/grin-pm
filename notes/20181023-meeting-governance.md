@@ -70,7 +70,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 
 #### Action points:
 * [ ] @lehnberg to chase council members + core devs to input risk assesments for next meeting into spreadsheet.
-* [ ] @lehnberg to publish a forum post on the topic.
+* [X] @lehnberg to publish a forum post on the topic.
 
 
 ### 6. Proof of work 
