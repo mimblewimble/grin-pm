@@ -48,8 +48,8 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 * grin-tech.org and "friends of Grin" section should be spruced up a bit to make it more attractive.
 
 ##### Action points:
-* [ ] @ignopeverell to send out another request for funding.
-* [ ] @hashmap to confim what degree of sponsorship is acceptable to Grincon0 venue hosts.
+* [X] @ignopeverell to send out another request for funding.
+* [X] @hashmap to confim what degree of sponsorship is acceptable to Grincon0 venue hosts.
 * @lehnberg to create issues to track: 
    * [X] auction items
    * [X] sponsorships of Grincon0
@@ -61,7 +61,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 * We need to move forward, and pushing it out on website might be useful
 
 #### Action points:
-* [ ] @lehnberg to ensure some type of draft is published somewhere by the next governance meeting
+* [X] @lehnberg to ensure some [type of draft is published somewhere](https://www.grin-forum.org/t/help-us-write-grins-mission-statement/1114) by the next governance meeting
 
 ### 5. Risk managment
 
@@ -69,7 +69,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 * There's also a [spreadsheet](https://docs.google.com/spreadsheets/d/1zTtlMIgJFzmyedKD07dA0jn3eP4HD7eZqLjD8cVd_4c/edit?usp=sharing) where anyone can go in and add risks (as rows) and then put in their personal (subjective) scoring, according to a certain score template.
 
 #### Action points:
-* [ ] @lehnberg to chase council members + core devs to input risk assesments for next meeting into spreadsheet.
+* [X] @lehnberg to chase council members + core devs to input risk assesments for next meeting into spreadsheet.
 * [X] @lehnberg to publish a forum post on the topic.
 
 
