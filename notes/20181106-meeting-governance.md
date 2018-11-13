@@ -1,4 +1,4 @@
-# Meeting Notes: Governance, October 23 2018
+# Meeting Notes: Governance, November 06 2018
 
 Governance meeting held Nov 6 @ 3PM [UTC](http://www.timebie.com/std/utc.php) in [grin/Lobby on Gitter](https://gitter.im/grin_community/Lobby), full chat transcript [here](https://gitter.im/grin_community/Lobby?at=5be1ac75f25a725338fdf19a). Meeting lasted ~ 90 min.
 
