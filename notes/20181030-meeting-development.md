@@ -1,4 +1,4 @@
-# Meeting Notes: Development, October 16
+# Meeting Notes: Development, October 30
 
 Development meeting held Oct 30 @ 3PM [UTC](http://www.timebie.com/std/utc.php) in [grin/Dev channel on Gitter](https://gitter.im/grin_community/dev), full chat transcript [here](https://gitter.im/grin_community/dev?at=5bd87220435c2a518e2b8fcd). Meeting lasted ~ 90min.
 
