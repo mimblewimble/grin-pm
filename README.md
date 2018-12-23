@@ -3,26 +3,26 @@
 ## Meeting notes
 
 ### 2019
-Date | Topic | Agenda | Cliffnotes |
-|:---|:---|:---|:---|
-Jan 03 | Governance | https://github.com/mimblewimble/grin-pm/issues/31 | |
+Date | Topic | Agenda  | Notes | Tl;dr 
+|:---|:---|---|---|:---|
+Jan 03 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/31) |  Notes | |
 
 
 ### 2018
-Date | Topic | Agenda | Cliffnotes |
-|:---|:---|:---|:---|
-Dec 27 | Development | https://github.com/mimblewimble/grin-pm/issues/29 | |
-[Dec 18](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181218-meeting-governance.md) | Governance | https://github.com/mimblewimble/grin-pm/issues/26 | Postponed 2nd audit, genesis release discussion |
-[Dec 11](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181211-meeting-development.md) | Development | https://github.com/mimblewimble/grin-pm/issues/24 | Permanent testnet, Switch commitments, Dependency policy |
-[Dec 04](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181204-meeting-governance.md) | Governance | https://github.com/mimblewimble/grin-pm/issues/22 | 2nd Audit goes to Quarkslab, No Cuckaroo29+, Website design approval, Voting |
-[Nov 27](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181127-meeting-development.md) | Development | https://github.com/mimblewimble/grin-pm/issues/19 | Windows support, PR Review process|
-[Nov 20](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181120-meeting-governance.md) | Governance | https://github.com/mimblewimble/grin-pm/issues/17 | Jan 15 launch date target, incremental audits, not blocking mainnet, Cuckatoo31 switch, Exchanges, Conflicts of interest |
-[Nov 13](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181113-meeting-development.md) | Development | https://github.com/mimblewimble/grin-pm/issues/12 | Wallet plugins, POW naming, mainnet planning |
-[Nov 06](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181106-meeting-governance.md) | Governance | https://github.com/mimblewimble/grin-pm/issues/5 | Grincon, Audits, Mission |
-[Oct 30](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181030-meeting-development.md) | Development | https://github.com/mimblewimble/grin-pm/issues/4 | Detailed Mainnet planning |
-[Oct 23](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181023-meeting-governance.md) | Governance | https://github.com/mimblewimble/grin-pm/issues/1 | Autid entity, funding, Risk management, Cuckaroo, inital mainnet target period |
-[Oct 16](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181016-meeting-development.md) | Development | | BetterHash mining protocol, DHT-style tx building |
-[Oct 09](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181009-meeting-governance.md) | Governance | | Audits, Grin-PM repo |
+Date | Topic |Agenda |Notes | Tl;dr |
+|:---|:---|---|---|:---|
+Dec 27 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/29) | Notes | |
+Dec 18 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/26) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181218-meeting-governance.md) | Postponed 2nd audit, genesis release discussion |
+Dec 11 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/24) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181211-meeting-development.md) | Permanent testnet, Switch commitments, Dependency policy |
+Dec 04 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/22) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181204-meeting-governance.md) | 2nd Audit goes to Quarkslab, No Cuckaroo29+, Website design approval, Voting |
+Nov 27 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/19) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181127-meeting-development.md) | Windows support, PR Review process|
+Nov 20 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/17) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181120-meeting-governance.md) |  Jan 15 launch date target, incremental audits, not blocking mainnet, Cuckatoo31 switch, Exchanges, Conflicts of interest |
+Nov 13 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/12) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181113-meeting-development.md)| Wallet plugins, POW naming, mainnet planning |
+Nov 06 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/5) |[Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181106-meeting-governance.md) |  Grincon, Audits, Mission |
+Oct 30 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/4) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181030-meeting-development.md)| Detailed Mainnet planning |
+Oct 23 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/1) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181023-meeting-governance.md)| Audit entity, funding, Risk management, Cuckaroo, inital mainnet target period |
+Oct 16 | Development | | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181016-meeting-development.md)|  BetterHash mining protocol, DHT-style tx building |
+Oct 09 | Governance | | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181009-meeting-governance.md) | Audits, Grin-PM repo |
 
 
 ## Presentations
