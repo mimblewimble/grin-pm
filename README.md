@@ -29,7 +29,7 @@ Dec 27 | Development | https://github.com/mimblewimble/grin-pm/issues/29 | |
 
 ### Grincon0, Berlin, Nov 9 2018
 
- # | Speaker | Topic | Video | Slides |
+ ID | Speaker | Topic | Video | Slides |
 |---|:---|:---|---|---|
 1 | @ignopeverell | Conference intro & opening | [youtube](https://www.youtube.com/watch?list=PLvgCPbagiHgqYdVUj-ylqhsXOifWrExiq&v=k6tCnw6shgQ) | N/A |
 2 | @yeastplume | What is Grin & State of the nation | [youtube](https://www.youtube.com/watch?list=PLvgCPbagiHgqYdVUj-ylqhsXOifWrExiq&v=11Li5Zy2cKk) | [PDF](https://github.com/mimblewimble/grin-pm/blob/master/presentations/grincon0/02%20-%20yeastplume%20-%20What%20is%20Grin%20%26%20State%20of%20the%20nation.pdf) |
