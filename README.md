@@ -5,13 +5,14 @@
 ### 2019
 Date | Topic | Agenda  | Notes | Tl;dr 
 |:---|:---|---|---|:---|
+Jan 08 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/34) | Notes | |
 Jan 03 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/31) |  Notes | |
 
 
 ### 2018
 Date | Topic |Agenda |Notes | Tl;dr |
 |:---|:---|---|---|:---|
-Dec 27 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/29) | Notes | |
+Dec 27 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/29) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181227-meeting-development.md) | Re-floonet, libsecp audit results, Semver, Release planning. |
 Dec 18 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/26) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181218-meeting-governance.md) | Postponed 2nd audit, genesis release discussion |
 Dec 11 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/24) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181211-meeting-development.md) | Permanent testnet, Switch commitments, Dependency policy |
 Dec 04 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/22) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181204-meeting-governance.md) | 2nd Audit goes to Quarkslab, No Cuckaroo29+, Website design approval, Voting |
