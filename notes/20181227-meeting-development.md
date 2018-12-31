@@ -59,7 +59,7 @@ No updates.
 ### 6. Results from libsecp audit
 * Audit performed by [JP Aumasson](https://aumasson.jp/), who mostly looked at our patches and additions on top of libsecp, and their use in Grin.
 * Found a couple of smaller issues that aren't difficult to fix, and made several recommendations as well, that we'll be relaying.
-* Audit report available [here](https://github.com/mimblewimble/site/blob/master/audits/jpa-audit-report.html).
+* Audit report available [here](https://grin-tech.org/audits/jpa-audit-report.html).
 * Related: https://github.com/mimblewimble/grin/issues/2218 & https://github.com/mimblewimble/secp256k1-zkp/pull/37
 * Effort was funded and facilitated by a benefactor that connected with us following Grincon0. 
 
