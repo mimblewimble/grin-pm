@@ -5,8 +5,9 @@
 ### 2019
 Date | Topic | Agenda  | Notes | Tl;dr 
 |:---|:---|---|---|:---|
+Jan 17 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/37) | Notes | |
 Jan 08 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/34) | Notes | |
-Jan 03 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/31) |  Notes | |
+Jan 03 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/31) |  [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190103-meeting-governance.md) | Discussion of low mem GPU requirement implications, Bikeshedding polls to be organized. |
 
 
 ### 2018
