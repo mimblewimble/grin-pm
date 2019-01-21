@@ -68,7 +68,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
    * Employment, as in companies that appoint staff dedicated to work on Grin also count to this.
 * _lehnberg:_ I think I would be very sceptical to any kind of official endorsement of a project that is outside of the remit of Grin core. It would however be nice to be able to distinguish the businesses/projects that contribute on an ongoing basis.
 * _yeastplume:_ I think we need to be a bit careful, we can't just promote anyone who promises to dump money on us... us promoting is essentially the same as vouching.
-* [ ] **@lehnberg to create issue on grin-pm that summarizes discussion and invites proposals for how to handle this.**
+* [X] **@lehnberg to [create issue on grin-pm that summarizes discussion and invites proposals for how to handle this](https://github.com/mimblewimble/grin-pm/issues/52).**
 
 ### 7. Exchange integrations
 
