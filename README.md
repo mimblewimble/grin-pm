@@ -47,9 +47,6 @@ Oct 09 | Governance | | [Notes](https://github.com/mimblewimble/grin-pm/blob/mas
 7 | @tromp | Cuck(at)oo Cycle POW | [youtube](https://www.youtube.com/watch?list=PLvgCPbagiHgqYdVUj-ylqhsXOifWrExiq&v=CLiKX0nOsHE) | [PDF](https://github.com/mimblewimble/grin-pm/blob/master/presentations/grincon0/07%20-%20tromp%20-%20Cuck(at)oo%20Cycle%20POW.pdf) |
 8 | Panel | Discussion & Q&A | [youtube](https://www.youtube.com/watch?list=PLvgCPbagiHgqYdVUj-ylqhsXOifWrExiq&v=3C91CLEcPTA) | N/A |
 
-
-## Presentations
-
 ### Grincon Asia, Singapore, Jan 23 2019
 
  ID | Speaker | Topic | Video | Slides |
