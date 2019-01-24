@@ -46,3 +46,11 @@ Oct 09 | Governance | | [Notes](https://github.com/mimblewimble/grin-pm/blob/mas
 6 | @jaspervdm | Atomic Swaps | [youtube](https://www.youtube.com/watch?list=PLvgCPbagiHgqYdVUj-ylqhsXOifWrExiq&v=sT3vNycMxw4) | [PDF](https://github.com/mimblewimble/grin-pm/blob/master/presentations/grincon0/06%20-%20jaspervdm%20-%20Atomic%20Swaps.pdf)|
 7 | @tromp | Cuck(at)oo Cycle POW | [youtube](https://www.youtube.com/watch?list=PLvgCPbagiHgqYdVUj-ylqhsXOifWrExiq&v=CLiKX0nOsHE) | [PDF](https://github.com/mimblewimble/grin-pm/blob/master/presentations/grincon0/07%20-%20tromp%20-%20Cuck(at)oo%20Cycle%20POW.pdf) |
 8 | Panel | Discussion & Q&A | [youtube](https://www.youtube.com/watch?list=PLvgCPbagiHgqYdVUj-ylqhsXOifWrExiq&v=3C91CLEcPTA) | N/A |
+
+### Grincon Asia, Singapore, Jan 23 2019
+
+ ID | Speaker | Topic | Video | Slides |
+|---|:---|:---|---|---|
+1 | @garyyu | MimbleWimble / Grin Intro | N/A | [PDF](https://github.com/mimblewimble/grin-pm/blob/master/presentations/grincon-asia/01-garyyu-MimbleWimble%20Grin%20Intro.pdf) |
+
+
