@@ -7,6 +7,9 @@ This document tracks decisions made by the Grin project and points to documentat
 
 | Date | Decision | Reference |
 |:---|:---|:---|
+|20190122| Change pull request review process | [Meeting Note](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190122-meeting-development.md#81-decision-pull-request-reviews) |
+|20190122| Add issue reporting templates | [Meeting Note](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190122-meeting-development.md#decision-add-issue-reporting-templates) |
+|20190122| Define work approach for releases | [Meeting Note](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190122-meeting-development.md#decision-define-approach-for-releases)
 |20190117| Adopt Currency Symbol | [Meeting Note](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190117-meeting-governance.md#102-currency-symbol) |
 |20190117| Adopt Currency Code | [Meeting Note](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190117-meeting-governance.md#101-currency-code) |
 |20190117| Where/how to promote communities and events | [Meeting Note](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190117-meeting-governance.md#decision-managing-chat-channels) |

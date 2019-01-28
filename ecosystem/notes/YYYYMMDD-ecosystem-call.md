@@ -1,0 +1,1 @@
+This is a placeholder for the first ecosystem call. Note that the naming convention for all notes should follow the `YYYYMMDD-ecosystem-call.md` convention.
