@@ -8,8 +8,9 @@ A chronological list of decisions made by the Grin project, with references. Ava
 ### 2019
 Date | Topic | Agenda  | Notes | Tl;dr 
 |:---|:---|---|---|:---|
+Feb 05 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/56)| Notes | |
 Jan 29 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/46) | Notes | |
-Jan 22 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/41) | Notes | |
+Jan 22 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/41) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190122-meeting-development.md) | Mainnet retrospective, v1.1.0 planning, release work process, Contributing policy update |
 Jan 17 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/37) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190117-meeting-governance.md) | Security audit decision process, Promotion of supporting projects, Exchanges, New website, Communities on website, Currency code, currency symbol |
 Jan 08 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/34) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190108-meeting-development.md) | Pre mainnet launch status checks, initial v1.1.0 planning. |
 Jan 03 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/31) |  [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190103-meeting-governance.md) | Discussion of low mem GPU requirement implications, Bikeshedding polls to be organized. |
