@@ -47,10 +47,10 @@ Oct 09 | Governance | | [Notes](https://github.com/mimblewimble/grin-pm/blob/mas
 7 | @tromp | Cuck(at)oo Cycle POW | [youtube](https://www.youtube.com/watch?list=PLvgCPbagiHgqYdVUj-ylqhsXOifWrExiq&v=CLiKX0nOsHE) | [PDF](https://github.com/mimblewimble/grin-pm/blob/master/presentations/grincon0/07%20-%20tromp%20-%20Cuck(at)oo%20Cycle%20POW.pdf) |
 8 | Panel | Discussion & Q&A | [youtube](https://www.youtube.com/watch?list=PLvgCPbagiHgqYdVUj-ylqhsXOifWrExiq&v=3C91CLEcPTA) | N/A |
 
-### Grincon Asia, Singapore, Jan 23 2019
+### Meetups
 
- ID | Speaker | Topic | Video | Slides |
-|---|:---|:---|---|---|
-1 | @garyyu | MimbleWimble / Grin Intro | N/A | [PDF](https://github.com/mimblewimble/grin-pm/blob/master/presentations/grincon-asia/01-garyyu-MimbleWimble%20Grin%20Intro.pdf) |
-
-
+ Date | Event | Speaker | Topic | Video | Slides |
+|---|:---|:---|:---|---|---|
+20190123 | Grincon Asia, Singapore | @garyyu | Mimblewimble / Grin Intro | N/A | [PDF](https://github.com/mimblewimble/grin-pm/blob/master/presentations/meetups/20190123-grinconasia-Mimblewimble%20Grin%20Intro.pdf) |
+20190110 | Grin London | @lehnberg | Intro | N/A | [PDF](https://github.com/mimblewimble/grin-pm/blob/master/presentations/meetups/20190110-GrinLondon-intro.pdf)
+20181205 | Bitcoin Wednesday, Amsterdam | @jaspervdm | Intro | [PDF](https://github.com/mimblewimble/grin-pm/blob/master/presentations/meetups/20181205-BitcoinWednesdayAmsterdam-Intro.pdf)
