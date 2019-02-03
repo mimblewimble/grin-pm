@@ -68,7 +68,7 @@ To be created by @lehnberg.
 #### 5.3 Yeast funding
 * $8 received since Grincon.us.
 
-##### Decision: Yesatplume fund raise chase
+##### Decision: Yeastplume fund raise chase
 @ignopeverell to send another email and post on the forum to raise funds.
 
 ### 6. Promotion of other projects
