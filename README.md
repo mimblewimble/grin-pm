@@ -36,6 +36,25 @@ Oct 09 | Governance | | [Notes](https://github.com/mimblewimble/grin-pm/blob/mas
 
 ## Presentations
 
+### Grincon<US>(0), San Mateo CA, Jan 28 2019
+
+ ID | Speaker | Topic | Video | Slides |
+|---|:---|:---|---|---|
+1 | Catheryne Nicholson & Ignotus Peverell | Welcome Remarks | [youtube](https://www.youtube.com/watch?v=jq54WpG5F4A&index=2&list=PLvgCPbagiHgqOe0z_xgrIsGq-ayVZcNjy) | [PDF](presentations/grinconUS0/01-Nicholson-Welcome.pdf)|
+2 | Daniel Lehnberg | Intro to Grin and Value Proposition  | [youtube](https://www.youtube.com/watch?v=FjkqGhx31B8&index=3&list=PLvgCPbagiHgqOe0z_xgrIsGq-ayVZcNjy) | [PDF](presentations/grinconUS0/02-Lehnberg-Layperson_Intro.pdf) |
+3 | John Woeltz | Grin Crypto Security Audit Results  | [youtube](https://www.youtube.com/watch?v=FWBOp5x5jRI&index=4&list=PLvgCPbagiHgqOe0z_xgrIsGq-ayVZcNjy) | [PDF](presentations/grinconUS0/03-Woelz-Crypto_Security_Audit_Results.pdf) |
+4 | Michael Cordner | Grin Privacy & Scalability  | [youtube](https://www.youtube.com/watch?v=xb8COqnhe3M&index=5&list=PLvgCPbagiHgqOe0z_xgrIsGq-ayVZcNjy) | [PDF](presentations/grinconUS0/04-Cordner-Grin_Privacy_Scalability.pdf) |
+5 | Dan Boneh & Taariq Lewis | Fireside Chat with Dan Boneh | [youtube](https://www.youtube.com/watch?v=ggvqmb7np9w&index=6&list=PLvgCPbagiHgqOe0z_xgrIsGq-ayVZcNjy) | N/A |
+6 | Andrew Poelstra | Scriptless Scripts with Mimblewimble  | [youtube](https://www.youtube.com/watch?v=EN-JMlzr8Qw&index=7&list=PLvgCPbagiHgqOe0z_xgrIsGq-ayVZcNjy) | [PDF](presentations/grinconUS0/06-Poelstra-Scriptless_Scripts.pdf) |
+7 | Various | Panel: Perspective on Grin Use Cases  | [youtube](https://www.youtube.com/watch?v=LrGPsyIF2Wk&index=8&list=PLvgCPbagiHgqOe0z_xgrIsGq-ayVZcNjy) | N/A |
+8 | Various | Lightning Round Demo Sessions  | [youtube](https://www.youtube.com/watch?v=c5qvmqgrWyo&index=9&list=PLvgCPbagiHgqOe0z_xgrIsGq-ayVZcNjy) | [PDF](presentations/grinconUS0/08-Lightning_Round_Sessions.pdf) |
+9 | Quentin Le Sceller | How to Mine Grin | [youtube](https://www.youtube.com/watch?v=3Zyl099VXSc&index=10&list=PLvgCPbagiHgqOe0z_xgrIsGq-ayVZcNjy) | [PDF](presentations/grinconUS0/09-LeSceller-How_to_mine_Grin.pdf)|
+10 | Ivy Evans | Mining Security and Operations  | [youtube](https://www.youtube.com/watch?v=HumnwM83DQY&index=11&list=PLvgCPbagiHgqOe0z_xgrIsGq-ayVZcNjy) | [PDF](presentations/grinconUS0/10-Evans-Mining_Security_Operations.pdf) |
+11 | Benedikt Bünz | RSA Accumulators | [youtube](https://www.youtube.com/watch?v=90RkQkuiGDc&index=12&list=PLvgCPbagiHgqOe0z_xgrIsGq-ayVZcNjy) | [PDF](presentations/grinconUS0/11-Bunz-RSA_Accumulators.pdf) |
+12 | John Tromp | Cucka(t)(r)oo Mining Proof-of-Work  | [youtube](https://www.youtube.com/watch?v=h4AJDKoeO9E&index=13&list=PLvgCPbagiHgqOe0z_xgrIsGq-ayVZcNjy) | [PDF](presentations/grinconUS0/12-Tromp-Proof_of_Work.pdf) |
+13 | Michael Cordner | The Future of Grin | [youtube](https://www.youtube.com/watch?v=D0QzwchlpUo&index=14&list=PLvgCPbagiHgqOe0z_xgrIsGq-ayVZcNjy) | [PDF](presentations/grinconUS0/13-Cordner-Future_of_Grin.pdf) |
+14 | Various | Investor Panel: Investing in Privacy Coins | [youtube](https://www.youtube.com/watch?v=1GlpkvjcbtA&index=15&list=PLvgCPbagiHgqOe0z_xgrIsGq-ayVZcNjy) | N/A |
+
 ### Grincon0, Berlin, Nov 9 2018
 
  ID | Speaker | Topic | Video | Slides |
