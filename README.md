@@ -37,6 +37,7 @@ Oct 09 | Governance | | [Notes](https://github.com/mimblewimble/grin-pm/blob/mas
 ## Presentations
 
 ### Grincon<US>(0), San Mateo CA, Jan 28 2019
+_Thanks to [Grinmint](https://grinmint.com) for organizing the event._
 
  ID | Speaker | Topic | Video | Slides |
 |---|:---|:---|---|---|
