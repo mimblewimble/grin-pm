@@ -8,8 +8,9 @@ A chronological list of decisions made by the Grin project, with references. Ava
 ### 2019
 Date | Topic | Agenda  | Notes | Tl;dr 
 |:---|:---|---|---|:---|
+Feb 19 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/63)| Notes |  |
 Feb 12 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/58) | Notes | |
-Feb 05 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/56)| Notes | |
+Feb 05 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/56)| [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190205-meeting-development.md) | http deprecation, wallets |
 Jan 29 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/46) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190129-meeting-governance.md) | Fund transparency report, Promoting continuous donations, Grin stackexchange |
 Jan 22 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/41) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190122-meeting-development.md) | Mainnet retrospective, v1.1.0 planning, release work process, Contributing policy update |
 Jan 17 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/37) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190117-meeting-governance.md) | Security audit decision process, Promotion of supporting projects, Exchanges, New website, Communities on website, Currency code, currency symbol |
@@ -36,7 +37,7 @@ Oct 09 | Governance | | [Notes](https://github.com/mimblewimble/grin-pm/blob/mas
 
 ## Presentations
 
-### Grincon<US>(0), San Mateo CA, Jan 28 2019
+### grincon.us(0), San Mateo CA, Jan 28 2019
 _Thanks to [Grinmint](https://grinmint.com) for organizing the event._
 
  ID | Speaker | Topic | Video | Slides |
