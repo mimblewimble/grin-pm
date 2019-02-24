@@ -8,8 +8,9 @@ A chronological list of decisions made by the Grin project, with references. Ava
 ### 2019
 Date | Topic | Agenda  | Notes | Tl;dr 
 |:---|:---|---|---|:---|
+Mar 05 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/68)| Notes |  |
 | Feb 26 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/66)| Notes |  | 
-Feb 19 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/63)| Notes |  |
+Feb 19 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/63)| [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190219-meeting-development.md) | v1.0.2 release, Error management |
 Feb 12 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/58) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190212-meeting-governance.md) | Decision on security audit firm, Friends of Grin, Risk mgmt |
 Feb 05 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/56)| [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190205-meeting-development.md) | http deprecation, wallets |
 Jan 29 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/46) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190129-meeting-governance.md) | Fund transparency report, Promoting continuous donations, Grin stackexchange |

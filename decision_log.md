@@ -7,6 +7,7 @@ This document tracks decisions made by the Grin project and points to documentat
 
 | Date | Decision | Reference |
 |:---|:---|:---|
+|20190219 | Release week for v1.0.2 | [Meeting Note](notes/20190219-meeting-development.md#decision-v102) |
 |20190212 | Firm to hire for security audit | [Meeting Note](notes/20190212-meeting-governance.md#decision-security-audit-firm) |
 |20190205 | Handling unsafe http transactions | [Meeting Note](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190205-meeting-development.md#decision-approach-for-http-transactions-in-grin-wallet) |
 |20190129 | StackExchange approach | [Meeting Note](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190129-meeting-governance.md#decision-stackexchange-approach) |
