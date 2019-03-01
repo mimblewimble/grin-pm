@@ -1,0 +1,2 @@
+donation_id,date,donor,currency,amount,exchange_rate,USD_equivalent,to_address,tx_reference,comment
+1,20190301,Minerbabe,GRIN,2162.16,3.2,6919.04,https://donations.grin-tech.org,18f15e60-fa6c-400a-bad5-1821555839b5,Dev fee received by kbminer
