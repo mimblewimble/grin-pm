@@ -71,7 +71,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 * _ignopeverell:_ I would personally favor starting with a 3 months donation for @antiochp and go from there, once we're happy with that we can start looking at other candidates like myself depending on funds.
    * so the first proposal to be voted on would be: donation from the general fund to @antiochp for 3 months of work at $10k/month.
    * _antiochp:_ Most if not all of that time would be presumably working on dandelion and relative lock times and other features as deemed fit by the council.
-   * _The meeting agreed unaninmously, aside from one dissenter (@miketwenty_twitter)._
+   * _The meeting agreed unaninmously, aside from one dissenter (@miketwenty_twitter) who had no substantial reason for disagreeing._
 
 #### Decision: Funding for Antioch Peverell
 Donation of $30k to Antioch Peverell (@antiochp) from the main dev fund, to facilitate Antioch working full time on Grin protocol development as they see fit for a period of 3 months.
