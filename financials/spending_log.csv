@@ -1,0 +1,2 @@
+spend_id,date,spend_description,decision_log_id,currency,amount,exchange_rate,USD_equivalent,from_address,to_address,tx_reference,comment
+1,20190301,Coinspect audit fee,19,BTC,4.482,3882.66,17402.08,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,17Du5PQfcLq1yeV8yw512M5UnkeZvTwe7f,https://www.blockchain.com/btc/tx/022feacd15899425ee5a164f6e67a3f8701ce4fecbad8bf4532f2576f172a468,30% advance payment
