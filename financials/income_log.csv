@@ -1,2 +1,3 @@
 income_id,date,type,source,currency,amount,exchange_rate,USD_equivalent,to_address,tx_reference,comment
 1,20190301,donation,Minerbabe,GRIN,2162.16,3.2,6919.04,https://donations.grin-tech.org,18f15e60-fa6c-400a-bad5-1821555839b5,Dev fee received by kbminer
+2,20190304,donation,BlockCypher,GRIN,1281.3,3.3,4228.29,https://donations.grin-tech.org,8df506ff-6058-4d74-8028-e5ba5f3f28df,Grinmint 0.5% dev fee
