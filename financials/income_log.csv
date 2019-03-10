@@ -4,3 +4,4 @@ income_id,date,type,source,currency,amount,exchange_rate,USD_equivalent,to_addre
 3,20190303,donation,Sparkpool,GRIN,5500,3.63,20000.29,https://donations.grin-tech.org,817e0a69-5ab0-421f-afc3-406f61dd2bb4,Sparkpool & anonymous miner donation
 4,20190304,donation,BlockCypher,USD,3600,1,3600,Discourse,-,BlockCypher financing last 6 months and next 2 years (so 30 months) of Discourse subscription (120 USD/month)
 5,20190301,donation,Grin-pool.org,GRIN,17.087656585,3.27,55.88,https://donations.grin-tech.org,-,https://hendi.io/february-2019-our-first-donation-to-grin/
+6,20190309,donation,Bminer,BTC,3.2336,4017.3,12990.34,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,ce86a17cfa256efc9a72190aee223ec75a38e03fc86ba2858c7c2d10d6dddfc3,Donation
