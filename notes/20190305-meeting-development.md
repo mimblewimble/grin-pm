@@ -1,4 +1,4 @@
-# Meeting Notes: Development, Feb 19 2019
+# Meeting Notes: Development, Mar 05 2019
 
 Development meeting held @ 3PM [UTC](http://www.timebie.com/std/utc.php) in [grin/Dev channel on Gitter](https://gitter.im/grin_community/dev), full chat transcript [here](https://gitter.im/grin_community/dev?at=5c7e8f0ab1503b3d70841ed1). Meeting lasted ~ 75 min.
 
