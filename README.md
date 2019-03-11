@@ -11,7 +11,7 @@ Date | Topic | Agenda  | Notes | Tl;dr
 Mar 19 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/77)| Notes |  |
 Mar 12 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/71)| Notes |  |
 Mar 05 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/68)| [Notes](notes/20190305-meeting-development.md) | v1.1.0 planning, nightly builds, rust-secp release |
-| Feb 26 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/66)| [Notes]([Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190226-meeting-governance.md)) | PR approach, Funding for Antioch  | 
+| Feb 26 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/66)| [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190226-meeting-governance.md)| PR approach, Funding for Antioch  | 
 Feb 19 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/63)| [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190219-meeting-development.md) | v1.0.2 release, Error management |
 Feb 12 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/58) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190212-meeting-governance.md) | Decision on security audit firm, Friends of Grin, Risk mgmt |
 Feb 05 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/56)| [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190205-meeting-development.md) | http deprecation, wallets |
