@@ -7,6 +7,12 @@ This document tracks decisions made by the Grin project and points to documentat
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+27 | 20190312 | Funding for Ignotus Peverell  | [Meeting Note](notes/20190312-meeting-governance.md#decision-funding-for-ignotus-peverell) 
+26 | 20190312 | Quarterly income and spend reporting  | [Meeting Note](notes/20190312-meeting-governance.md#54-decision-reporting) 
+25 | 20190312 | How to update spending logs  | [Meeting Note](notes/20190312-meeting-governance.md#53-decision-updating-income-spending-logs) 
+24 | 20190312 | Treasury management and how to handle crypto balances  | [Meeting Note](notes/20190312-meeting-governance.md#decision-treasury-management) 
+23 | 20190312 | Review security vulnerability process | [Meeting Note](notes/20190312-meeting-governance.md#decision-review-our-security-vulnerability-process)
+22 | 20190312 | Move yeastplume funding out of income log | [Meeting Note](notes/20190312-meeting-governance.md#decision-move-out-yeastplume-funding-from-income_log)
 21 | 20190226 | Funding for antiochp | [Meeting Note](notes/20190226-meeting-governance.md#decision-fundingfor-antioch-peverell)
 20 | 20190219 | Release week for v1.0.2 | [Meeting Note](notes/20190219-meeting-development.md#decision-v102) |
 19 | 20190212 | Firm to hire for security audit | [Meeting Note](notes/20190212-meeting-governance.md#decision-security-audit-firm) |
