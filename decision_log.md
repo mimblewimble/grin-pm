@@ -7,6 +7,9 @@ This document tracks decisions made by the Grin project and points to documentat
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+30 | 20190326 | Next steps in POW phase out discussion | [Meeting Note](notes/20190326-meeting-governance.md#decision-next-steps-regarding-phase-out-discussion)
+29 | 20190326 | Treasury management of ETH | [Meeting Note](notes/20190326-meeting-governance.md#decision-treasury-management-of-eth)
+28 | 20190326 | Funding for Antioch Peverell re-evaluated | [Meeting Note](notes/20190326-meeting-governance.md#decision-antiochp-funding-re-evaluation)
 27 | 20190312 | Funding for Ignotus Peverell  | [Meeting Note](notes/20190312-meeting-governance.md#decision-funding-for-ignotus-peverell) 
 26 | 20190312 | Quarterly income and spend reporting  | [Meeting Note](notes/20190312-meeting-governance.md#54-decision-reporting) 
 25 | 20190312 | How to update spending logs  | [Meeting Note](notes/20190312-meeting-governance.md#53-decision-updating-income-spending-logs) 
