@@ -74,12 +74,14 @@ so a pow that wants to enforce a memory io bottleneck needs a correspondingly gr
         * Potential need to hard fork in the future as progress freeness is in danger due to low GPS on larger graphs.
    * I would like to see C31 and C32 asics come out and judge their yield and performance and ROI and such before deciding whether we really want to phase out C32 and beyond.
 * _lehnberg:_ Here is the estimated phase out schedule as it currently stands:
-   Cuckatoo | Start of <br> phase out |    Expected to be <br> fully phased out
+
+   Cuckatoo | Start of <br> phase out | Expected to be <br> fully phased out
    ---|---|---| 
    AT31 |Jan 15 2020 | Aug 19 2020
    AT32 | Jan 15 2021 | Aug 27 2021
    AT33 | Jan 15 2023 | Sep 3 2023
    AT34 | Jan 15 2027 | Sep 10 2027
+
    * _ignopeverell:_ Right, **we don't want to change the phase out of Cuckatoo31 (AT31)**, but we can certainly see how things evolve in the next 6-9 months to decide on longer horizons and the future phase out of Cuckatoo32 (AT32).
    * _tromp:_ Yes, if my proposal is accepted then AT32 has a potentially much longer lifetime. Until we recommit to more phaseouts, which would then likely be at a later date than in the current schedule
    * _lehnberg:_ So **only phase out of AT32 (commencing ~ Jan 15 2021)** would be at play for a **potential** change, **but something we would decide on later**. And I suppose by us discussing this right now, we’re signaling a *relatively* open mind for this, so any ASIC mfg planning their 2021 activities today should take *some* measure of note here that this *could* change?
