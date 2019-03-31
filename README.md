@@ -10,7 +10,7 @@ Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
 Apr 09 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/93) | Notes | |
 Apr 02 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/90)| Notes |  |
-Mar 26 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/87)| [Notes](notes/20190326-governance.md) | Antioch funding re-consideration, management of ETH, phase out schedule for Proof of Work |
+Mar 26 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/87)| [Notes](notes/20190326-meeting-governance.md) | Antioch funding re-consideration, management of ETH, phase out schedule for Proof of Work |
 Mar 19 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/77)| [Notes](notes/20190319-meeting-development.md) | TravisCI alternatives, v1.1.0 release date, v1.0.3 release, Hard fork timeline and process |
 Mar 12 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/71)| [Notes](notes/20190312-meeting-governance.md) | Funding for Igno, CVE-2019-9195 post-mortem, Treasury management  |
 Mar 05 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/68)| [Notes](notes/20190305-meeting-development.md) | v1.1.0 planning, nightly builds, rust-secp release |
