@@ -9,3 +9,4 @@ income_id,date,type,source,currency,amount,exchange_rate,USD_equivalent,to_addre
 14,20180314,donation,GGM,GRIN,630.965700337,2.70,1703.61,https://donations.grin-tech.org,a1ef9ba5-4fd8-4ffb-bcde-19c26e21b366,Dev miner fee on Grinmint grincouncil account (mostly or only GGM),
 15,20190313,donation,Daisuke Shosaki,BTC,0.03939,3906.72,153.89,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,https://live.blockcypher.com/btc/tx/fcc646fa3d97af9d80dbecf5812d023c2edfd31b99f9cf592076554b7ac01496/,Japanese Grin supporter,
 16,20190330,donation,Liu Jie,GRIN,500,3.24,1620,https://donations.grin-tech.org,refer the prize of Grin Chinese Naming event as the donation to Grin Fund,https://www.grin-forum.org/t/give-grin-a-chinese-name-grin/4376/105,
+17,20190128,donation,Bminer,BTC,4.41,3470.45,15304.68,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,8b931ad0553b0e05ca8f52dd7c15ba53ed2374638686a152a94047ed7cb868f0,Shared miner dev fees,
