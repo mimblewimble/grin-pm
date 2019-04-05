@@ -8,8 +8,9 @@ A chronological list of decisions made by the Grin project, with references. Ava
 ### 2019
 Date | Topic | Agenda  | Notes | Tl;dr 
 |:---|:---|---|---|:---|
+Apr 16 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/102)| Notes |  |
 Apr 09 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/93) | Notes | |
-Apr 02 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/90)| Notes |  |
+Apr 02 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/90)| Notes | GitlabCI, v1.1.0 testing, v1.0.3 release |
 Mar 26 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/87)| [Notes](notes/20190326-meeting-governance.md) | Antioch funding re-consideration, management of ETH, phase out schedule for Proof of Work |
 Mar 19 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/77)| [Notes](notes/20190319-meeting-development.md) | TravisCI alternatives, v1.1.0 release date, v1.0.3 release, Hard fork timeline and process |
 Mar 12 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/71)| [Notes](notes/20190312-meeting-governance.md) | Funding for Igno, CVE-2019-9195 post-mortem, Treasury management  |
