@@ -17,3 +17,5 @@ income_id,date,type,source,currency,amount,exchange_rate,USD_equivalent,to_addre
 22,20190411,donation,Sparkpool,ETH,58.48,171.0,10017.18,0x16726940ecebdfb3c352c29bf2620f59ef919a3b,0xe0f9b1997cc416d1692d3da4a0ac136de98485e44c188280dfbc96276d64b983,Sparkpool & anonymous miner donation,
 23,20190411,donation,Sparkpool,GRIN,3490.0,2.87,10016.30,https://donations.grin-tech.org,-,Sparkpool & anonymous miner donation,
 24,20190413,conversion,lehnberg,BTC,0.12263024,5090.29,624.22,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,369e9a17844d98be7addeca75dee36e1f78b644e6863fc664b0bda90fadbc565,Conversion of ETH to BTC,
+25,20190315,donation,Poloniex,BTC,1.27864,3960.91,5064.58,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,007815dfcf6ad13016e6b190c49858456b94e0b21c5f3f49fc2fa61c8b929443,Monthly donation to general fund #1,https://medium.com/circle-blog/poloniex-enables-grin-withdrawals-donates-to-grin-general-fund-114906884f95
+26,20190416,donation,Poloniex,BTC,0.67078,5235.56,3511.91,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,1cd64e2fcebb0e57057887737d38e1853bbcf9de7eafadd9d8e75c51f0e6b7b7,Monthly donation to general fund #2,
