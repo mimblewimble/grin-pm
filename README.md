@@ -6,10 +6,11 @@ A chronological list of decisions made by the Grin project, with references. Ava
 ## Meeting notes
 
 ### 2019
-Date | Topic | Agenda  | Notes | Tl;dr 
+Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Apr 30 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/111)| Notes |  |
 Apr 23 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/105) | Notes | |
-Apr 16 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/102)| Notes |  |
+Apr 16 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/102)| [Notes](notes/20190416-meeting-development.md) | CI status, Testing, Protocol versioning, 1.1.0 betas and branch handling |
 Apr 09 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/93) | [Notes](notes/20190409-meeting-governance.md) | Improvement Proposal process, Proof of work phaseout changes, Funding for lehnberg, funding specific causes |
 Apr 02 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/90)| [Notes](notes/20190402-meeting-development.md) | GitlabCI, v1.1.0 testing, v1.0.3 release |
 Mar 26 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/87)| [Notes](notes/20190326-meeting-governance.md) | Antioch funding re-consideration, management of ETH, phase out schedule for Proof of Work |
