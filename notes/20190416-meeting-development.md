@@ -42,7 +42,7 @@ _(apologies if I missed someone - submit a PR or contact @lehnberg to add)_
 
 #### 3.2 Manual test documentation
 
-- _kargakis:_ [The first version of the document is on the wiki](https://github.com/mimblewimble/docs/wiki/WIP:-Release-testing). I started down the route of specifying various tests and quickly realized I was reinventing the existing tests. So I ended up adding a point about making the existing tests more reusable. Getting the existing test suite into a place where it can run against a live node/wallet will be great, and having such a suite in place could also be beneficial for other node/wallet implementations.
+- _kargakis:_ [The first version of the document is on the wiki](https://github.com/mimblewimble/docs/wiki/Release-testing). I started down the route of specifying various tests and quickly realized I was reinventing the existing tests. So I ended up adding a point about making the existing tests more reusable. Getting the existing test suite into a place where it can run against a live node/wallet will be great, and having such a suite in place could also be beneficial for other node/wallet implementations.
   - _ignopeverell:_ Indeed. Great. If you have more feel free to add to it, and if anyone wakes up some morning with a burning desire to do some testing automation, there you have it. I see many of those are basically running some of the existing tests on old data, which would require some rearranging I think. And that would be our integration tests I think, so what's in `server` and possibly some of `chain` and of course `grin-wallet`, talking to existing servers. Are we tracking this as an issue btw?
   - _kargakis:_ I can open one.
 
