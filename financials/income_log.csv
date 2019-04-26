@@ -128,3 +128,4 @@ income_id,date,type,source,currency,amount,exchange_rate,USD_equivalent,to_addre
 133,20181215,donation,unknown,ZEC,0.2,50.21,10.04,t1QGYYXan3HHEuiPEfccKnUuWEP4CsVvPA5,53e799b468f8803a12a53431707c21c08dd6ff72f6cd152f27b923daf1a3d04b,,
 134,20181216,donation,unknown,ZEC,0.2,51.41,10.28,t1QGYYXan3HHEuiPEfccKnUuWEP4CsVvPA5,2601c82c2581cc9d58fb09c8bb68e3bca8fcdd08e69e3ac26c86eed39df5b47c,,
 135,20181221,donation,unknown,ZEC,0.2,61.68,12.34,t1QGYYXan3HHEuiPEfccKnUuWEP4CsVvPA5,28c37413c9d3329cb556da3a2e300699fba6fa2ba42d45caf3dc467b3d39861c,,
+136,20190425,donation,Grin Amsterdam,BTC,0.80561685,5210.52,4197.68,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,fc3a55ec26e398c8dfe6dd18713978d3d653ee5a8bea62895f6a189295d8b836,Donation of proceeds from organizing the first Grin Amsterdam event,https://medium.com/@friendsofgrin/pressrelease-11-3-2019-13-00-f90c13046b92
