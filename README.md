@@ -87,4 +87,5 @@ _Thanks to [Grinmint](https://grinmint.com) for organizing the event._
 |---|:---|:---|:---|---|---|
 20190123 | Grincon Asia, Singapore | @garyyu | Mimblewimble / Grin Intro | N/A | [PDF](https://github.com/mimblewimble/grin-pm/blob/master/presentations/meetups/20190123-grinconasia-Mimblewimble%20Grin%20Intro.pdf) |
 20190110 | Grin London | @lehnberg | Intro | N/A | [PDF](https://github.com/mimblewimble/grin-pm/blob/master/presentations/meetups/20190110-GrinLondon-intro.pdf)
-20181205 | Bitcoin Wednesday, Amsterdam | @jaspervdm | Intro | [PDF](https://github.com/mimblewimble/grin-pm/blob/master/presentations/meetups/20181205-BitcoinWednesdayAmsterdam-Intro.pdf)
+20181205 | Bitcoin Wednesday, Amsterdam | @jaspervdm | Intro | N/A | [PDF](https://github.com/mimblewimble/grin-pm/blob/master/presentations/meetups/20181205-BitcoinWednesdayAmsterdam-Intro.pdf)
+20190425 | CryptoMonday, Berlin | @i1skn | Intro to Grin | [Youtube](https://www.youtube.com/watch?v=eUKw-NULpxM)| [Online](https://slides.sorokin.io/grin/#/)
