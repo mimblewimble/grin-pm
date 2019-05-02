@@ -48,6 +48,17 @@ Oct 09 | Governance | | [Notes](https://github.com/mimblewimble/grin-pm/blob/mas
 
 ## Presentations
 
+### Grin Amsterdam, Amsterdam NL, March 26 2019
+_Thanks to [Grin Amsterdam](https://grinamsterdam.com) for organizing the event._
+
+ ID | Speaker | Topic | Video | Slides |
+|---|:---|:---|---|---|
+1 | Daniel Lehnberg | Grin update | [youtube](https://www.youtube.com/watch?v=sPgJqAdKkhY&list=PLvgCPbagiHgpJXhrKAJu0Q-mbCVhpqgu7) | [PDF](presentations/grinamsterdam/01-lehnberg-grin_update.pdf)|
+2 | Michael Cordner | The future of Grin  | [youtube](https://www.youtube.com/watch?v=r0PYpNoTrCE&list=PLvgCPbagiHgpJXhrKAJu0Q-mbCVhpqgu7) |  |
+3 | John Tromp | Intro to Grin Proof of Work | [youtube](https://www.youtube.com/watch?v=IHNUEOt-W2c&list=PLvgCPbagiHgpJXhrKAJu0Q-mbCVhpqgu7) |  |
+4 | Wilke Trei | Slean mining  | [youtube](https://www.youtube.com/watch?v=4dpTUxokpQU&list=PLvgCPbagiHgpJXhrKAJu0Q-mbCVhpqgu7) |  |
+5 | Various | Panel / Q&A | [youtube](https://www.youtube.com/watch?v=ESr-bgcCnjw&list=PLvgCPbagiHgpJXhrKAJu0Q-mbCVhpqgu7) | N/A |
+
 ### grincon.us(0), San Mateo CA, Jan 28 2019
 _Thanks to [Grinmint](https://grinmint.com) for organizing the event._
 
@@ -85,7 +96,7 @@ _Thanks to [Grinmint](https://grinmint.com) for organizing the event._
 
  Date | Event | Speaker | Topic | Video | Slides |
 |---|:---|:---|:---|---|---|
+20190425 | CryptoMonday, Berlin | @i1skn | Intro to Grin | [Youtube](https://www.youtube.com/watch?v=eUKw-NULpxM)| [Online](https://slides.sorokin.io/grin/#/)
 20190123 | Grincon Asia, Singapore | @garyyu | Mimblewimble / Grin Intro | N/A | [PDF](https://github.com/mimblewimble/grin-pm/blob/master/presentations/meetups/20190123-grinconasia-Mimblewimble%20Grin%20Intro.pdf) |
 20190110 | Grin London | @lehnberg | Intro | N/A | [PDF](https://github.com/mimblewimble/grin-pm/blob/master/presentations/meetups/20190110-GrinLondon-intro.pdf)
 20181205 | Bitcoin Wednesday, Amsterdam | @jaspervdm | Intro | N/A | [PDF](https://github.com/mimblewimble/grin-pm/blob/master/presentations/meetups/20181205-BitcoinWednesdayAmsterdam-Intro.pdf)
-20190425 | CryptoMonday, Berlin | @i1skn | Intro to Grin | [Youtube](https://www.youtube.com/watch?v=eUKw-NULpxM)| [Online](https://slides.sorokin.io/grin/#/)
