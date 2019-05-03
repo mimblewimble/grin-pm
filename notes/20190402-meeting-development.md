@@ -10,7 +10,6 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 * garyyu
 * hashmap
 * kargakis
-* mcdallas
 * lehnberg
 * mcdallas
 * tromp

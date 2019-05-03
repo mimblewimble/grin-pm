@@ -13,7 +13,6 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 - ignopeverell
 - jaspervdm
 - kargakis
-- mcdallas
 - lehnberg
 - mcdallas
 - quentinlesceller
@@ -62,7 +61,7 @@ _(apologies if I missed someone - submit a PR or contact @lehnberg to add)_
    - _jaspervdm:_ Makes sense.
 - _lehnberg:_ Exchanges have been asking for more info, like what the specific API changes needed to be supported by them etc. I could write something up, but don’t have enough answers at this stage, so would be good to maybe sit down and flush this out with someone who has.
    - _ignopeverell:_ Let's do it together, you, me and @yeastplume. We can each fill up different parts: you can take the organizational aspects, I can take grin and @yeastplume grin-wallet.
-   - _quentinlesceller:_ Would be nice to have all this on https://grin-tech.org and keep official announcements and download lins to binaries there.
+   - _quentinlesceller:_ Would be nice to have all this on https://grin-tech.org and keep official announcements and download links to binaries there.
 - _hashmap:_ Update on my 1.1.1. plans before I have to leave: I’d like to reduce node’s cpu usage, 2 days ago it was 65% on my mac, my goal is 5%.
 
 ### 6. Grin future versions
