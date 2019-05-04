@@ -13,7 +13,6 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 - ignopeverell
 - jaspervdm
 - kargakis
-- mcdallas
 - lehnberg
 - mcdallas
 - quentinlesceller
