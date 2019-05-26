@@ -7,6 +7,7 @@ This document tracks decisions made by the Grin project and points to documentat
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+32 | 20190521 | Pay final Coinspect installment  | [Meeting Note](notes/20190521-meeting-governance.md#decision-coinspect-payment)
 31 | 20190409 | Funding for @lehnberg | [Meeting Note](notes/20190409-meeting-governance.md#decision-lehnberg-funding)
 30 | 20190326 | Next steps in POW phase out discussion | [Meeting Note](notes/20190326-meeting-governance.md#decision-next-steps-regarding-phase-out-discussion)
 29 | 20190326 | Treasury management of ETH | [Meeting Note](notes/20190326-meeting-governance.md#decision-treasury-management-of-eth)
