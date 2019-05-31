@@ -8,8 +8,9 @@ A chronological list of decisions made by the Grin project, with references. Ava
 ### 2019
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Jun 11 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/143)| Notes |  |
 Jun 04 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/141) | Notes | |
-May 28 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/137)| Notes |  |
+May 28 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/137)| [Notes](notes/20190528-meeting-development.md) | Detailed v1.1.0 and v2.0.0 planning |
 May 21 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/134) | [Notes](notes/20190521-meeting-governance.md) | Coinspect audit payment, Grin budget feedback, Wiki access control  |
 May 14 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/126)| [Notes](notes/20190514-meeting-development.md) | v1.1.0, and future version planning, Hard fork, Http depreciation |
 May 07 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/115) | [Notes](notes/20190507-meeting-governance.md) | Budget, Transparency report, Simplified onboarding |
