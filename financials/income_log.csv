@@ -135,3 +135,4 @@ income_id,date,type,source,currency,amount,exchange_rate,USD_equivalent,to_addre
 140,20190612,donation,Gate.io,BTC,5,8145.86,40729.3,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,75755cf441de64ad14eb72a5ba002bd9b206fe0d2a4db226ebde48a56227bf3a,For inclusion on Friends of Grin,
 141,20190609,donation,Qi Tian,BTC,0.018,7688.08,138.39,bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65,0a67a5c52c14acbb4aa970e74f1ce1c2cb62846d0a47e50785e342a2f20c9cf7, For inclusion on Friends of Grin,
 142,20190617,donation,Poloniex,BTC,0.41987,9320.35,3913.34,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,f1ff282378876feec2d13e9aace9928198e30ea3913b03a1979b2019de0dc209,Monthly donation to general fund #3,https://twitter.com/Poloniex/status/1140664085354287109
+143,20190618,donation,hwph,BTC,0.0115,9081.76,104.44,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,d1f4895dfeddafe5e42c04b046a2c86b73b1d915064a6051e9a234d1e663e03a,For inclusion on Friends of Grin,
