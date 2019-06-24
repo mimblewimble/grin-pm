@@ -7,6 +7,8 @@ This document tracks decisions made by the Grin project and points to documentat
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+34 | 20190618 | Set up RFC repo and process  | [Meeting Note](notes/20190618-meeting-governance.md#decision-set-up-rfc-repo-and-process)
+33 | 20190618 | Add @hashmap to `SECURITY.MD`  | [Meeting Note](notes/20190618-meeting-governance.md#decision-add-hashmap-to-securitymd)
 32 | 20190521 | Pay final Coinspect installment  | [Meeting Note](notes/20190521-meeting-governance.md#decision-coinspect-payment)
 31 | 20190409 | Funding for @lehnberg | [Meeting Note](notes/20190409-meeting-governance.md#decision-lehnberg-funding)
 30 | 20190326 | Next steps in POW phase out discussion | [Meeting Note](notes/20190326-meeting-governance.md#decision-next-steps-regarding-phase-out-discussion)
