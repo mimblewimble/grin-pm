@@ -1,6 +1,6 @@
-# Meeting Notes: Governance, Jun 04 2019
+# Meeting Notes: Governance, Jun 18 2019
 
-Governance meeting held Jun 04 2019 @ 3PM [UTC](http://www.timebie.com/std/utc.php) in [grin/Lobby on Gitter](https://gitter.im/grin_community/Lobby), full chat transcript [here](https://gitter.im/grin_community/Lobby?at=5d08fc962313502d386f5837). Meeting lasted ~ 100 min.
+Governance meeting held Jun 18 2019 @ 3PM [UTC](http://www.timebie.com/std/utc.php) in [grin/Lobby on Gitter](https://gitter.im/grin_community/Lobby), full chat transcript [here](https://gitter.im/grin_community/Lobby?at=5d08fc962313502d386f5837). Meeting lasted ~ 100 min.
 
 Notes are truncated, and conversations sorted based on topic and not always chronological. Quotes are edited for brevity and clarity, and not always exact. 
 
