@@ -1,4 +1,4 @@
-### Grin Community Project Day, grin/ecosystem, Jun 4 2019
+### Grin Community Project Day, grin/ecosystem, July 2 2019
 
 ID | Speaker | Topic | Link |
 |---|:---|:---|---|
