@@ -7,6 +7,7 @@ This document tracks decisions made by the Grin project and points to documentat
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+36 | 20190702 | Add @j01tz to `SECURITY.MD`  | [Meeting Note](notes/20190702-meeting-governance.md#decision-add-j01tz-to-securitymd)
 35 | 20190625 | POW: Define commitment period of no change to 18 months in the future. Put phaseouts on hold. | [Meeting Note](notes/20190625-meeting-development.md#decision-putting-phaseouts-on-hold)
 34 | 20190618 | Set up RFC repo and process  | [Meeting Note](notes/20190618-meeting-governance.md#decision-set-up-rfc-repo-and-process)
 33 | 20190618 | Add @hashmap to `SECURITY.MD`  | [Meeting Note](notes/20190618-meeting-governance.md#decision-add-hashmap-to-securitymd)
