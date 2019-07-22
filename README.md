@@ -108,6 +108,7 @@ _Thanks to [Grinmint](https://grinmint.com) for organizing the event._
 
  Date | Event | Speaker | Topic | Video | Slides |
 |---|:---|:---|:---|---|---|
+20190716 | Grin London | @lehnberg | Grin update and Governance process  | N/A | [PDF](presentations/meetups/20190716-GrinLondon-Meetup4-Lehnberg.pdf) |
 20190517 | Grin Moscow meetup | @lehnberg | Grin overview | N/A | [PDF](presentations/meetups/20190516-GrinMoscow-overview-Lehnberg.pdf) |
 20190425 | CryptoMonday, Berlin | @i1skn | Intro to Grin | [Youtube](https://www.youtube.com/watch?v=eUKw-NULpxM)| [Online](https://slides.sorokin.io/grin/#/)
 20190123 | Grincon Asia, Singapore | @garyyu | Mimblewimble / Grin Intro | N/A | [PDF](https://github.com/mimblewimble/grin-pm/blob/master/presentations/meetups/20190123-grinconasia-Mimblewimble%20Grin%20Intro.pdf) |
