@@ -7,6 +7,8 @@ This document tracks decisions made by the Grin project and points to documentat
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+38 | 20190716 | Adopt [RFC-0002](https://github.com/mimblewimble/grin-rfcs/blob/master/text/0002-grin-governance.md): Grin governance  | [Meeting Note](notes/20190716-meeting-governance.md#decision-establish-sub-teams)
+37 | 20190716 | Adopt [RFC-0001](https://github.com/mimblewimble/grin-rfcs/blob/master/text/0001-rfc-process.md): Introduce RFC Process  | [Meeting Note](notes/20190716-meeting-governance.md#decision-introduce-rfc-process)
 36 | 20190702 | Add @j01tz to `SECURITY.MD`  | [Meeting Note](notes/20190702-meeting-governance.md#decision-add-j01tz-to-securitymd)
 35 | 20190625 | POW: Define commitment period of no change to 18 months in the future. Put phaseouts on hold. | [Meeting Note](notes/20190625-meeting-development.md#decision-putting-phaseouts-on-hold)
 34 | 20190618 | Set up RFC repo and process  | [Meeting Note](notes/20190618-meeting-governance.md#decision-set-up-rfc-repo-and-process)
