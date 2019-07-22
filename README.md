@@ -8,10 +8,11 @@ A chronological list of decisions made by the Grin project, with references. Ava
 ### 2019
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Jul 30 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/165) | | |
 Jul 23 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/163)|  |  |
-Jul 16 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/161) | | |
+Jul 16 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/161) | [Notes](notes/20190716-meeting-governance.md) | RFC process & subteam proposal adoptions, security audit update, website redesign |
 Jul 09 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/157)| [Notes](notes/20190709-meeting-development.md) | Security audit update, 2.0.1 planning, node & wallet sub-teams. |
-Jul 02 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/154) | [Notes](notes/20190618-meeting-governance.md) | RFC process & subteam trials, help with security audit work, 4th contact to SECURITY.MD |
+Jul 02 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/154) | [Notes](notes/20190702-meeting-governance.md) | RFC process & subteam trials, help with security audit work, 4th contact to SECURITY.MD |
 Jun 25 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/151)| [Notes](notes/20190625-meeting-development.md) | POW Phaseouts on hold proposal, Update re tx slate compatibility, RFC process |
 Jun 18 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/147) | [Notes](notes/20190618-meeting-governance.md) | Governance iteration, Bug bounties, third contact to SECURITY.MD |
 Jun 11 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/143)| [Notes](notes/20190611-meeting-development.md) | v1.1.0 evaluation, v2.0.0 planning: binaries and private testnet timelines, branching model |
