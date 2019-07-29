@@ -8,8 +8,9 @@ A chronological list of decisions made by the Grin project, with references. Ava
 ### 2019
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Aug 06 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/169)|  |  |
 Jul 30 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/165) | | |
-Jul 23 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/163)|  |  |
+Jul 23 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/163)| [Notes](notes/20190723-meeting-development.md) | HF retrospective, decisions on version planning and branching model. |
 Jul 16 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/161) | [Notes](notes/20190716-meeting-governance.md) | RFC process & subteam proposal adoptions, security audit update, website redesign |
 Jul 09 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/157)| [Notes](notes/20190709-meeting-development.md) | Security audit update, 2.0.1 planning, node & wallet sub-teams. |
 Jul 02 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/154) | [Notes](notes/20190702-meeting-governance.md) | RFC process & subteam trials, help with security audit work, 4th contact to SECURITY.MD |
