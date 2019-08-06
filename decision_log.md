@@ -7,6 +7,7 @@ This document tracks decisions made by the Grin project and points to documentat
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+41 | 20190730 | Eth & Grin donation addresses  | [Meeting Note](notes/20190730-meeting-governance.md#decision-grineth-donation-setup)
 40 | 20190723 | Branching model  | [Meeting Note](notes/20190723-meeting-development.md#decision-branching-model)
 39 | 20190723 | Version planning, breaking changes in releases  | [Meeting Note](notes/20190723-meeting-development.md#decision-breaking-changes-in-releases)
 38 | 20190716 | Adopt [RFC-0002](https://github.com/mimblewimble/grin-rfcs/blob/master/text/0002-grin-governance.md): Grin governance  | [Meeting Note](notes/20190716-meeting-governance.md#decision-establish-sub-teams)
