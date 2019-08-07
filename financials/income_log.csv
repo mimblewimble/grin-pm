@@ -140,3 +140,7 @@ income_id,date,type,source,currency,amount,exchange_rate,USD_equivalent,to_addre
 145,20190625,donation,fengqingyang,ETH,0.368445670725710718,318.13,117.21,0x16726940eCEBdfb3c352C29bF2620f59EF919a3b,0x41e31c8414229b77c9f52b0fc9c5ec70333d1c2458ed69b546d6d0ad0f003197,For inclusion on Friends of Grin,
 146,20190625,donation,PANDA,ETH,0.354028,318.13,112.63,0x16726940eCEBdfb3c352C29bF2620f59EF919a3b,0x77d57010186144b73e45f49a462ae3c538ecdcfeff9a7716802c01d96422f267,For inclusion on Friends of Grin,
 147,20190626,donation,Tensor Turbulence,ETH,1.010101,336.75,340.15,0x16726940eCEBdfb3c352C29bF2620f59EF919a3b,0x2963d8bd0e43036d0ff62e93ebc0ea1bc9703a00b48e054590e4f75e6afb578d,For inclusion on Friends of Grin,
+148,20190807,donation,Grin-pool.org,GRIN,12.04197631,3.03,36.49,https://council-donations.yeastplume.org,92f1b6e7-7cdf-46f3-b78b-6a8320db090b,Mining pool April donation,
+149,20190807,donation,Grin-pool.org,GRIN,8.87853094,3.03,26.90,https://council-donations.yeastplume.org,4c8e0903-6e2d-4431-8498-7f4789d7b09d,Mining pool May donation,
+150,20190807,donation,Grin-pool.org,GRIN,4.06132245,3.03,12.31,https://council-donations.yeastplume.org,64cedb38-e817-4b60-b1d6-7d06b04531e7,Mining pool June donation,
+151,20190807,donation,Grin-pool.org,GRIN,3.87505922,3.03,11.74,https://council-donations.yeastplume.org,8aca1378-658e-461f-bcac-f23364303f75,Mining pool July donation,
