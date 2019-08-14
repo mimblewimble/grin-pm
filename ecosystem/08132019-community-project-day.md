@@ -202,12 +202,7 @@ Is the intentional to have this on mobile, as well? The photos seem very mobile-
 
 nijynot @nijynot 
 Yeah, was planning to design for mobile from the beginning so that it'll be easier to port it later on
-
-design wise
-￼
-
-David Burkett @DavidBurkett 
-￼
+design wise￼
 
 
 Noah Yeh @noahyeh_twitter 
