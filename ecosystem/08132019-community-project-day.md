@@ -17,8 +17,8 @@ Noah Yeh @noahyeh_twitter 
 Ok let’s kick off, @nijynot can you give us a quick update on Wimble Wallet?
 Nijynot doesn’t seem to be online, let’s go to @DavidBurkett first
 
-———————————————————————————————————————————————————￼
-Coin Control
+
+----------Coin Control----------
 
 David Burkett @DavidBurkett 
 Not a whole lot to share, but just wanted to point out a privacy feature added to Grin++ recently called Coin Control. Coin Control gives users complete control over what data goes into a transaction by allowing them to choose which outputs to spend.
@@ -147,8 +147,7 @@ Noah Yeh @noahyeh_twitter 
 @nijynot ready to share some update on Wimble wallet?
 
 
-———————————————————————————————————————————————————￼
-Wimble wallet￼
+----------Wimble wallet￼----------
 
 nijynot @nijynot 
 Yes I'm ready!
