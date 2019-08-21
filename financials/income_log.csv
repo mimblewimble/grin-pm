@@ -144,3 +144,4 @@ income_id,date,type,source,currency,amount,exchange_rate,USD_equivalent,to_addre
 149,20190807,donation,Grin-pool.org,GRIN,8.87853094,3.03,26.90,https://council-donations.yeastplume.org,4c8e0903-6e2d-4431-8498-7f4789d7b09d,Mining pool May donation,
 150,20190807,donation,Grin-pool.org,GRIN,4.06132245,3.03,12.31,https://council-donations.yeastplume.org,64cedb38-e817-4b60-b1d6-7d06b04531e7,Mining pool June donation,
 151,20190807,donation,Grin-pool.org,GRIN,3.87505922,3.03,11.74,https://council-donations.yeastplume.org,8aca1378-658e-461f-bcac-f23364303f75,Mining pool July donation,
+152,20190804,donation,Unknown, GRIN,2.0,3.21,6.42,https://council-donations.yeastplume.org,b44633bc-a459-4dc4-ac6c-2be40ea36ce8,,
