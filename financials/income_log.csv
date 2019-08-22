@@ -152,3 +152,4 @@ income_id,date,type,source,currency,amount,exchange_rate,USD_equivalent,to_addre
 157,20190820,donation,Poloniex,BTC,0.20488,10763.23,2205.17,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,f89d8c0be8961aa8b5aabff9c1cda168b17419777c4033fcfa46999b91fef2f2,Monthly donation to general fund #4,https://twitter.com/Poloniex/status/1163866150251454464
 158,20190507,donation,unknown,BTC,0.00001,5829.50,0.06,bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65,a1045274559822525f7bb7e40333a21b521ea23a4df5bcd2639a3587c3555a88,,
 159,20190617,donation,unknown,BTC,0.018,9320.35,167.77,bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65,0a67a5c52c14acbb4aa970e74f1ce1c2cb62846d0a47e50785e342a2f20c9cf7,,
+160,20190620,donation,unknown,BTC,0.00764143,9527.16,72.80,bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65,2352e78cd32e0492bc910b22a2d73eea88f7609d71c10eddaab003787d2bfe1b,,
