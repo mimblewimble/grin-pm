@@ -147,3 +147,4 @@ income_id,date,type,source,currency,amount,exchange_rate,USD_equivalent,to_addre
 152,20190804,donation,unknown, GRIN,2.0,3.21,6.42,https://council-donations.yeastplume.org,b44633bc-a459-4dc4-ac6c-2be40ea36ce8,,
 153,20190806,donation,Sparkpool,GRIN,3125.0,3.10,9687.5,https://council-donations.yeastplume.org,e6db3c37-b43b-4cf7-a64f-502435956306,Sparkpool donation,
 154,20190808,donation,unknown,GRIN,0.84184529,3.08,2.59,https://council-donations.yeastplume.org,6451c1b9-3444-4133-92b9-8bc0077a2fe5,,
+155,20190627,donation,unknown,BTC,0.005,11182.81,55.91,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,232466af6231fbb4717dea6999bf68ede24869f96988aa5e794615a3fd1e52c6,,
