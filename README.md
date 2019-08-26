@@ -10,7 +10,7 @@ Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
 Aug 27 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/176) | | |
 Aug 20 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/175)|  |  |
-Aug 13 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/171) | | |
+Aug 13 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/171) | [Notes](notes/20190813-meeting-governance.md) | Site redesign, yeastplume funding approach, security audit update |
 Aug 06 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/169)|[Notes](notes/20190806-meeting-development.md) | Network hashrate, security audit progress. |
 Jul 30 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/165) | [Notes](notes/20190730-meeting-governance.md) | ETH & Grin addresses, Ledger development, Binance application, Security update, Moderation sub-team |
 Jul 23 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/163)| [Notes](notes/20190723-meeting-development.md) | HF retrospective, decisions on version planning and branching model. |
