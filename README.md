@@ -8,10 +8,11 @@ A chronological list of decisions made by the Grin project, with references. Ava
 ### 2019
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Sep 03 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/183)| | |
 Aug 27 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/176) | | |
-Aug 20 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/175)|  |  |
+Aug 20 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/175)|[Notes](notes/20190820-meeting-development.md) | 2.1.0 & 3.0.0 planning, Security & Wallet RFCs review |
 Aug 13 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/171) | [Notes](notes/20190813-meeting-governance.md) | Site redesign, yeastplume funding approach, security audit update |
-Aug 06 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/169)|[Notes](notes/20190806-meeting-development.md) | Network hashrate, security audit progress. |
+Aug 06 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/169)|[Notes](notes/20190806-meeting-development.md) | Network hashrate, security audit progress |
 Jul 30 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/165) | [Notes](notes/20190730-meeting-governance.md) | ETH & Grin addresses, Ledger development, Binance application, Security update, Moderation sub-team |
 Jul 23 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/163)| [Notes](notes/20190723-meeting-development.md) | HF retrospective, decisions on version planning and branching model. |
 Jul 16 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/161) | [Notes](notes/20190716-meeting-governance.md) | RFC process & subteam proposal adoptions, security audit update, website redesign |
