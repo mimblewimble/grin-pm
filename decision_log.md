@@ -7,6 +7,7 @@ This document tracks decisions made by the Grin project and points to documentat
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+42 | 20190827 | Funding for @yeastplume | [Meeting Note](notes/20190827-meeting-governance.md#31-decision-yeastplume-request-for-funding)
 41 | 20190730 | Eth & Grin donation addresses  | [Meeting Note](notes/20190730-meeting-governance.md#decision-grineth-donation-setup)
 40 | 20190723 | Branching model  | [Meeting Note](notes/20190723-meeting-development.md#decision-branching-model)
 39 | 20190723 | Version planning, breaking changes in releases  | [Meeting Note](notes/20190723-meeting-development.md#decision-breaking-changes-in-releases)
