@@ -8,8 +8,9 @@ A chronological list of decisions made by the Grin project, with references. Ava
 ### 2019
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Sep 10 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/185) | | |
 Sep 03 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/183)| | |
-Aug 27 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/176) | | |
+Aug 27 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/176) | [Notes](notes/20190827-meeting-governance.md) | Yeastplume request for funding, fund management |
 Aug 20 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/175)|[Notes](notes/20190820-meeting-development.md) | 2.1.0 & 3.0.0 planning, Security & Wallet RFCs review |
 Aug 13 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/171) | [Notes](notes/20190813-meeting-governance.md) | Site redesign, yeastplume funding approach, security audit update |
 Aug 06 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/169)|[Notes](notes/20190806-meeting-development.md) | Network hashrate, security audit progress |
