@@ -11,3 +11,4 @@ spend_id,date,spend_description,decision_log_id,currency,amount,exchange_rate,US
 10,20190524,Rest of coinspect audit fee,19,BTC,10.458,7987.37,83531.92,3JAqRiaWgFvARgpDL31eZ696Dt59nFUYjw,3QuuyFEp6BKwnMsnaXWRygmbUwgXZorcRZ,cdff4e87fb9adf4e0d1ca96c5cdb88b39c28a82bc767ac66960e772403abbd5e,remaining 70% payment
 11,20190829,Donation to yeastplume,42,BTC,2.98,9510.20,28340.39,3ExSdWi79ibKC1hza7RQpS7K8NGa7Swiib,3Pt5aRRYFJG6mfXXKn3spe3VKPicMcSLZC,1a6ae870ec0208f6dce05b3d31667d352a0ceec77e95bb9819f2e7c27d1895e9,partial payment
 12,20190829,Donation to yeastplume,42,GRIN,3156,1.85,5838.6,https://council-donations.yeastplume.org,-,N/A, completes payment
+13,20190829,change,,BTC,2.86598119,9510.20,27256.05,3ExSdWi79ibKC1hza7RQpS7K8NGa7Swiib,3QcAQw7KUgynCE4evR3kEN6EBa6tHn4DpS,1a6ae870ec0208f6dce05b3d31667d352a0ceec77e95bb9819f2e7c27d1895e9,change as part of yeastplume payment
