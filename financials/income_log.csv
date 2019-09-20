@@ -156,3 +156,4 @@ income_id,date,type,source,currency,amount,exchange_rate,USD_equivalent,to_addre
 161,20190721,donation,unknown,BTC,0.00110032,10144.56,11.16,bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65,f9588e81cceb2f85c51f0aba7a017604c8ddd11392cc985549799b6c6f7d4869,,
 162,20190812,donation,unknown,BTC,0.02665638,11382.62,303.42,bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65,25a63d42388231c6b05c62534c7c76e476396b9d9a250fa85b13597f0da47bd9,,
 163,20190829,change,N/A,BTC,2.86598119,9510.20,27256.05,3QcAQw7KUgynCE4evR3kEN6EBa6tHn4DpS,1a6ae870ec0208f6dce05b3d31667d352a0ceec77e95bb9819f2e7c27d1895e9,change as part of yeastplume payment
+164,20190918,donation,Poloniex,BTC,0.11956,10198.25,1219.30,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,0ae5942dbb6267c01be0a62ca32c19f900c44590eea7285ffd068b595498679a,Monthly donation to general fund #7,https://twitter.com/Poloniex/status/1174423096767524866
