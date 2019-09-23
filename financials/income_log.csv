@@ -134,7 +134,7 @@ income_id,date,type,source,currency,amount,exchange_rate,USD_equivalent,to_addre
 139,20190520,donation,Poloniex,BTC,0.2397,7978.31,1912.40,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,7c83118846280acf2ee913240f5a410a56878ecdbe9a33248b2b581f2369308e,Monthly donation to general fund #3,https://twitter.com/Poloniex/status/1130849980753690626
 140,20190612,donation,Gate.io,BTC,5,8145.86,40729.3,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,75755cf441de64ad14eb72a5ba002bd9b206fe0d2a4db226ebde48a56227bf3a,For inclusion on Friends of Grin,
 141,20190609,donation,Qi Tian,BTC,0.018,7688.08,138.39,bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65,0a67a5c52c14acbb4aa970e74f1ce1c2cb62846d0a47e50785e342a2f20c9cf7, For inclusion on Friends of Grin,
-142,20190617,donation,Poloniex,BTC,0.41987,9320.35,3913.34,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,f1ff282378876feec2d13e9aace9928198e30ea3913b03a1979b2019de0dc209,Monthly donation to general fund #3,https://twitter.com/Poloniex/status/1140664085354287109
+142,20190617,donation,Poloniex,BTC,0.41987,9320.35,3913.34,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,f1ff282378876feec2d13e9aace9928198e30ea3913b03a1979b2019de0dc209,Monthly donation to general fund #4,https://twitter.com/Poloniex/status/1140664085354287109
 143,20190618,donation,hwph,BTC,0.0115,9081.76,104.44,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,d1f4895dfeddafe5e42c04b046a2c86b73b1d915064a6051e9a234d1e663e03a,For inclusion on Friends of Grin,
 144,20190624,donation,Xiake Coin,BTC,0.01942599,11011.10,213.90,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,5ff99958afc2150e4d4339a5d6d8ceedf889010514c03bca257cb12821482af5,For inclusion on Friends of Grin,
 145,20190625,donation,fengqingyang,ETH,0.368445670725710718,318.13,117.21,0x16726940eCEBdfb3c352C29bF2620f59EF919a3b,0x41e31c8414229b77c9f52b0fc9c5ec70333d1c2458ed69b546d6d0ad0f003197,For inclusion on Friends of Grin,
@@ -148,11 +148,12 @@ income_id,date,type,source,currency,amount,exchange_rate,USD_equivalent,to_addre
 153,20190806,donation,Sparkpool,GRIN,3125.0,3.10,9687.5,https://council-donations.yeastplume.org,e6db3c37-b43b-4cf7-a64f-502435956306,Sparkpool donation,
 154,20190808,donation,unknown,GRIN,0.84184529,3.08,2.59,https://council-donations.yeastplume.org,6451c1b9-3444-4133-92b9-8bc0077a2fe5,,
 155,20190627,donation,unknown,BTC,0.005,11182.81,55.91,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,232466af6231fbb4717dea6999bf68ede24869f96988aa5e794615a3fd1e52c6,,
-156,20190717,donation,unknown,BTC,0.78859,9693.80,7644.43,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,185b902dbe2d5aa88b74b125f7c39e2ee89926f997f59e193f2c864f4b445934,,
-157,20190820,donation,Poloniex,BTC,0.20488,10763.23,2205.17,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,f89d8c0be8961aa8b5aabff9c1cda168b17419777c4033fcfa46999b91fef2f2,Monthly donation to general fund #4,https://twitter.com/Poloniex/status/1163866150251454464
+156,20190717,donation,Poloniex,BTC,0.78859,9693.80,7644.43,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,185b902dbe2d5aa88b74b125f7c39e2ee89926f997f59e193f2c864f4b445934,Monthly donation to general fund #5,https://twitter.com/Poloniex/status/1151861373741277184
+157,20190820,donation,Poloniex,BTC,0.20488,10763.23,2205.17,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,f89d8c0be8961aa8b5aabff9c1cda168b17419777c4033fcfa46999b91fef2f2,Monthly donation to general fund #6,https://twitter.com/Poloniex/status/1163866150251454464
 158,20190507,donation,unknown,BTC,0.00001,5829.50,0.06,bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65,a1045274559822525f7bb7e40333a21b521ea23a4df5bcd2639a3587c3555a88,,
 159,20190617,donation,unknown,BTC,0.018,9320.35,167.77,bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65,0a67a5c52c14acbb4aa970e74f1ce1c2cb62846d0a47e50785e342a2f20c9cf7,,
 160,20190620,donation,unknown,BTC,0.00764143,9527.16,72.80,bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65,2352e78cd32e0492bc910b22a2d73eea88f7609d71c10eddaab003787d2bfe1b,,
 161,20190721,donation,unknown,BTC,0.00110032,10144.56,11.16,bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65,f9588e81cceb2f85c51f0aba7a017604c8ddd11392cc985549799b6c6f7d4869,,
 162,20190812,donation,unknown,BTC,0.02665638,11382.62,303.42,bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65,25a63d42388231c6b05c62534c7c76e476396b9d9a250fa85b13597f0da47bd9,,
 163,20190829,change,N/A,BTC,2.86598119,9510.20,27256.05,3QcAQw7KUgynCE4evR3kEN6EBa6tHn4DpS,1a6ae870ec0208f6dce05b3d31667d352a0ceec77e95bb9819f2e7c27d1895e9,change as part of yeastplume payment
+164,20190918,donation,Poloniex,BTC,0.11956,10198.25,1219.30,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,0ae5942dbb6267c01be0a62ca32c19f900c44590eea7285ffd068b595498679a,Monthly donation to general fund #7,https://twitter.com/Poloniex/status/1174423096767524866
