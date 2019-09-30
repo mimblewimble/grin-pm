@@ -7,6 +7,7 @@ This document tracks decisions made by the Grin project and points to documentat
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+44 | 20190924 | Security audit steps and timelines responsibility to @j01tz  | [Meeting Note](notes/20190924-meeting-governance.md#decision-security-report-publication)
 43 | 20190917 | Remove Ignotus from `SECURITY.MD`  | [Meeting Note](notes/20190917-meeting-development.md#decision-removing-ignotus-from-security-disclosure-contacts)
 42 | 20190827 | Funding for @yeastplume | [Meeting Note](notes/20190827-meeting-governance.md#31-decision-yeastplume-request-for-funding)
 41 | 20190730 | Eth & Grin donation addresses  | [Meeting Note](notes/20190730-meeting-governance.md#decision-grineth-donation-setup)
