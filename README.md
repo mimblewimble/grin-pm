@@ -8,8 +8,9 @@ A chronological list of decisions made by the Grin project, with references. Ava
 ### 2019
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Oct 15 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/198)| | |
 Oct 08 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/196) | | |
-Oct 01 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/193)| | |
+Oct 01 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/193)| [Notes](notes/20191001-meeting-development.md) | Tor POC discussion, 2.1.0 betas, branching, kernel excess storage |
 Sep 24 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/190) | [Notes](notes/20190924-meeting-governance.md) | Security audit publication, hiring a cryptographer, new website |
 Sep 17 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/188)| [Notes](notes/20190917-meeting-development.md) | Canaries, Removal of Igno from security.md, Tor RFC, 2.1.0 progress update |
 Sep 10 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/185) | [Notes](notes/20190910-meeting-governance.md) | Grincon1, events & moderation subteams |
