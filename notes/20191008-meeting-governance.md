@@ -5,7 +5,7 @@ Governance meeting held @ 3PM [UTC](http://www.timebie.com/std/utc.php) in [grin
 Notes are truncated, and conversations sorted based on topic and not always chronological. Quotes are edited for brevity and clarity, and not always exact. 
 
 **Community attendance:**
-* arad54
+* Paouky
 * DavidBurkett
 * hashmap
 * jaspervdm
@@ -29,7 +29,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 
 * _lehnberg:_ @nijynot just submitted a [pull request for the website redesign](https://github.com/mimblewimble/site/pull/147), with a live example at https://nijynot.github.io/site. I haven’t played around with it, but it looks very nice at a quick glance.
    * _jaspervdm:_ Yep looks really good.
-   * _arad54:_ Fonts are meh, but great job overall.
+   * _Paouky:_ Fonts are meh, but great job overall.
    * _newtownf1:_ Great job on website.
    * _yeastplume:_ Looks really good, thanks for all your work on it
    * _DavidBurkett:_ Cool, but community is incomplete. Also, we should probably dynamically update council fund USD conversion.
