@@ -8,8 +8,8 @@
   - [Grin General Fund](#grin-general-fund)
     - [Grin](#grin)
     - [Bitcoin](#bitcoin)
-      - [Segwit](#segwit)
       - [Legacy](#legacy)
+      - [Segwit](#segwit)
     - [Ethereum](#ethereum)
     - [Zcash](#zcash)
 
@@ -38,13 +38,13 @@ Any questions or concerns about authenticity can be raised publicly in the Grin 
 
 #### Bitcoin
 
-##### Segwit
+##### Legacy
 
 `3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs`
 
 https://blockchair.com/bitcoin/address/3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs
 
-##### Legacy
+##### Segwit
 
 `bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65`
 
