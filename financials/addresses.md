@@ -18,7 +18,7 @@ This document is the only valid list of addresses for donations, sponsorships, o
 
 ## Verification
 This document should be hosted on the following address:
-`https://github.com/mimblewibmle/grin-pm/blob/master/financials/addresses.md`
+`https://github.com/mimblewimble/grin-pm/blob/master/financials/addresses.md`
 
 You can verify that any changes to the document have been made in commits signed with PGP keys by members of the grin core team.
 
