@@ -23,7 +23,7 @@ This document should be hosted on the following address:
 You can verify that any changes to the document have been made in commits signed with PGP keys by members of the grin core team.
 
 ## Contact
-Any questions or concerns about authenticity can be raised publicly in the Grin community via [gitter]() or [keybase](), or in private over email through following the steps outlined in [Grin's security process](https://github.com/mimblewimble/grin/blob/master/SECURITY.md).  
+Any questions or concerns about authenticity can be raised publicly in the Grin community via [gitter](https://gitter.im/grin_community/Lobby) or [keybase](https://keybase.io/team/grincoin), or in private over email through following the steps outlined in [Grin's security process](https://github.com/mimblewimble/grin/blob/master/SECURITY.md).  
 
 ---
 
