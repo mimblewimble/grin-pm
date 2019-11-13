@@ -46,9 +46,9 @@ https://blockchair.com/bitcoin/address/39hgKkhfPFpwKRQ6yARGwU2uuVay69NKu4
 
 ##### Segwit
 
-`bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65`
+`bc1qecw954uappnwhle6tmafqskn6vxmpr6lmmuwfwldphfxplcshgnssy9kmx`
 
-https://blockchair.com/bitcoin/address/bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65
+https://blockchair.com/bitcoin/address/bc1qecw954uappnwhle6tmafqskn6vxmpr6lmmuwfwldphfxplcshgnssy9kmx
 
 #### Ethereum
 
