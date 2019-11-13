@@ -40,9 +40,9 @@ Any questions or concerns about authenticity can be raised publicly in the Grin 
 
 ##### Legacy
 
-`3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs`
+`39hgKkhfPFpwKRQ6yARGwU2uuVay69NKu4`
 
-https://blockchair.com/bitcoin/address/3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs
+https://blockchair.com/bitcoin/address/39hgKkhfPFpwKRQ6yARGwU2uuVay69NKu4
 
 ##### Segwit
 
