@@ -8,8 +8,9 @@ A chronological list of decisions made by the Grin project, with references. Ava
 ### 2019
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Dec 03 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/218)| | |
 Nov 19 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/215) | | |
-Nov 12 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/213)| | |
+Nov 12 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/213)| [Notes](notes/20191112-meeting-development.md) | Review of 3.0.0 status, define upgrade timelines. |
 Nov 05 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/210) | [Notes](notes/20191105-meeting-governance.md) | Website onboarding improvements, Assignment of RFC shepherds, Open research problems |
 Oct 29 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/206)| [Notes](notes/20191029-meeting-development.md) | Scope finalization of v3.0.0, release of node v2.1.1 |
 Oct 22 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/201) | [Notes](notes/20191022-meeting-governance.md) | Open research problems, Grin 2020 roadmap, grincon1, website improvements |
