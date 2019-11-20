@@ -162,3 +162,4 @@ income_id,date,type,source,currency,amount,exchange_rate,USD_equivalent,to_addre
 167,20191016,donation,Poloniex,BTC,0.10997,8047.53,884.99,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,487d89d4d6c73ba7c708cce3ff18e936f6ddf0065543462cc644c8ee8ba9c1e0,Monthly donation to general fund #8,https://twitter.com/Poloniex/status/1184534975581949953
 168,20191105,donation,GGM,GRIN,403.816226121,1.21,488.62,https://council-donations.yeastplume.org,7778278c-4f6b-4291-9a96-18eb6cfdb965,Dev miner fee on Grinmint grincouncil account (mostly or only GGM),
 169,20191106,sponsorship,Sparkpool,GRIN,4100,1.25,5125,https://council-donations.yeastplume.org,63cc6e45-ae56-4f7a-8e5f-f69bcf62cefb,Gold sponsor grincon1,
+170,20191111,donation,Anonymous II,BTC,49.999223,8757.79,437882.70,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,0810b1644cea890aad01564de5e4518ebcddb4c84df0c93223f050d580edee45,Donation,https://www.grin-forum.org/t/donation-to-the-grin-general-fund-nov-11/6446
