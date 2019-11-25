@@ -7,6 +7,7 @@ This document tracks decisions made by the Grin project and points to documentat
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+47 | 20191119 | Migrate forum to `forum.grin.mw`  | [Meeting Note](notes/20191119-meeting-governance.md#decision-migrate-forum-url)
 46 | 20191008 | Approve @lehnberg request for funding  | [Meeting Note](notes/20191008-meeting-governance.md#7-decision-approve-lehnberg-request-for-funding)
 45 | 20191008 | Migration to grin.mw domain | [Meeting Note](notes/20191008-meeting-governance.md#decision-new-grin-website-url)
 44 | 20190924 | Security audit steps and timelines responsibility to @j01tz  | [Meeting Note](notes/20190924-meeting-governance.md#decision-security-report-publication)
