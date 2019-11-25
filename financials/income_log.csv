@@ -164,3 +164,4 @@ income_id,date,type,source,currency,amount,exchange_rate,USD_equivalent,to_addre
 169,20191106,sponsorship,Sparkpool,GRIN,4100,1.25,5125,https://council-donations.yeastplume.org,63cc6e45-ae56-4f7a-8e5f-f69bcf62cefb,Gold sponsor grincon1,
 170,20191111,donation,Anonymous II,BTC,49.999223,8757.79,437882.70,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,0810b1644cea890aad01564de5e4518ebcddb4c84df0c93223f050d580edee45,Donation,https://www.grin-forum.org/t/donation-to-the-grin-general-fund-nov-11/6446
 171,20191113,donation,unknown,BTC,0.01001688,8808.26,88.23,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,0e785b789b460aaa9bcac7de41345af1f9ac3588fbacee08c01b0c3fcdc50456,,
+172,20191125,consolidation,N/A,BTC,124.02369383,8808.26,1092432.94,bc1qecw954uappnwhle6tmafqskn6vxmpr6lmmuwfwldphfxplcshgnssy9kmx,9d2de1fb1bf01f2b2c850d094b0463837708d03d879fceb076248f2d38ef658e,Consolidation as part of moving mu-sig wallets (done over several transfers),https://github.com/mimblewimble/grin-pm/pull/217
