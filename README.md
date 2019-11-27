@@ -16,7 +16,7 @@ A chronological list of decisions made by the Grin project, with references. Ava
 
 ### 2019
 <details open>
-<summary>Expand/collapse</summary>
+<summary>Expand/collapse list of notes</summary>
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
@@ -73,7 +73,7 @@ Jan 03 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/31
 
 ### 2018
 <details>
-<summary>Expand/collapse</summary>
+<summary>Expand/collapse list of notes</summary>
 
 Date | Topic |Agenda |Notes | Tl;dr |
 |:---|:---|---|---|:---|
@@ -98,7 +98,7 @@ Oct 09 | Governance | | [Notes](https://github.com/mimblewimble/grin-pm/blob/mas
 _Thanks to our conference sponsor [QTUM](https://qtum.org)._
 
 <details open>
-<summary>Expand/collapse</summary>
+<summary>Expand/collapse talk details</summary>
 
  ID | Speaker | Topic | Video | Slides |
 |---|:---|:---|---|---|
@@ -124,7 +124,7 @@ _Thanks to our conference sponsor [QTUM](https://qtum.org)._
 _Thanks to [Grin Amsterdam](https://grinamsterdam.com) for organizing the event._
 
 <details>
-<summary>Expand/collapse</summary>
+<summary>Expand/collapse talk details</summary>
 
  ID | Speaker | Topic | Video | Slides |
 |---|:---|:---|---|---|
@@ -138,7 +138,7 @@ _Thanks to [Grin Amsterdam](https://grinamsterdam.com) for organizing the event.
 ### grincon.us(0), San Mateo CA, Jan 28 2019
 _Thanks to [Grinmint](https://grinmint.com) for organizing the event._
 <details>
-<summary>Expand/collapse</summary>
+<summary>Expand/collapse talk details</summary>
 
  ID | Speaker | Topic | Video | Slides |
 |---|:---|:---|---|---|
@@ -160,7 +160,7 @@ _Thanks to [Grinmint](https://grinmint.com) for organizing the event._
 
 ### Grincon0, Berlin, Nov 9 2018
 <details>
-<summary>Expand/collapse</summary>
+<summary>Expand/collapse talk details</summary>
 
  ID | Speaker | Topic | Video | Slides |
 |---|:---|:---|---|---|
@@ -176,7 +176,7 @@ _Thanks to [Grinmint](https://grinmint.com) for organizing the event._
 
 ### Meetups
 <details>
-<summary>Expand/collapse</summary>
+<summary>Expand/collapse talk details</summary>
 
  Date | Event | Speaker | Topic | Video | Slides |
 |---|:---|:---|:---|---|---|
