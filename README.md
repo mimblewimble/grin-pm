@@ -93,6 +93,33 @@ Oct 09 | Governance | | [Notes](https://github.com/mimblewimble/grin-pm/blob/mas
 
 ## Presentations
 
+### Grincon1
+**c-base, Berlin, November 22 2019**<br>
+_Thanks to our conference sponsor [QTUM](https://qtum.org)._
+
+<details open>
+<summary>Expand/collapse</summary>
+
+ ID | Speaker | Topic | Video | Slides |
+|---|:---|:---|---|---|
+|01|@0xb100d / @lehnberg |Opening remarks|[youtube](https://www.youtube.com/watch?v=kHduvUbwNAY&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP)|N/A|
+|02|@yeastplume / @lehnberg|State of Grin|[youtube](https://www.youtube.com/watch?v=hZuFWTi6iJc&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP)|[PDF](presentations/grincon1/02-stateofgrin-yeastplumelehnberg.pdf)|
+|03|@hashmap|Grin Networking|[youtube](https://www.youtube.com/watch?v=932-V78tbbA&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP)|[PDF](presentations/grincon1/03-networking-hashmap.pdf)|
+|04|@joltz|Grin Security|[youtube](https://www.youtube.com/watch?v=zbPq5uo9agU&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP)|[PDF](presentations/grincon1/04-grinsecurity-joltz.pdf)|
+|05|@quentinlesceller|Grin Open Research Problems|[youtube](https://www.youtube.com/watch?v=-wg3YXd86DU&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP)|[PDF](presentations/grincon1/05-openresearchproblems-quentinlesceller.pdf)|
+|06|@valdok|Lelantus-mw|[youtube](https://www.youtube.com/watch?v=wBQbJutaEQo&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP) |[PDF](presentations/grincon1/06-lelantusmw-valdok.pdf)
+|07|Wanseob Lim|Mimblewimble on Ethereum |[youtube](https://www.youtube.com/watch?v=uG5-2JfoT9g&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP) |[PDF](presentations/grincon1/07-Ethereum934-wanseoblim.pdf)
+|08|@lolliedieb|10 Months of Grin Mining & How to mine C32 Today|[youtube](https://www.youtube.com/watch?v=cIO-fpiLKTI&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP) |[PDF](presentations/grincon1/08-10monthmining-lolliedieb.pdf)
+|09|Henry Quan|Where in the world is the Grin ASIC?|[youtube](https://www.youtube.com/watch?v=n01GnIn2Hs0&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP) |[PDF](presentations/grincon1/09-ePICgrinasic-henryquan.pdf)
+|10|@tromp|One Flew Over the Cuckoo’s Nest|[youtube](https://www.youtube.com/watch?v=Rq3j6bq1jQQ&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP) |[PDF](presentations/grincon1/10-cuckaroom-tromp.pdf)
+|11|@qitian|Grin in China|[youtube](https://www.youtube.com/watch?v=kdEYqx6bWmk&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP) |[PDF](presentations/grincon1/11-grininchina-qitian.pdf)
+|12|@i1skn|Ironbelly mobile wallet|[youtube](https://www.youtube.com/watch?v=OCnIVctRLgk&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP) |[PDF](presentations/grincon1/12-ironbelly-i1skn.pdf)
+|13|@nijynot|Grin Usability|[youtube](https://www.youtube.com/watch?v=XBlNC9hc4eU&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP) |[PDF](presentations/grincon1/13-grinusability-nijynot.pdf)
+|14|Iryoung Jeong|Can we send Grin using Telegram easily?|[youtube](https://www.youtube.com/watch?v=8EK5Zjp__HA&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP) |[PDF](presentations/grincon1/14-grinusingtelegram-iryoungjeong.pdf)
+|15|Grin core team|Core Q&A|[youtube](https://www.youtube.com/watch?v=qIK4e0eUUzQ&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP) | N/A
+</details>
+
+
 ### Grin Amsterdam, Amsterdam NL, March 26 2019
 _Thanks to [Grin Amsterdam](https://grinamsterdam.com) for organizing the event._
 
