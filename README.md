@@ -3,6 +3,15 @@
 ## Decision log
 A chronological list of decisions made by the Grin project, with references. Available [here](decision_log.md).
 
+## Financials
+
+| Document | Description |
+|:---|:---|
+| [Addresses](financials/addresses.md) | The list of cryptocurrency addresses associated to the project. |
+| [Transparency reports](financials/reports/) | Financial transparency reports on a quarterly basis. |
+| [Financial logs](financials/) | Line by line details of income and spending. |
+
+
 ## Meeting notes
 
 ### 2019
