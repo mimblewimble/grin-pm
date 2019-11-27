@@ -6,6 +6,9 @@ A chronological list of decisions made by the Grin project, with references. Ava
 ## Meeting notes
 
 ### 2019
+<details open>
+<summary>Expand/collapse</summary>
+
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
 Dec 10 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/220) | | |
@@ -57,9 +60,12 @@ Jan 22 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/4
 Jan 17 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/37) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190117-meeting-governance.md) | Security audit decision process, Promotion of supporting projects, Exchanges, New website, Communities on website, Currency code, currency symbol |
 Jan 08 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/34) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190108-meeting-development.md) | Pre mainnet launch status checks, initial v1.1.0 planning. |
 Jan 03 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/31) |  [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190103-meeting-governance.md) | Discussion of low mem GPU requirement implications, Bikeshedding polls to be organized. |
-
+</details>
 
 ### 2018
+<details>
+<summary>Expand/collapse</summary>
+
 Date | Topic |Agenda |Notes | Tl;dr |
 |:---|:---|---|---|:---|
 Dec 27 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/29) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181227-meeting-development.md) | Re-floonet, libsecp audit results, Semver, Release planning. |
@@ -74,7 +80,7 @@ Oct 30 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/4
 Oct 23 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/1) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181023-meeting-governance.md)| Audit entity, funding, Risk management, Cuckaroo, inital mainnet target period |
 Oct 16 | Development | | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181016-meeting-development.md)|  BetterHash mining protocol, DHT-style tx building |
 Oct 09 | Governance | | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181009-meeting-governance.md) | Audits, Grin-PM repo |
-
+</details>
 
 ## Presentations
 
