@@ -3,9 +3,21 @@
 ## Decision log
 A chronological list of decisions made by the Grin project, with references. Available [here](decision_log.md).
 
+## Financials
+
+| Document | Description |
+|:---|:---|
+| [Addresses](financials/addresses.md) | The list of cryptocurrency addresses associated to the project. |
+| [Transparency reports](financials/reports/) | Financial transparency reports on a quarterly basis. |
+| [Financial logs](financials/) | Line by line details of income and spending. |
+
+
 ## Meeting notes
 
 ### 2019
+<details open>
+<summary>Expand/collapse list of notes</summary>
+
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
 Dec 10 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/220) | | |
@@ -57,9 +69,12 @@ Jan 22 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/4
 Jan 17 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/37) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190117-meeting-governance.md) | Security audit decision process, Promotion of supporting projects, Exchanges, New website, Communities on website, Currency code, currency symbol |
 Jan 08 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/34) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190108-meeting-development.md) | Pre mainnet launch status checks, initial v1.1.0 planning. |
 Jan 03 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/31) |  [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190103-meeting-governance.md) | Discussion of low mem GPU requirement implications, Bikeshedding polls to be organized. |
-
+</details>
 
 ### 2018
+<details>
+<summary>Expand/collapse list of notes</summary>
+
 Date | Topic |Agenda |Notes | Tl;dr |
 |:---|:---|---|---|:---|
 Dec 27 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/29) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181227-meeting-development.md) | Re-floonet, libsecp audit results, Semver, Release planning. |
@@ -74,12 +89,42 @@ Oct 30 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/4
 Oct 23 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/1) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181023-meeting-governance.md)| Audit entity, funding, Risk management, Cuckaroo, inital mainnet target period |
 Oct 16 | Development | | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181016-meeting-development.md)|  BetterHash mining protocol, DHT-style tx building |
 Oct 09 | Governance | | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20181009-meeting-governance.md) | Audits, Grin-PM repo |
-
+</details>
 
 ## Presentations
 
+### Grincon1
+**c-base, Berlin, November 22 2019**<br>
+_Thanks to our conference sponsor [QTUM](https://qtum.org)._
+
+<details open>
+<summary>Expand/collapse talk details</summary>
+
+ ID | Speaker | Topic | Video | Slides |
+|---|:---|:---|---|---|
+|01|@0xb100d / @lehnberg |Opening remarks|[youtube](https://www.youtube.com/watch?v=kHduvUbwNAY&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP)|N/A|
+|02|@yeastplume / @lehnberg|State of Grin|[youtube](https://www.youtube.com/watch?v=hZuFWTi6iJc&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP)|[PDF](presentations/grincon1/02-stateofgrin-yeastplumelehnberg.pdf)|
+|03|@hashmap|Grin Networking|[youtube](https://www.youtube.com/watch?v=932-V78tbbA&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP)|[PDF](presentations/grincon1/03-networking-hashmap.pdf)|
+|04|@joltz|Grin Security|[youtube](https://www.youtube.com/watch?v=zbPq5uo9agU&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP)|[PDF](presentations/grincon1/04-grinsecurity-joltz.pdf)|
+|05|@quentinlesceller|Grin Open Research Problems|[youtube](https://www.youtube.com/watch?v=-wg3YXd86DU&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP)|[PDF](presentations/grincon1/05-openresearchproblems-quentinlesceller.pdf)|
+|06|@valdok|Lelantus-mw|[youtube](https://www.youtube.com/watch?v=wBQbJutaEQo&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP) |[PDF](presentations/grincon1/06-lelantusmw-valdok.pdf)
+|07|Wanseob Lim|Mimblewimble on Ethereum |[youtube](https://www.youtube.com/watch?v=uG5-2JfoT9g&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP) |[PDF](presentations/grincon1/07-Ethereum934-wanseoblim.pdf)
+|08|@lolliedieb|10 Months of Grin Mining & How to mine C32 Today|[youtube](https://www.youtube.com/watch?v=cIO-fpiLKTI&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP) |[PDF](presentations/grincon1/08-10monthmining-lolliedieb.pdf)
+|09|Henry Quan|Where in the world is the Grin ASIC?|[youtube](https://www.youtube.com/watch?v=n01GnIn2Hs0&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP) |[PDF](presentations/grincon1/09-ePICgrinasic-henryquan.pdf)
+|10|@tromp|One Flew Over the Cuckoo’s Nest|[youtube](https://www.youtube.com/watch?v=Rq3j6bq1jQQ&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP) |[PDF](presentations/grincon1/10-cuckaroom-tromp.pdf)
+|11|@qitian|Grin in China|[youtube](https://www.youtube.com/watch?v=kdEYqx6bWmk&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP) |[PDF](presentations/grincon1/11-grininchina-qitian.pdf)
+|12|@i1skn|Ironbelly mobile wallet|[youtube](https://www.youtube.com/watch?v=OCnIVctRLgk&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP) |[PDF](presentations/grincon1/12-ironbelly-i1skn.pdf)
+|13|@nijynot|Grin Usability|[youtube](https://www.youtube.com/watch?v=XBlNC9hc4eU&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP) |[PDF](presentations/grincon1/13-grinusability-nijynot.pdf)
+|14|Iryoung Jeong|Can we send Grin using Telegram easily?|[youtube](https://www.youtube.com/watch?v=8EK5Zjp__HA&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP) |[PDF](presentations/grincon1/14-grinusingtelegram-iryoungjeong.pdf)
+|15|Grin core team|Core Q&A|[youtube](https://www.youtube.com/watch?v=qIK4e0eUUzQ&list=PLvgCPbagiHgrQa5KVt4XixK9t_NbfpkuP) | N/A
+</details>
+
+
 ### Grin Amsterdam, Amsterdam NL, March 26 2019
 _Thanks to [Grin Amsterdam](https://grinamsterdam.com) for organizing the event._
+
+<details>
+<summary>Expand/collapse talk details</summary>
 
  ID | Speaker | Topic | Video | Slides |
 |---|:---|:---|---|---|
@@ -88,9 +133,12 @@ _Thanks to [Grin Amsterdam](https://grinamsterdam.com) for organizing the event.
 3 | John Tromp | Intro to Grin Proof of Work | [youtube](https://www.youtube.com/watch?v=IHNUEOt-W2c&list=PLvgCPbagiHgpJXhrKAJu0Q-mbCVhpqgu7) |  |
 4 | Wilke Trei | Slean mining  | [youtube](https://www.youtube.com/watch?v=4dpTUxokpQU&list=PLvgCPbagiHgpJXhrKAJu0Q-mbCVhpqgu7) |  |
 5 | Various | Panel / Q&A | [youtube](https://www.youtube.com/watch?v=ESr-bgcCnjw&list=PLvgCPbagiHgpJXhrKAJu0Q-mbCVhpqgu7) | N/A |
+</details>
 
 ### grincon.us(0), San Mateo CA, Jan 28 2019
 _Thanks to [Grinmint](https://grinmint.com) for organizing the event._
+<details>
+<summary>Expand/collapse talk details</summary>
 
  ID | Speaker | Topic | Video | Slides |
 |---|:---|:---|---|---|
@@ -108,8 +156,11 @@ _Thanks to [Grinmint](https://grinmint.com) for organizing the event._
 12 | John Tromp | Cucka(t)(r)oo Mining Proof-of-Work  | [youtube](https://www.youtube.com/watch?v=h4AJDKoeO9E&index=13&list=PLvgCPbagiHgqOe0z_xgrIsGq-ayVZcNjy) | [PDF](presentations/grinconUS0/12-Tromp-Proof_of_Work.pdf) |
 13 | Michael Cordner | The Future of Grin | [youtube](https://www.youtube.com/watch?v=D0QzwchlpUo&index=14&list=PLvgCPbagiHgqOe0z_xgrIsGq-ayVZcNjy) | [PDF](presentations/grinconUS0/13-Cordner-Future_of_Grin.pdf) |
 14 | Various | Investor Panel: Investing in Privacy Coins | [youtube](https://www.youtube.com/watch?v=1GlpkvjcbtA&index=15&list=PLvgCPbagiHgqOe0z_xgrIsGq-ayVZcNjy) | N/A |
+</details>
 
 ### Grincon0, Berlin, Nov 9 2018
+<details>
+<summary>Expand/collapse talk details</summary>
 
  ID | Speaker | Topic | Video | Slides |
 |---|:---|:---|---|---|
@@ -121,8 +172,11 @@ _Thanks to [Grinmint](https://grinmint.com) for organizing the event._
 6 | @jaspervdm | Atomic Swaps | [youtube](https://www.youtube.com/watch?list=PLvgCPbagiHgqYdVUj-ylqhsXOifWrExiq&v=sT3vNycMxw4) | [PDF](https://github.com/mimblewimble/grin-pm/blob/master/presentations/grincon0/06%20-%20jaspervdm%20-%20Atomic%20Swaps.pdf)|
 7 | @tromp | Cuck(at)oo Cycle POW | [youtube](https://www.youtube.com/watch?list=PLvgCPbagiHgqYdVUj-ylqhsXOifWrExiq&v=CLiKX0nOsHE) | [PDF](https://github.com/mimblewimble/grin-pm/blob/master/presentations/grincon0/07%20-%20tromp%20-%20Cuck(at)oo%20Cycle%20POW.pdf) |
 8 | Panel | Discussion & Q&A | [youtube](https://www.youtube.com/watch?list=PLvgCPbagiHgqYdVUj-ylqhsXOifWrExiq&v=3C91CLEcPTA) | N/A |
+</details>
 
 ### Meetups
+<details>
+<summary>Expand/collapse talk details</summary>
 
  Date | Event | Speaker | Topic | Video | Slides |
 |---|:---|:---|:---|---|---|
@@ -132,3 +186,4 @@ _Thanks to [Grinmint](https://grinmint.com) for organizing the event._
 20190123 | Grincon Asia, Singapore | @garyyu | Mimblewimble / Grin Intro | N/A | [PDF](https://github.com/mimblewimble/grin-pm/blob/master/presentations/meetups/20190123-grinconasia-Mimblewimble%20Grin%20Intro.pdf) |
 20190110 | Grin London | @lehnberg | Intro | N/A | [PDF](https://github.com/mimblewimble/grin-pm/blob/master/presentations/meetups/20190110-GrinLondon-intro.pdf)
 20181205 | Bitcoin Wednesday, Amsterdam | @jaspervdm | Intro | N/A | [PDF](https://github.com/mimblewimble/grin-pm/blob/master/presentations/meetups/20181205-BitcoinWednesdayAmsterdam-Intro.pdf)
+</details>
