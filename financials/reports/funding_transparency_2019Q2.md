@@ -1,6 +1,6 @@
-# 2019Q1 Funding Transparency Report
+# 2019Q2 Funding Transparency Report
 
-Last updated: Aug 23 2019
+Last updated: Dec 06 2019
 
 ## Introduction
 This document provides a high level overview of Grin's financials for Q2 of 2019 (Apr 01 - Jun 30). The purpose is to keep the community up to date on funding activity in transparent and digestible way. The data is derived from what's reported in the financial logs under [/grin-pm/financials](https://github.com/mimblewimble/grin-pm/tree/master/financials).
