@@ -20,8 +20,9 @@ A chronological list of decisions made by the Grin project, with references. Ava
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Dec 24 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/231)| | |
 Dec 17 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/227) | | |
-Dec 10 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/224)| | |
+Dec 10 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/224)| [Notes](notes/20191210-meeting-development.md) | 3.0.0 scope freeze discussion & communication doc |
 Dec 03 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/220) | [Notes](notes/20191203-meeting-governance.md) | Grin forum & site update, Discussion re forum policies, Grincon1 evaluation, RFC review |
 Nov 26 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/218)| [Notes](notes/20191126-meeting-development.md) | Review of 3.0.0 status, upgrade communications, /packaging repo, Grin project focus discussion, API v2. |
 Nov 19 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/215) | [Notes](notes/20191119-meeting-governance.md) | Forum migration, Open research problems, Roadmap RFC |
