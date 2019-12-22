@@ -14,14 +14,23 @@ A chronological list of decisions made by the Grin project, with references. Ava
 
 ## Meeting notes
 
+### 2020
+<details open>
+<summary>Expand/collapse list of notes</summary>
+
+Date | Topic | Agenda  | Notes | Tl;dr
+|:---|:---|---|---|:---|
+Jan 14 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/233)| | |
+Jan 07 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/231) | | |
+</details>
+
 ### 2019
 <details open>
 <summary>Expand/collapse list of notes</summary>
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
-Dec 24 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/231)| | |
-Dec 17 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/227) | | |
+Dec 17 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/227) | [Notes](notes/20191217-meeting-governance.md) | Yeast funding request, Moving meetings to Keybase, shares to grin.mw domain, rescheduling of meetings during holiday period |
 Dec 10 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/224)| [Notes](notes/20191210-meeting-development.md) | 3.0.0 scope freeze discussion & communication doc |
 Dec 03 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/220) | [Notes](notes/20191203-meeting-governance.md) | Grin forum & site update, Discussion re forum policies, Grincon1 evaluation, RFC review |
 Nov 26 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/218)| [Notes](notes/20191126-meeting-development.md) | Review of 3.0.0 status, upgrade communications, /packaging repo, Grin project focus discussion, API v2. |
