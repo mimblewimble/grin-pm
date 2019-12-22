@@ -7,6 +7,9 @@ This document tracks decisions made by the Grin project and points to documentat
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+51 | 20191217 | Move dev & governance meetings to keybase  | [Meeting Note](notes/20191217-meeting-governance.md#decision-switch-location-for-dev--governance-meetings)
+50 | 20191217 | Distribution of backup shares for grin.mw domain login  | [Meeting Note](notes/20191217-meeting-governance.md#decision-shares-to-the-grinmw-domain-login)
+49 | 20191217 | Approve @yeastplume Q12020 request for funding  | [Meeting Note](notes/20191217-meeting-governance.md#decision-approve-yeastplume-q12020-funding-request)
 48 | 20191203 | Forum policy for closed source projects & how to handle potential scams | [Meeting Note](notes/20191203-meeting-governance.md#decision-closed-source-projects--potential-scams-on-forum)
 47 | 20191119 | Migrate forum to `forum.grin.mw`  | [Meeting Note](notes/20191119-meeting-governance.md#decision-migrate-forum-url)
 46 | 20191008 | Approve @lehnberg request for funding  | [Meeting Note](notes/20191008-meeting-governance.md#7-decision-approve-lehnberg-request-for-funding)
