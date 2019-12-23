@@ -169,3 +169,4 @@ income_id,date,type,source,currency,amount,exchange_rate,USD_equivalent,to_addre
 174,20191121,donation,Poloniex,BTC,0.03747000,7642.75,286.37,39hgKkhfPFpwKRQ6yARGwU2uuVay69NKu4,c4c3d6b409722f9021703021c2d118b51b5452174bed03cba036ec5317fe52e7,Monthly donation to general fund #9,https://twitter.com/Poloniex/status/1198105691547930629
 175,20191123,donation,zhuroulao,GRIN,107,1.08,115.56,https://council-donations.yeastplume.org,4482c555-d420-4a18-bfd0-20966b1e06c6,For inclusion on Friends of Grin,
 176,20191130,donation,unknown,BTC,0.00032624,7569.63,2.47,39hgKkhfPFpwKRQ6yARGwU2uuVay69NKu4,3672391158511bf2d46771eae0410ea205605bc1f6482f76ffab55dc3823adb2,,
+177,20191222,donation,TMGOX,BTC,0.28026762,7511.59,2105.26,39hgKkhfPFpwKRQ6yARGwU2uuVay69NKu4,80c59a99b355ede467a0935102223117ed858ae059b055ad95bf2a200cd22223,Transparency report Dec 2019,https://github.com/0xb100d/TMGOX/blob/master/Transparency%20Report%20December%202019
