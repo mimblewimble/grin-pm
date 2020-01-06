@@ -173,4 +173,7 @@ income_id,date,type,source,currency,amount,exchange_rate,USD_equivalent,to_addre
 178,20200104,donation,unknown,BTC,0.00389589,7410.66,28.87,39hgKkhfPFpwKRQ6yARGwU2uuVay69NKu4,5b8933fb3eebbdfe6402ebf4ecae38b9f6101a04979eabd7345cf66a51e1a6bf,,
 179,20191213,donation,unkownn,BTC,0.00049149,7269.68,3.57,bc1qecw954uappnwhle6tmafqskn6vxmpr6lmmuwfwldphfxplcshgnssy9kmx,70b8262310197c461b296c080b8d9b8c2e2665aabe6694b621446860faec4a10,,
 180,20200104,donation,unknown,BTC,0.00268897,7410.66,19.93,bc1qecw954uappnwhle6tmafqskn6vxmpr6lmmuwfwldphfxplcshgnssy9kmx,77e22d7f05d1d43fa49a2148bb78a14bcacd56d08d207a60b21de07cce502c72,,
-
+181,20191008,donation,unknown,GRIN,9.7,1.32,12.80,https://council-donations.yeastplume.org,d4cac80f-bbc9-4729-9fe8-c910ba80344e,,
+182,20191024,donation,unknown,GRIN,5,0.896914,4.48,https://council-donations.yeastplume.org,ee0c3d3f-c83d-4b2f-92af-a81ee0217012,,
+183,20191024,donation,unknown,GRIN,10,0.896914,8.97,https://council-donations.yeastplume.org,970cadb5-f2b1-4462-9529-13ca395e04ff,,
+184,20191118,donation,unknown,GRIN,5,1.33,6.65,https://council-donations.yeastplume.org,748de9b1-2c06-47e6-9c50-50addd51298d,,
