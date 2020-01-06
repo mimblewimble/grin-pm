@@ -35,6 +35,7 @@ Any questions or concerns about authenticity can be raised publicly in the Grin 
 
 `https://council-donations.yeastplume.org`
 
+[Transaction log snapshot](grin-wallet-txs.md).
 
 #### Bitcoin
 
