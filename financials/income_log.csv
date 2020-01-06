@@ -170,3 +170,4 @@ income_id,date,type,source,currency,amount,exchange_rate,USD_equivalent,to_addre
 175,20191123,donation,zhuroulao,GRIN,107,1.08,115.56,https://council-donations.yeastplume.org,4482c555-d420-4a18-bfd0-20966b1e06c6,For inclusion on Friends of Grin,
 176,20191130,donation,unknown,BTC,0.00032624,7569.63,2.47,39hgKkhfPFpwKRQ6yARGwU2uuVay69NKu4,3672391158511bf2d46771eae0410ea205605bc1f6482f76ffab55dc3823adb2,,
 177,20191222,donation,TMGOX,BTC,0.28026762,7511.59,2105.26,39hgKkhfPFpwKRQ6yARGwU2uuVay69NKu4,80c59a99b355ede467a0935102223117ed858ae059b055ad95bf2a200cd22223,Transparency report Dec 2019,https://github.com/0xb100d/TMGOX/blob/master/Transparency%20Report%20December%202019
+178,20200104,donation,unknown,BTC,0.00389589,7410.66,28.87,39hgKkhfPFpwKRQ6yARGwU2uuVay69NKu4,5b8933fb3eebbdfe6402ebf4ecae38b9f6101a04979eabd7345cf66a51e1a6bf,,
