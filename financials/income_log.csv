@@ -172,3 +172,5 @@ income_id,date,type,source,currency,amount,exchange_rate,USD_equivalent,to_addre
 177,20191222,donation,TMGOX,BTC,0.28026762,7511.59,2105.26,39hgKkhfPFpwKRQ6yARGwU2uuVay69NKu4,80c59a99b355ede467a0935102223117ed858ae059b055ad95bf2a200cd22223,Transparency report Dec 2019,https://github.com/0xb100d/TMGOX/blob/master/Transparency%20Report%20December%202019
 178,20200104,donation,unknown,BTC,0.00389589,7410.66,28.87,39hgKkhfPFpwKRQ6yARGwU2uuVay69NKu4,5b8933fb3eebbdfe6402ebf4ecae38b9f6101a04979eabd7345cf66a51e1a6bf,,
 179,20191213,donation,unkownn,BTC,0.00049149,7269.68,3.57,bc1qecw954uappnwhle6tmafqskn6vxmpr6lmmuwfwldphfxplcshgnssy9kmx,70b8262310197c461b296c080b8d9b8c2e2665aabe6694b621446860faec4a10,,
+180,20200104,donation,unknown,BTC,0.00268897,7410.66,19.93,bc1qecw954uappnwhle6tmafqskn6vxmpr6lmmuwfwldphfxplcshgnssy9kmx,77e22d7f05d1d43fa49a2148bb78a14bcacd56d08d207a60b21de07cce502c72,,
+
