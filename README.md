@@ -20,8 +20,9 @@ A chronological list of decisions made by the Grin project, with references. Ava
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Jan 21 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/241) | | |
 Jan 14 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/233)| | |
-Jan 07 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/231) | | |
+Jan 07 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/231)|[Notes](notes/20200107-meeting-development.md) | Initial 3.1 discussion, integration tests, /packaging | 
 </details>
 
 ### 2019
