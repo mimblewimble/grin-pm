@@ -10,6 +10,7 @@ A chronological list of decisions made by the Grin project, with references. Ava
 | [Addresses](financials/addresses.md) | The list of cryptocurrency addresses associated to the project. |
 | [Transparency reports](financials/reports/) | Financial transparency reports on a quarterly basis. |
 | [Financial logs](financials/) | Line by line details of income and spending. |
+| [Grin wallet transactions](financials/grin-wallet-txs.md) | Snapshot of the transaction log of the Grin donation wallet. |
 
 
 ## Meeting notes
