@@ -7,6 +7,8 @@ This document tracks decisions made by the Grin project and points to documentat
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+54 | 20200121 | No min rust version for the time being | [Meeting Note](notes/20200121-meeting-development.md#decision-no-min-rust-version)
+53 | 20200121 | `v3.0.0 < x < v4.0.0` release process  | [Meeting Note](notes/20200121-meeting-development.md#decision-release-process-until-400-hf3)
 52 | 20200114 | Approve @lehnberg Q12020 request for funding  | [Meeting Note](notes/20200114-meeting-governance.md#decision-approve-lehnberg-q12020-funding-request)
 51 | 20191217 | Move dev & governance meetings to keybase  | [Meeting Note](notes/20191217-meeting-governance.md#decision-switch-location-for-dev--governance-meetings)
 50 | 20191217 | Distribution of backup shares for grin.mw domain login  | [Meeting Note](notes/20191217-meeting-governance.md#decision-shares-to-the-grinmw-domain-login)
