@@ -7,6 +7,8 @@ This document tracks decisions made by the Grin project and points to documentat
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+56 | 20200128 | Rename sub-teams to teams | [Meeting Note](notes/20200128-meeting-governance.md#decision-rename-sub-teams-to-teams)
+55 | 20200128 | Do not approve book funding request | [Meeting Note](notes/20200128-meeting-governance.md#decision-do-not-approve-book-funding-request)
 54 | 20200121 | No min rust version for the time being | [Meeting Note](notes/20200121-meeting-development.md#decision-no-min-rust-version)
 53 | 20200121 | `v3.0.0 < x < v4.0.0` release process  | [Meeting Note](notes/20200121-meeting-development.md#decision-release-process-until-400-hf3)
 52 | 20200114 | Approve @lehnberg Q12020 request for funding  | [Meeting Note](notes/20200114-meeting-governance.md#decision-approve-lehnberg-q12020-funding-request)
