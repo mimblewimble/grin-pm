@@ -7,6 +7,7 @@ This document tracks decisions made by the Grin project and points to documentat
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+57 | 20200225 | Approve @jaspervdm funding request (Mar-May 2020) | [Meeting Note](notes/20200225-meeting-governance.md#decision-approve-jaspervdm-funding-request)
 56 | 20200128 | Rename sub-teams to teams | [Meeting Note](notes/20200128-meeting-governance.md#decision-rename-sub-teams-to-teams)
 55 | 20200128 | Do not approve book funding request | [Meeting Note](notes/20200128-meeting-governance.md#decision-do-not-approve-book-funding-request)
 54 | 20200121 | No min rust version for the time being | [Meeting Note](notes/20200121-meeting-development.md#decision-no-min-rust-version)
