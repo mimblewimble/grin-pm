@@ -21,8 +21,9 @@ A chronological list of decisions made by the Grin project, with references. Ava
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Mar 10 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/259)| | |
 Mar 03 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/256) | | |
-Feb 25 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/254)| | |
+Feb 25 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/254)| [Notes](notes/20200225-meeting-governance.md) | @jaspervdm funding request, general fund spending guidelines, adding repos to github org, review of open RFCs |
 Feb 18 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/251) | [Notes](notes/20200218-meeting-development.md) | v3.1.0 release for node, release schedule, croaring fails on CI |
 Feb 11 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/249)| [Notes](notes/20200211-meeting-governance.md) | Review of open RFCs |
 Feb 04 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/246) | [Notes](notes/20200204-meeting-development.md) | v3.1.0 planning, QA team & testing process |
