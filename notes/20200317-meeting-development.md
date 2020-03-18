@@ -1,4 +1,4 @@
-# Meeting Notes: Development, Mar 18 2020
+# Meeting Notes: Development, Mar 17 2020
 
 Development meeting held @ 3PM [UTC](http://www.timebie.com/std/utc.php) in [grincoin#dev channel on Keybase](https://keybase.io/team/grincoin). Meeting lasted ~ 60 min.
 
