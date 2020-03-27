@@ -23,7 +23,7 @@ Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
 Apr 07 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/270)| | |
 Mar 31 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/267) | | |
-Mar 24 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/265)| [Notes](notes/20200310-meeting-governance.md) | @lehnberg funding request, discourse costs,  fund volatility, proof of work, moderation team, review of open RFCs |
+Mar 24 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/265)| [Notes](notes/20200324-meeting-governance.md) | @lehnberg funding request, discourse costs,  fund volatility, proof of work, moderation team, review of open RFCs |
 Mar 17 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/261) | [Notes](notes/20200317-meeting-development.md) | v4.0.0 planning, Censorship resistance for tor txs, allow duplicate outputs |
 Mar 10 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/259)| [Notes](notes/20200310-meeting-governance.md) | grin.mw access and domain expiry, @yeastplume funding request, review of open RFCs |
 Mar 03 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/256) | [Notes](notes/20200303-meeting-development.md) | v4.0.0 planning, hard forks & upgrades after v5.0.0, sample project |
