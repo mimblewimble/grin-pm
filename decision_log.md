@@ -7,6 +7,7 @@ This document tracks decisions made by the Grin project and points to documentat
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+59 | 20200324 | Approve @lehnberg funding request (Q2 2020) | [Meeting Note](notes/20200324-meeting-governance.md#decision-approve-lehnberg-funding-request)
 58 | 20200310 | Approve @yeastplume funding request (Q2 2020) | [Meeting Note](notes/20200310-meeting-governance.md#decision-approve-yeastplume-funding-request)
 57 | 20200225 | Approve @jaspervdm funding request (Mar-May 2020) | [Meeting Note](notes/20200225-meeting-governance.md#decision-approve-jaspervdm-funding-request)
 56 | 20200128 | Rename sub-teams to teams | [Meeting Note](notes/20200128-meeting-governance.md#decision-rename-sub-teams-to-teams)
