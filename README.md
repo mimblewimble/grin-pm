@@ -21,8 +21,9 @@ A chronological list of decisions made by the Grin project, with references. Ava
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Apr 21 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/276)| | |
 Apr 14 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/273) | | |
-Apr 07 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/270)| | |
+Apr 07 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/270)| [Notes](notes/20200407-meeting-governance.md) | @antiochp funding request, @quentin paying discourse, review of open RFCs, scheduled hard forks |
 Mar 31 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/267) | [Notes](notes/20200331-meeting-development.md) | v4.0.0 scope freeze & planning, update on transaction slate RFCs and approaches. |
 Mar 24 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/265)| [Notes](notes/20200324-meeting-governance.md) | @lehnberg funding request, discourse costs,  fund volatility, proof of work, moderation team, review of open RFCs |
 Mar 17 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/261) | [Notes](notes/20200317-meeting-development.md) | v4.0.0 planning, Censorship resistance for tor txs, allow duplicate outputs |
