@@ -4,7 +4,7 @@ This is a snapshot of the `grin-wallet txs` command for `https://council-donatio
 
 Discrepancies between this log and the [income log](income_log.csv) and [spending log](spending_log.csv) can be corrected via pull requests.
 
-**Last update:** Mar 09 2020
+**Last update:** Apr 06 2020
 
 ## Command output
 ```
