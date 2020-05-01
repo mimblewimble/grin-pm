@@ -22,8 +22,9 @@ A chronological list of decisions made by the Grin project, with references. Ava
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+May 12 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/288) | | |
 May 05 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/285)| | |
-Apr 28 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/281) | | |
+Apr 28 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/281) | [Notes](notes/20200428-meeting-development.md) | v4.0.0 status, http(s) deprecation discussion, PayJoin priority |
 Apr 21 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/276)| [Notes](notes/20200421-meeting-governance.md) | New keybase structure, review of open RFCs |
 Apr 14 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/273) | [Notes](notes/20200414-meeting-development.md) | v4.0.0 status, soft forks, post v5.0.0 network upgrades |
 Apr 07 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/270)| [Notes](notes/20200407-meeting-governance.md) | @antiochp funding request, @quentin paying discourse, review of open RFCs, scheduled hard forks |
