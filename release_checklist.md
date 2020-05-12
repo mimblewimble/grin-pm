@@ -17,7 +17,7 @@ Replace in every `Cargo.toml` files the version with the correct version.
 
 ```toml
 [package]
-....
+...
 version = "X.X.X"
 ```
 
@@ -44,7 +44,7 @@ Replace in every `Cargo.toml` files the version with the correct version.
 
 ```toml
 [package]
-....
+...
 version = "X.X.X"
 ```
 
