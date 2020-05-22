@@ -22,8 +22,9 @@ A chronological list of decisions made by the Grin project, with references. Ava
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Jun 02 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/297)| | |
 May 26 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/293) | | |
-May 19 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/290)| | |
+May 19 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/290)| [Notes](notes/20200519-meeting-governance.md) | Review of open RFCs |
 May 12 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/288) | [Notes](notes/20200512-meeting-development.md) | Slatepack, http(s) deprecation decision, v4.0.0 status, release checklist |
 May 05 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/285)| [Notes](notes/20200505-meeting-governance.md) | GUI wallets, http(s) deprecation, review of open RFCs |
 Apr 28 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/281) | [Notes](notes/20200428-meeting-development.md) | v4.0.0 status, http(s) deprecation discussion, PayJoin priority |
