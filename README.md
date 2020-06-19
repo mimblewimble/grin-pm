@@ -22,8 +22,9 @@ A chronological list of decisions made by the Grin project, with references. Ava
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Jun 30 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/306)| | |
 Jun 23 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/304) | | |
-Jun 16 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/302)| | |
+Jun 16 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/302)| [Notes](notes/20200616-meeting-governance.md) | Review of open RFCs, Post 4.0.0 planning |
 Jun 09 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/299) | [Notes](notes/20200609-meeting-development.md) | v4.0.0 status, replay attacks / kernel uniqueness |
 Jun 02 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/297)| [Notes](notes/20200602-meeting-governance.md) | jaspervdm update, review of open RFCs, 4.0.0 beta |
 May 26 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/293) | [Notes](notes/20200526-meeting-development.md) | v4.0.0 status, floonet HF3 date, kernel types, kernel uniqueness |
