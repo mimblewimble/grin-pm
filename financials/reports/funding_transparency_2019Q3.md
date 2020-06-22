@@ -23,7 +23,7 @@ BTC | 76.63672687 | 10,817.16 | $828,991.74 | 3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs
 
 ### Inaccessible funds
 
-Due to [Ignotus absence](https://www.grin-forum.org/t/on-ignos-absence/5301) as first reported in the [2019Q2 report](funding_transparency_2019Q2.md), the project has lost access to GRIN, ETH, and ZEC wallet addresses, which contained the following balances:
+Due to [Ignotus absence](https://forum.grin.mw/t/on-ignos-absence/5301) as first reported in the [2019Q2 report](funding_transparency_2019Q2.md), the project has lost access to GRIN, ETH, and ZEC wallet addresses, which contained the following balances:
 
 Currency | Amount | Wallet address(es)
 |---|---:|---|

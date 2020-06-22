@@ -65,7 +65,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 
 * _tromp:_ We have a detailed cuckaroo spec now, codified in cuckaroo branch, with a working simple miner and Igno having coded corresponding rust verifier. I'm still working on mean cuda miner. It compiles but produces the wrong results in trim somewhere. Investigating.
 
-#### 4.2 [AF Cuckatoo32 feasibility](https://www.grin-forum.org/t/cuckatoo32-feasibility)
+#### 4.2 [AF Cuckatoo32 feasibility](https://forum.grin.mw/t/cuckatoo32-feasibility)
 * _tromp:_ Asked in the post about possibly relaxing memory requirements. I received no feedback reassuring me that cuckatoo32 is easily handled by ASICs. One mfg that wants to make ASICs expressed strong preference for starting with cuckatoo31, so that they can run in under 1s. The risk of a single chip ASICs for cuckatoo31 is small, as they would need at least 320 MB SRAM, with already a 4x overhead for extra passes. The Z9 for example has 144 MB SRAM/chip. Cuckatoo31 would also make it easier for GPU miners to mine the AF-friendly POW in the case there is absence of ASICs. So in all, I think we should relax the AF POW from Cuckatoo32 to Cuckatoo31, whilst keeping the linear increase schedule:
    * Cuckatoo31 is phased out after 1 year;
    * Cuckatoo32 is phased out after 2 years; etc.
@@ -88,7 +88,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 * It's a perfect segue into [grincon(0)<US>](https://grincon.us) date of Jan 28;
 
 #### 5.2 Genesis block release process
-* Related [forum post](https://www.grin-forum.org/t/genesis-block-message/250).
+* Related [forum post](https://forum.grin.mw/t/genesis-block-message/250).
 * A couple of possible constraints discussed:
    1. Include some message
    1. Include the hash of a bitcoin block, proving the block wasn't pre-mined
@@ -136,7 +136,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 
 * Content can only be better than what we have now, and can be improved incrementally.
 
-### 10. [Website design](https://www.grin-forum.org/t/help-me-design-and-add-content-to-our-site/1035/)
+### 10. [Website design](https://forum.grin.mw/t/help-me-design-and-add-content-to-our-site/1035/)
 
 * Decision to move forward with one of JollyGrin's (GrinNinja) designs (details to be ironed out in the [grin/design](https://gitter.im/grin_community/design) channel) for the website, as long as it's compatible with jekyll (or similar static site generator).
 

@@ -27,7 +27,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 #### 2.1 Status of misc. /site improvements
 
 * _quentinlesceller:_ I'm waiting for the redesign to be done to tackle the wallet binaries downloading flow.
-* _nijynot:_ https://www.grin-forum.org/t/grin-website-redesign/5533, I'm a bit split on how much cypherpunk to go on the design. 
+* _nijynot:_ https://forum.grin.mw/t/grin-website-redesign/5533, I'm a bit split on how much cypherpunk to go on the design. 
    * _lehnberg:_ I would like to second grin.ninja’s comment in the forum thread:
       > This is so awesome, I really like the thought you put into expressing the cypherpunk vibe back into the website.
 

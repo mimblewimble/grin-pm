@@ -24,7 +24,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 * _ignopeverell:_ Focus of last couple of weeks has mostly been around peer connectivity code, for some improvements and refactoring, sync, block header massaging and the dual PoW to get all of that ready for T4, which now is pretty much ready, plus or minus a couple minor things some further testing and fixing. @tromp has finished the mean miner on Cuckatoo as well and @yeastplume integrated all that so we're ready for mining on T4 as well.
 
 ### 1. Agenda review
-[Proposed agenda](https://www.grin-forum.org/t/agenda-development-oct-16-2018/917) accepted.
+[Proposed agenda](https://forum.grin.mw/t/agenda-development-oct-16-2018/917) accepted.
 
 ### 2. Testnet 4 
 * A couple of things to iron out before T4 release:
@@ -39,7 +39,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 ### 3. [Security & Code audits](https://github.com/mimblewimble/grin/issues/1609)
 Nothing to discuss.
 
-### 4. [BetterHash mining protocol](https://www.grin-forum.org/t/betterhash-mining-protocol/913)
+### 4. [BetterHash mining protocol](https://forum.grin.mw/t/betterhash-mining-protocol/913)
 * BIP: https://github.com/TheBlueMatt/bips/blob/betterhash/bip-XXXX.mediawiki
 * Been raised a few times, but no one has cared enough to work on it.
 * If anyone cares enough it wouldn't be a bad thing to have, mostly compatible with stratum

@@ -62,7 +62,7 @@ Bottom line is we're more or less ready.
    * Let’s target the next governance meeting to try to settle the general direction. Keeping in mind that we’ll mostly have to agree on what we all do not at least disagree about.
    * I will communicate the process to the forum thread.
 
-### 7. [Website design](https://www.grin-forum.org/t/help-me-design-and-add-content-to-our-site/1035/)
+### 7. [Website design](https://forum.grin.mw/t/help-me-design-and-add-content-to-our-site/1035/)
 
 * Decision to move forward with JollyGrin's (GrinNinja) white design, convert to Jekyll, and release. 
 * And then PRs will be accepted for improvements.

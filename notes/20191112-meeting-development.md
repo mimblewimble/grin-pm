@@ -21,7 +21,7 @@ _(apologies if I missed someone - submit a PR or contact @lehnberg to add)_
 
 ### 1. Retrospective
 
-* _quentinlesceller:_ Covering for @yeastplume who's away for most of the meeting. First of all before we start a big thank you again to the very generous anonymous donor [for the 50 btc donation](https://www.grin-forum.org/t/donation-to-the-grin-general-fund-nov-11/6446/). This is an amazing encouragement for all of us here. As for this past two weeks, @yeastplume has been working on the new restore function at a certain block height which could significantly speed up the process. There have been improvements on the grin node side logic thanks to @antiochp. And finally we have a Ubuntu snap available for grin thanks to @josephgoulden. Let me know if I am missing something. Again seems like everyone is focusing on a stable 3.0.0 build and grincon1 next week. RSVP here https://grincon.org if not already the case :)
+* _quentinlesceller:_ Covering for @yeastplume who's away for most of the meeting. First of all before we start a big thank you again to the very generous anonymous donor [for the 50 btc donation](https://forum.grin.mw/t/donation-to-the-grin-general-fund-nov-11/6446/). This is an amazing encouragement for all of us here. As for this past two weeks, @yeastplume has been working on the new restore function at a certain block height which could significantly speed up the process. There have been improvements on the grin node side logic thanks to @antiochp. And finally we have a Ubuntu snap available for grin thanks to @josephgoulden. Let me know if I am missing something. Again seems like everyone is focusing on a stable 3.0.0 build and grincon1 next week. RSVP here https://grincon.org if not already the case :)
 
 ### 2. Agenda review
 
@@ -48,7 +48,7 @@ _The meeting reviewed tickets, and added a "status" field to the table in the pl
 
 #### 4.2 Timelines ahead of v3.0.0 release
 
-* _lehnberg:_ So there's our [information post about the upgrade](https://www.grin-forum.org/t/grin-v3-0-0-hard-fork-upgrade-jan-2020/6036). I think we said in last weeks' gov meeting that we would try to nail down the dates more explicitly in this meeting.
+* _lehnberg:_ So there's our [information post about the upgrade](https://forum.grin.mw/t/grin-v3-0-0-hard-fork-upgrade-jan-2020/6036). I think we said in last weeks' gov meeting that we would try to nail down the dates more explicitly in this meeting.
 
 _Following discussion, the meeting resolved to establishing the following schedule:_
 

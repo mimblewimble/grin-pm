@@ -31,7 +31,7 @@ _(apologies if I missed someone - submit a PR or contact @lehnberg to add)_
 
 #### 3.1 v3.0.0 changes doc
 
-* _yeastplume:_ Actioned: https://www.grin-forum.org/t/grin-grin-wallet-3-0-0-released/6853
+* _yeastplume:_ Actioned: https://forum.grin.mw/t/grin-grin-wallet-3-0-0-released/6853
 
 
 #### 3.2 v3.0.0 comms to ecosystem?

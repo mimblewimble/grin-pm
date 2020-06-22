@@ -26,9 +26,9 @@ _(apologies if I missed someone - submit a PR or contact @lehnberg to add)_
 
 ### 1. Retrospective
 
-_yeastplume:_  So, most importantly, 1.1.0 was released. If for some reason you've missed this, update notes are at https://www.grin-forum.org/t/upgrade-information-grin-v1-1-0/5147.
+_yeastplume:_  So, most importantly, 1.1.0 was released. If for some reason you've missed this, update notes are at https://forum.grin.mw/t/upgrade-information-grin-v1-1-0/5147.
 
-The other major news at this point was a collective decision on the contents and timing of the upcoming 2.0.0 fork, perhaps even more important that everyone with an interest in Grin familiarize themselves with every action they may need to take and when: https://www.grin-forum.org/t/grin-first-hard-fork-mid-july/5148
+The other major news at this point was a collective decision on the contents and timing of the upcoming 2.0.0 fork, perhaps even more important that everyone with an interest in Grin familiarize themselves with every action they may need to take and when: https://forum.grin.mw/t/grin-first-hard-fork-mid-july/5148
 
 We've decided that only HF critical work will go into the 2.0.0 release, so work is ongoing on that, with other non-crucial pieces deferred until after the HF. We want to keep the number of moving parts to a minimum to try to ensure as smooth a 2.0.0 release as possible.
 
@@ -42,7 +42,7 @@ Antioch has been on fire, in particular making Dandelion++ enhancements. Hopeful
 
 #### 3.1 v1.1.0 communication
 
-_lehnberg:_ [Actioned](https://www.grin-forum.org/t/upgrade-information-grin-v1-1-0/5147).
+_lehnberg:_ [Actioned](https://forum.grin.mw/t/upgrade-information-grin-v1-1-0/5147).
 
 #### 3.2 Documentation of git branching model
 
@@ -92,7 +92,7 @@ _yeastplume:_ I've not gotten to it yet.
 - _jaspervdm:_ Re bulletproof rewind: grin PR will go out of draft today, wallet tomorrow probably. They should be reviewed and tested together, although they rely on tromps PR to behave as expected, for the chain dependent header version height.
    - _yeastplume:_ Okay sure, I will review them over the next 24 hours then, I guess we need to get tromp's PR reviewed and integrated ASAP as well.
 - _quentinlesceller:_ Floonet HF is in 10.5 days.
-   - _lehnberg:_ Indeed, and according to our [timeline](https://www.grin-forum.org/t/grin-first-hard-fork-mid-july/5148) we have beta binaries ready for release in 6 days. Beta would assume all PRs have been merged by then? How realistic is that?
+   - _lehnberg:_ Indeed, and according to our [timeline](https://forum.grin.mw/t/grin-first-hard-fork-mid-july/5148) we have beta binaries ready for release in 6 days. Beta would assume all PRs have been merged by then? How realistic is that?
    - _quentinlesceller:_ If we review and merge BP change and Tromp PoW that'd be good no?
    - _yeastplume:_ Plus one or two others, but I should have them by end of this week, so I think overall we should be okay.
    - _jaspervdm:_ Yep that is definitely doable.

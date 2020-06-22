@@ -39,7 +39,7 @@ _(apologies if I missed someone - submit a PR or contact @lehnberg to add)_
 ### 4. Proof of Work
 * _tromp:_ I was distracted last week by chasing some other bugs in my solvers, and implementing other requested features. so didn't make much progress on cuckaroo mean cpu. There's still a failing cargo test on the mean cuckatoo miner that's hard to reproduce in isolation.
 * _hashmap:_ OpenCL Cuckatoo is coming now that rust 2018 is out of the way.
-* _antioch:_Daira from Z-cash [posted on the forum regarding Dual POW](https://www.grin-forum.org/t/how-would-block-rewards-work-with-2-mining-algorithms/864/5).
+* _antioch:_Daira from Z-cash [posted on the forum regarding Dual POW](https://forum.grin.mw/t/how-would-block-rewards-work-with-2-mining-algorithms/864/5).
    * _tromp:_ There's nothing we can improve on our setup from that discussion (yet).
 
 ### 5. Mainnet planning

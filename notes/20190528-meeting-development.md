@@ -51,7 +51,7 @@ _quentinlesceller:_ grin, grin-wallet, grin-miner, and rust-secp256k1-zkp are al
 
 #### 3.4 v2.0.0 CuckARoo tweak proposal
 
-_tromp:_ Write-up for Cuckarood29 is on forum: https://www.grin-forum.org/t/mid-july-pow-hardfork-cuckaroo29-cuckarood29. Will start working on a verifier soon. Meanwhile miner writers can start adding cuckarood support using my repo as reference.
+_tromp:_ Write-up for Cuckarood29 is on forum: https://forum.grin.mw/t/mid-july-pow-hardfork-cuckaroo29-cuckarood29. Will start working on a verifier soon. Meanwhile miner writers can start adding cuckarood support using my repo as reference.
 
 #### 3.5 [Bulletproof proposal](https://github.com/mimblewimble/grin-wallet/issues/105)
 

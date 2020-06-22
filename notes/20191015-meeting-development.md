@@ -20,7 +20,7 @@ _(apologies if I missed someone - submit a PR or contact @lehnberg to add)_
 
 ### 1. Retrospective
 
-* _yeastplume:_  Most major thing over the last couple of weeks is beta 2.1.0 was 'officially' released, (with another beta for the wallet soon after to fix a compatibility issue). Beyond that, @quentinlesceller's been working on the [V2 Node API](https://github.com/mimblewimble/grin-rfcs/pull/28) (bringing it inline with how the wallet is doing things. Also @JosephGoulden has come into the effort to make some much-needed [TUI improvements](https://github.com/mimblewimble/grin/pull/3064). @antiochp has also been at work bug fixing, particularly an issue found with [hydration of compact blocks](https://github.com/mimblewimble/grin/pull/3089). And I've been completing TOR work, which is ready for testing in the wild: https://www.grin-forum.org/t/grin-wallet-experimental-tor-integration/6233/5
+* _yeastplume:_  Most major thing over the last couple of weeks is beta 2.1.0 was 'officially' released, (with another beta for the wallet soon after to fix a compatibility issue). Beyond that, @quentinlesceller's been working on the [V2 Node API](https://github.com/mimblewimble/grin-rfcs/pull/28) (bringing it inline with how the wallet is doing things. Also @JosephGoulden has come into the effort to make some much-needed [TUI improvements](https://github.com/mimblewimble/grin/pull/3064). @antiochp has also been at work bug fixing, particularly an issue found with [hydration of compact blocks](https://github.com/mimblewimble/grin/pull/3089). And I've been completing TOR work, which is ready for testing in the wild: https://forum.grin.mw/t/grin-wallet-experimental-tor-integration/6233/5
 
 ### 2. Agenda review
 
@@ -40,7 +40,7 @@ _(apologies if I missed someone - submit a PR or contact @lehnberg to add)_
 
 ### 5. Status of open RFCs
 
-* _yeastplume:_ Nothing has changed from last week, but I think we're in a position where we can start moving https://www.grin-forum.org/t/grin-wallet-experimental-tor-integration/6233/5 toward acceptance, perhaps after a revision or two. Revision mostly to solidify some necessary implementation details, make the problem cases a bit more explicit, and perhaps make it clearer that this shouldn't cut off any future tech developments that may suit our needs. I can shepherd that one unless anyone has any objections.
+* _yeastplume:_ Nothing has changed from last week, but I think we're in a position where we can start moving https://forum.grin.mw/t/grin-wallet-experimental-tor-integration/6233/5 toward acceptance, perhaps after a revision or two. Revision mostly to solidify some necessary implementation details, make the problem cases a bit more explicit, and perhaps make it clearer that this shouldn't cut off any future tech developments that may suit our needs. I can shepherd that one unless anyone has any objections.
    * _lehnberg:_ It might be good to clarify what’s in the integration that just got merged and how that should instruct the RFC.
    * _yeastplume:_ Yes, particularly around how keys/v3 addresses are derived. Also its behaviour, that it's attempting to use tor in the first instance for sending and only falling back to http if needed. And also making sure we document any problems and highlight the use cases that tor won't cover.
    * _j01tz:_ I think the RFC would be the specification and the documentation would be more to describe the implementation.

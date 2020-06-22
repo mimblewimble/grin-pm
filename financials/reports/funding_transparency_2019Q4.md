@@ -47,7 +47,7 @@ BTC | 0.88093929 |
 * In addition to the above, the core team moved all BTC funds into new mu-sig wallet addresses, and there are consolidation transactions that occured as part of this. See the relevant pull requests for more details: 
    * https://github.com/mimblewimble/grin-pm/pull/217
    * https://github.com/mimblewimble/grin-pm/pull/222 
-* Majority of BTC received in the period (~50) stemmed from another [coinbase donation from an anonymous source](https://www.grin-forum.org/t/donation-to-the-grin-general-fund-nov-11/6446).
+* Majority of BTC received in the period (~50) stemmed from another [coinbase donation from an anonymous source](https://forum.grin.mw/t/donation-to-the-grin-general-fund-nov-11/6446).
 * In addition, QTUM donated the equivalent of $15,000 in BTC to be headline sponsor of grincon1.
 * Majority of GRIN received in the period (4100) stemmed from Sparkpool sponsorship of grincon1.
 * All BTC spend in the period (~0.88) went to a [donation to Lehnberg for their work on the project](../../notes/20191008-meeting-governance.md#7-decision-approve-lehnberg-request-for-funding).

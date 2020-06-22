@@ -55,14 +55,14 @@ Rather than having a multi-sig ETH wallet, @ignopeverell will keep a regular wal
 * _kargakis:_ Will the report be published once the audit has concluded?
    * _ignopeverell:_ Yes, we may however need some added time in between receipt and publication to ensure everything that needs to be addressed is addressed before publishing.
  
-### 4. [Security vulnerability process review](https://www.grin-forum.org/t/please-help-evaluate-grins-security-process/4537)
+### 4. [Security vulnerability process review](https://forum.grin.mw/t/please-help-evaluate-grins-security-process/4537)
 
 * _lehnberg:_ Forum post created, but not much engagement yet unfortunately. What's the process for how to move forward?
 * _ignopeverell:_ I see it as an iterative process, if there is good feedback we can integrate it and improve the process accordingly, otherwise keep the process unchanged.
 
-### 5. Proof of Work: [AT Phase Out thread](https://www.grin-forum.org/t/obelisk-grn1-chip-details/4571)
+### 5. Proof of Work: [AT Phase Out thread](https://forum.grin.mw/t/obelisk-grn1-chip-details/4571)
 
-* _tromp:_ A [forum thread was created](https://www.grin-forum.org/t/obelisk-grn1-chip-details/4571) with new information on ASIC chip performance.
+* _tromp:_ A [forum thread was created](https://forum.grin.mw/t/obelisk-grn1-chip-details/4571) with new information on ASIC chip performance.
    *  The announcement of single chip ASICs for C31 has undermined our phase out schedule, which looks like it won't be able to serve its original intended purpose of thwarting single chip ASICs in the foreseeable future.
       *  _ignopeverell:_ I'm not convinced about the "undermined" part.
       *  _hashmap:_ +1
@@ -87,7 +87,7 @@ so a pow that wants to enforce a memory io bottleneck needs a correspondingly gr
    * _lehnberg:_ So **only phase out of AT32 (commencing ~ Jan 15 2021)** would be at play for a **potential** change, **but something we would decide on later**. And I suppose by us discussing this right now, we’re signaling a *relatively* open mind for this, so any ASIC mfg planning their 2021 activities today should take *some* measure of note here that this *could* change?
       * _ignopeverell:_ **We definitely remain committed to our plan to phase out AT31**. As @tromp mentioned, there is still time to reconsider the phase out after that. 
 * _antiochp:_ We had stated that we reserved the right to modify future plans with sufficient warning, I think?
-   * _lehnberg:_ Yes, that's right, as part of [our previous commitment](https://www.grin-forum.org/t/cuckatoo31-im-mutability/2442) it reads:
+   * _lehnberg:_ Yes, that's right, as part of [our previous commitment](https://forum.grin.mw/t/cuckatoo31-im-mutability/2442) it reads:
       > The Grin developers currently have no intention of changing these rules in the foreseeable future, unless Cuckatoo is shown to be broken (e.g. by exhibiting a sublinear time-memory tradeoff), or unless the phasing out of smaller sizes should be delayed in order to ensure public availability of >= 1 GPS miners.
    * _tromp:_ Yes, and I would like to make "foreseeable future" a bit better defined here, by explicitly stating that to be `18 months`, ie that any change would be announced 18 months ahead of time. We can request feedback from ASIC mfgs about whether 18 months is a good enough timeline for them to be able to adapt to changes as is necessary.
       * _lehnberg:_ An `X` month commitment (bar any force majeure / pow is broken events) sounds like something very good to have. 

@@ -5,10 +5,10 @@ income_id,date,type,source,currency,amount,exchange_rate,USD_equivalent,to_addre
 4,20190304,donation,Grinmint by BlockCypher,USD,3600,1,3600,Discourse,-,BlockCypher financing last 6 months and next 2 years (so 30 months) of Discourse subscription (120 USD/month),
 5,20190301,donation,Grin-pool.org,GRIN,17.087656585,3.27,55.88,https://donations.grin-tech.org,-,Mining pool february donation,https://hendi.io/february-2019-our-first-donation-to-grin/
 6,20190308,donation,Bminer,BTC,3.2336,4017.3,12990.34,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,ce86a17cfa256efc9a72190aee223ec75a38e03fc86ba2858c7c2d10d6dddfc3,Shared miner dev fees,
-8,20181220,donation,Aurel,BTC,6.1169,4134.44,25289.96,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,85251acf39fb801d04bd285ce91c115b875edc29a36103975212043f5e5ff2c4,Security audit funding campaign,https://www.grin-forum.org/t/security-audit-funding-campaign/962
+8,20181220,donation,Aurel,BTC,6.1169,4134.44,25289.96,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,85251acf39fb801d04bd285ce91c115b875edc29a36103975212043f5e5ff2c4,Security audit funding campaign,https://forum.grin.mw/t/security-audit-funding-campaign/962
 14,20190314,donation,GGM,GRIN,630.965700337,2.70,1703.61,https://donations.grin-tech.org,a1ef9ba5-4fd8-4ffb-bcde-19c26e21b366,Dev miner fee on Grinmint grincouncil account (mostly or only GGM),
 15,20190313,donation,Daisuke Shosaki,BTC,0.03939,3906.72,153.89,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,fcc646fa3d97af9d80dbecf5812d023c2edfd31b99f9cf592076554b7ac01496,Japanese Grin supporter,
-16,20190330,donation,Liu Jie,GRIN,500,3.24,1620,https://donations.grin-tech.org,-,Donation as part of the prize of Grin Chinese Naming event,https://www.grin-forum.org/t/give-grin-a-chinese-name-grin/4376/105
+16,20190330,donation,Liu Jie,GRIN,500,3.24,1620,https://donations.grin-tech.org,-,Donation as part of the prize of Grin Chinese Naming event,https://forum.grin.mw/t/give-grin-a-chinese-name-grin/4376/105
 17,20190128,donation,Bminer,BTC,4.41,3470.45,15304.68,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,8b931ad0553b0e05ca8f52dd7c15ba53ed2374638686a152a94047ed7cb868f0,Shared miner dev fees,
 18,20190402,donation,grin-pool.org,GRIN,12.65,3.50,44.275,https://donations.grin-tech.org,-,Mining pool March donation,
 19,20190403,donation,2Miners,BTC,0.2015,4973.02,1002.06,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,f9916cf348deb24f7223ccb832d4ef9f55784c7d1b34431030381cb6dc7ef23c,Donation for inclusion in Friends of Grin,
@@ -162,7 +162,7 @@ income_id,date,type,source,currency,amount,exchange_rate,USD_equivalent,to_addre
 167,20191016,donation,Poloniex,BTC,0.10997,8047.53,884.99,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,487d89d4d6c73ba7c708cce3ff18e936f6ddf0065543462cc644c8ee8ba9c1e0,Monthly donation to general fund #8,https://twitter.com/Poloniex/status/1184534975581949953
 168,20191105,donation,GGM,GRIN,403.816226121,1.21,488.62,https://council-donations.yeastplume.org,7778278c-4f6b-4291-9a96-18eb6cfdb965,Dev miner fee on Grinmint grincouncil account (mostly or only GGM),
 169,20191106,sponsorship,Sparkpool,GRIN,4100,1.25,5125,https://council-donations.yeastplume.org,63cc6e45-ae56-4f7a-8e5f-f69bcf62cefb,Gold sponsor grincon1,
-170,20191111,donation,Anonymous II,BTC,49.999223,8757.79,437882.70,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,0810b1644cea890aad01564de5e4518ebcddb4c84df0c93223f050d580edee45,Donation,https://www.grin-forum.org/t/donation-to-the-grin-general-fund-nov-11/6446
+170,20191111,donation,Anonymous II,BTC,49.999223,8757.79,437882.70,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,0810b1644cea890aad01564de5e4518ebcddb4c84df0c93223f050d580edee45,Donation,https://forum.grin.mw/t/donation-to-the-grin-general-fund-nov-11/6446
 171,20191113,donation,unknown,BTC,0.01001688,8808.26,88.23,3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs,0e785b789b460aaa9bcac7de41345af1f9ac3588fbacee08c01b0c3fcdc50456,,
 172,20191125,consolidation,N/A,BTC,124.02369383,8808.26,1092432.94,bc1qecw954uappnwhle6tmafqskn6vxmpr6lmmuwfwldphfxplcshgnssy9kmx,9d2de1fb1bf01f2b2c850d094b0463837708d03d879fceb076248f2d38ef658e,Consolidation as part of moving mu-sig wallets (done over several transfers),https://github.com/mimblewimble/grin-pm/pull/217
 173,20191119,sponsorship,Qtum,BTC,1.875,8206.15,15386.53,39hgKkhfPFpwKRQ6yARGwU2uuVay69NKu4,cbdcbf45b10075d1f4d15fcdb5ba780f4e5b02af565165cf8f620a907832af41,Grin sponsor grincon1,

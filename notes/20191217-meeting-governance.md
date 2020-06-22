@@ -31,7 +31,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 
 ### 3. Yeastplume funding request
 
-* _lehnberg:_ Request for funding link [here](https://www.grin-forum.org/t/request-for-funding-yeastplume-jan-mar-2020). Proposal is to support yeast with 3 x EUR 10,000 for Q12020. Floor is open for people to discuss. Does anyone have any questions or comments to yeastplume? Or about the request?
+* _lehnberg:_ Request for funding link [here](https://forum.grin.mw/t/request-for-funding-yeastplume-jan-mar-2020). Proposal is to support yeast with 3 x EUR 10,000 for Q12020. Floor is open for people to discuss. Does anyone have any questions or comments to yeastplume? Or about the request?
    * _antiochp:_ none here
    * _quentinlesceller:_ me neither
    * _lehnberg:_  Yeah you lot probably wouldn’t have that many questions but maybe there are some lurkers that want to query/challenge this a bit. Or give a show of support for the (humble) yeast.

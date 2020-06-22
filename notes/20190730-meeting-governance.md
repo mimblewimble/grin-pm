@@ -28,7 +28,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 
 #### 2.1 Status of misc. /site improvements
 
-* _lehnberg:_ Any progress on the [site redesign](https://www.grin-forum.org/t/grin-website-redesign/5533) front?
+* _lehnberg:_ Any progress on the [site redesign](https://forum.grin.mw/t/grin-website-redesign/5533) front?
    * _lehnberg:_ 
 
 #### 2.2 Funding transparency report II

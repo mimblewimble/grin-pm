@@ -65,13 +65,13 @@ Covered as part of section 2.1 above.
 
 #### 4.1 Audit
 
-* _j01tz:_  Glad [the report is finally released](https://www.grin-forum.org/t/grin-security-audit-2-results/6264), thanks to everyone for helping :)
+* _j01tz:_  Glad [the report is finally released](https://forum.grin.mw/t/grin-security-audit-2-results/6264), thanks to everyone for helping :)
 
 ### 5. grincon1
 
 * _lehnberg:_ We have:
    * Venue secured
-   * [Call for speakers](https://www.grin-forum.org/t/grincon1-call-for-presenters/6250/) announced, submissions closes Oct 30, we’ve received 1 application so far. Eight days left to nail down a speaker schedule - if anyone here wants to give a talk, apply now.
+   * [Call for speakers](https://forum.grin.mw/t/grincon1-call-for-presenters/6250/) announced, submissions closes Oct 30, we’ve received 1 application so far. Eight days left to nail down a speaker schedule - if anyone here wants to give a talk, apply now.
    * Very ugly website up https://grincon.org
    * An anonymous donor that might be willing to cover part of the bar tab
    * Registration to the event is now [open](https://www.meetup.com/MimbleWimble-Grin-Berlin/events/265833204/).

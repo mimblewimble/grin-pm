@@ -50,7 +50,7 @@ _The meeting reviewed and refreshed statues of individual items._
 
 * _yeastplume:_ [9 (File locks for wallet)](https://github.com/mimblewimble/grin-wallet/issues/148) won't be happening just now, it was something I thought might be needed but won't be for the time being, so let's remove that from scope.
 
-* _lehnberg:_ Looking at [our schedule](https://www.grin-forum.org/t/grin-v3-0-0-hard-fork-upgrade-jan-2020/6036), we should be releasing beta binaries in 6 days (Tuesday next week. Is that realistic?
+* _lehnberg:_ Looking at [our schedule](https://forum.grin.mw/t/grin-v3-0-0-hard-fork-upgrade-jan-2020/6036), we should be releasing beta binaries in 6 days (Tuesday next week. Is that realistic?
    * _yeastplume:_ Let's say Thursday next week instead? 
 
 * _lehnberg:_ On Sunday this week, Dec 1, we're also meant to:

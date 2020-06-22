@@ -58,7 +58,7 @@ None needed.
 * [ ] @hashmap to provide thoughts on libp2p and crust in issue
 
 ### 5. POW
-* _tromp_: Casey rodarmor had some [good criticism of cuckatoo on forum](https://www.grin-forum.org/t/scheduled-pow-upgrades-proposal/820/30)
+* _tromp_: Casey rodarmor had some [good criticism of cuckatoo on forum](https://forum.grin.mw/t/scheduled-pow-upgrades-proposal/820/30)
 
 
 ### 6. Other questions

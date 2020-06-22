@@ -30,14 +30,14 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 
 ### 2. Action point follow ups from previous meetings
 
-#### 2.1 [Site redesign](https://www.grin-forum.org/t/grin-website-redesign/5533)
+#### 2.1 [Site redesign](https://forum.grin.mw/t/grin-website-redesign/5533)
 
 * _nijynot:_ Part of the site is done, try it out [here](https://nijynot.github.io/site). Some things are still missing, e.g. mobile menu. Not too far from going live, I think.
    * _lehnberg:_ Very nice - I’d be in favour of shipping asap, whatever is broken can be fixed on the fly. So yeah whenever you’re ready!
 
 #### 2.2 Security RFC
 
-* _lehnberg:_  It’s now moving again, and we even have a security repo: https://www.grin-forum.org/t/announcing-the-grin-security-repo/6105. @j01tz has been [working on the repo](https://github.com/mimblewimble/grin-security/pull/1) and I think action is now on me and @hashmap to sign keys and canaries etc.
+* _lehnberg:_  It’s now moving again, and we even have a security repo: https://forum.grin.mw/t/announcing-the-grin-security-repo/6105. @j01tz has been [working on the repo](https://github.com/mimblewimble/grin-security/pull/1) and I think action is now on me and @hashmap to sign keys and canaries etc.
 
 #### 2.3 Moderation team new approach
 
@@ -66,7 +66,7 @@ _No objections, with explicit support from antioch, quentinlesceller, yeastplume
 
 ### 4. Grincon1
 
-* _lehnberg:_ First of all you can now be a part of planning this community gathering, by following the steps [here](https://www.grin-forum.org/t/announcing-the-grin-community-subteam-help-organise-grincon1/6080). There’s been some discussion already, feel free to join in. Current proposal, which I think pretty much is now accepted, is to pursue `Nov 22 2019` for the event, location `berlin` venue `c-base` (same as last). If anyone objects to this, it’s good to raise it asap in the channel on the subteam (or here, right now).
+* _lehnberg:_ First of all you can now be a part of planning this community gathering, by following the steps [here](https://forum.grin.mw/t/announcing-the-grin-community-subteam-help-organise-grincon1/6080). There’s been some discussion already, feel free to join in. Current proposal, which I think pretty much is now accepted, is to pursue `Nov 22 2019` for the event, location `berlin` venue `c-base` (same as last). If anyone objects to this, it’s good to raise it asap in the channel on the subteam (or here, right now).
 
 ### 5. RFC & Sub-teams update
 
@@ -76,7 +76,7 @@ _No objections, with explicit support from antioch, quentinlesceller, yeastplume
  
 #### 5.2 Sub-teams
 
-* _lehnberg:_ In addition to the community sub-team referred to in the grincon1 discussion above, there's also been a `fundraising` subteam announced: https://www.grin-forum.org/t/announcing-the-fundraising-subteam/. If you’d like to work on helping to make grin’s progress sustainable over the longer term, please join Nass there.
+* _lehnberg:_ In addition to the community sub-team referred to in the grincon1 discussion above, there's also been a `fundraising` subteam announced: https://forum.grin.mw/t/announcing-the-fundraising-subteam/. If you’d like to work on helping to make grin’s progress sustainable over the longer term, please join Nass there.
 * _lehnberg:_ Last meeting we talked about the `moderation` subteam.
 Since then, lavalulu, admin of the discord group, has agreed to take on the lead to set this up, and is working on that. When an announcement it’s ready with more details, it will go on the forum.
 * _grinngots:_ So fundraising sub team focuses on growing general fund - I think there should be a sub team focusing on spending general fund.
@@ -92,7 +92,7 @@ Since then, lavalulu, admin of the discord group, has agreed to take on the lead
 Proposal made by @DavidBurkett:
 > Seek out and hire a full-time cryptographer at a maximum of $10k/month in 3-month increments to design and implement changes to Grin that improve its privacy, scalability, and usability.
 
-Related [forum thread](https://www.grin-forum.org/t/request-for-funding-jrandomcryptographer/6056/). 
+Related [forum thread](https://forum.grin.mw/t/request-for-funding-jrandomcryptographer/6056/). 
 
 (Discussion is heavily truncated for brevity and focus.)
 
@@ -125,7 +125,7 @@ Related [forum thread](https://www.grin-forum.org/t/request-for-funding-jrandomc
 * _lehnberg:_ For those that missed it, Gary Yu has resigned from core, and stopped by a few hours ago to [share a message](https://gitter.im/grin_community/Lobby?at=5d8a1b5328c1df0ed689f13d) about this: 
    
    > Hi Friends, please allow me to continue missing the governance meeting of today :-)
-   > Regarding the agenda item no.7 for my new journey with MimbleWimble and resignation from Grin Council / Core Team or what ever you called it, the purpose of adding this item into one governance meeting is to make the Grin community well informed about that, I'm not part of the Grin Council anymore. For the context reference: https://www.grin-forum.org/t/a-new-journey-with-mimblewimble/6058
+   > Regarding the agenda item no.7 for my new journey with MimbleWimble and resignation from Grin Council / Core Team or what ever you called it, the purpose of adding this item into one governance meeting is to make the Grin community well informed about that, I'm not part of the Grin Council anymore. For the context reference: https://forum.grin.mw/t/a-new-journey-with-mimblewimble/6058
    > And as I said, definitely I would love to continue my developer contributions as usual, and continue being part of this wonderful community.
    > If any question, please feel free to ping me here or contact me directly.
    > (btw, if anyone here is interested in the Gotts vision, I would like to invite you to join me into this new journey. pls find the Gotts Introduction [here](https://github.com/gottstech/gotts/blob/master/docs/intro.md) and the [README](https://github.com/gottstech/gotts))

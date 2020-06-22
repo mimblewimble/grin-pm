@@ -44,7 +44,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 * **Create Events wiki page:** Not done
 
 ### 3. POW
-* Discussion on [Ethical Mining Policy](https://www.grin-forum.org/t/innosilicons-grin-asic-miner-or-paper-tiger/3241/2):
+* Discussion on [Ethical Mining Policy](https://forum.grin.mw/t/innosilicons-grin-asic-miner-or-paper-tiger/3241/2):
    > An ethical policy adoption, mandated by the Coin devs and community towards setting the right rules for manufacturers early in to ensure that the coins’ network is not rendered un-mineable by its community of miners and supporters. The disclosure of actual and factual quantities of ASICS being produced for every batch, quantities shipped as well as a full transparent disclosure of intent to self mine and what percentage or number of ASICS allocated to said practice. This helps miners buying into new ASICS, as well as the protection through policy for asic makers to ensure protection to the coin network with factual transparency enforcement.
    * _igno:_ Half of it is unenforceable. The part that's enforceable would be with hard forks, which we've discussed aplenty we're not doing and would only force ASIC manufacturers toward more secrecy. We can definitely encourage good practices, help out good actors and point out bad ones however. But I think we tend to do that regardless as part of orienting and policing this project, we're usually not too shy on our opinions. We can definitely start with a page listing what we'd like to see, more as an encouragement, and add manufacturers that are close to those wishes there.
    * _hashmap:_ Instead of restricting, we could encourage good behaviour, like a "fairtrade logo" or something.

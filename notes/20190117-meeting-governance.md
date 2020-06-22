@@ -40,7 +40,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
    * _lehnberg:_ Not done, aimed to have ready last weekend but ended up being sucked into other stuff.
 
 ### 3. POW
-* @tromp away this meeting, but has published: https://www.grin-forum.org/t/cuckatoo31-im-mutability/2442
+* @tromp away this meeting, but has published: https://forum.grin.mw/t/cuckatoo31-im-mutability/2442
    * Reassurance for **the ASIC manufacturers out there** who may be in the process of getting large amounts of money committed.
 
 ### 4. [Security audits](https://github.com/mimblewimble/grin/issues/1609)
