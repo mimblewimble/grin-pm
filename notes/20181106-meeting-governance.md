@@ -54,7 +54,7 @@ Action points:
 * If there's anthing else anyone is feeling is missing prior to mainnet in terms of governance, they can raise this as an issue on /grin-pm or in a forum post.
 
 ### 6. Mission statement
-* [Forum post](https://www.grin-forum.org/t/help-us-write-grins-mission-statement/1114) discussing the topic.
+* [Forum post](https://forum.grin.mw/t/help-us-write-grins-mission-statement/1114) discussing the topic.
 * Discussion on whether the project should describe itself as 'anarchic', the meeting thought not. More like following the open source philosophy of development (bazaar-style).
 
 ### 7. Risk mgmt brainstorm

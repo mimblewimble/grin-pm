@@ -61,7 +61,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 * We need to move forward, and pushing it out on website might be useful
 
 #### Action points:
-* [X] @lehnberg to ensure some [type of draft is published somewhere](https://www.grin-forum.org/t/help-us-write-grins-mission-statement/1114) by the next governance meeting
+* [X] @lehnberg to ensure some [type of draft is published somewhere](https://forum.grin.mw/t/help-us-write-grins-mission-statement/1114) by the next governance meeting
 
 ### 5. Risk managment
 
@@ -75,7 +75,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 
 ### 6. Proof of work 
 
-* @tromp has published AR proposal in a [forum post](https://www.grin-forum.org/t/choice-of-asic-resistant-pow-for-gpu-miners/1017), callled Cuckaroo.
+* @tromp has published AR proposal in a [forum post](https://forum.grin.mw/t/choice-of-asic-resistant-pow-for-gpu-miners/1017), callled Cuckaroo.
     * _@tromp:_ "As proposed, it is expected to take 7 GB to run at full speed, but might become optimized for 6GB later."
 * Discussion around what the process will be for adopting. Open public discussion (see forum post), taking in feedback from community, and in the end it will be a technical decision by core devs on how best to implement.
 * Would be useful to have [small first implementation during T4](https://github.com/mimblewimble/grin/issues/1818). Not clear if it actually would be deployed on T4 or not. If hard-forked in it would be with mainnet parameters.

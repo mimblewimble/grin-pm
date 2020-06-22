@@ -29,7 +29,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 
 Both were actioned:
 * There's now an ETH donation address set up by @ignopeverell.
-* Tromp [posted in the forum](https://www.grin-forum.org/t/grin-improvement-proposal-1-put-later-phase-outs-on-hold-and-rephrase-primary-pow-commitment/4653) his proof of work proposal.
+* Tromp [posted in the forum](https://forum.grin.mw/t/grin-improvement-proposal-1-put-later-phase-outs-on-hold-and-rephrase-primary-pow-commitment/4653) his proof of work proposal.
 
 ### 3. [Security audits](https://github.com/mimblewimble/grin/issues/1609)
 
@@ -63,8 +63,8 @@ _No meeting participant argued for an immediate need to formalize the process, s
    AT33 | Jan 15 2023 | Sep 3 2023
    AT34 | Jan 15 2027 | Sep 10 2027
 
-* [AT Phase Out thread](https://www.grin-forum.org/t/obelisk-grn1-chip-details/4571)
-* [Tromp proposal](https://www.grin-forum.org/t/grin-improvement-proposal-1-put-later-phase-outs-on-hold-and-rephrase-primary-pow-commitment/4653)
+* [AT Phase Out thread](https://forum.grin.mw/t/obelisk-grn1-chip-details/4571)
+* [Tromp proposal](https://forum.grin.mw/t/grin-improvement-proposal-1-put-later-phase-outs-on-hold-and-rephrase-primary-pow-commitment/4653)
    1. Should we define "foreseeable future" as 18 months?
    2. Should we put phaseouts beyond AT32 on hold?
 
@@ -76,13 +76,13 @@ _No meeting participant argued for an immediate need to formalize the process, s
 
 _This decision has been tabled until June._
 
-### 6. [Request for funding, @lehnberg](https://www.grin-forum.org/t/request-for-funding-lehnberg/4715/)
+### 6. [Request for funding, @lehnberg](https://forum.grin.mw/t/request-for-funding-lehnberg/4715/)
 
 * _ignopeverell:_ My only question would be about the 1 year part, it's maybe a bit long in grin-world?
    *  _lehnberg:_ The original request is for 3 months renewable, but for funds to be ‘earmarked’ for 12, and the rationale is that the total amount is low and that it’s not a full time role so I need to make other arrangements to sustain myself and my family. Happy to just roll 3 months for now if required.
    *  _tromp:_ If we need renewal every 3mo, then there can be no earmarking for longer.
    *  _ignopeverell:_  I'd be ok extending for a longer prepay acknowledging it's a smaller amount and part time. Would everyone be ok with 6 months paid up front?
-*  _garyyu:_ I'd like to raise the request to $2,000/month, see arguments [here](https://www.grin-forum.org/t/request-for-funding-lehnberg/4715/5). This is the 1st time for Grin funding a part-time contribution, I just want to give a model to avoid confusion that any short term contribution deserve a funding request.
+*  _garyyu:_ I'd like to raise the request to $2,000/month, see arguments [here](https://forum.grin.mw/t/request-for-funding-lehnberg/4715/5). This is the 1st time for Grin funding a part-time contribution, I just want to give a model to avoid confusion that any short term contribution deserve a funding request.
    * _ignopeverell:_ Ah, happy to clarify that, the contribution has definitely not been short term and would not be either (especially given that it started at a year). I'd be happy to increase the amount depending on the time commitment, but if @lehnberg is happy with $1.5k I'm ok with that.
    * _lehnberg:_ I think it’s a marginal call. I’d be happy to start like this ($1,500), and perhaps start logging my hours a bit more detailed. If I start seeing time spent rampantly increasing in the future, it’s good to know there might be room for a raise in six months time. :)
 

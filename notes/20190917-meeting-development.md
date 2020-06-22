@@ -46,7 +46,7 @@ _(apologies if I missed someone - submit a PR or contact @lehnberg to add)_
 
 ### 3. Action point follow-up
 
-Initial HF2 comms has gone out: https://www.grin-forum.org/t/grin-v3-0-0-upgrade-jan-2020/6036
+Initial HF2 comms has gone out: https://forum.grin.mw/t/grin-v3-0-0-upgrade-jan-2020/6036
 
 ### 4. Security
 

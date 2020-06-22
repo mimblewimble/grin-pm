@@ -42,7 +42,7 @@ _(apologies if I missed someone - submit a PR or contact @lehnberg to add)_
  * Open call to all people building wallet and transaction-building services to get  involved and shape this!
 
 ### 4. POW
-* _tromp:_ I've been discussing cuckatoo32 feasibility with an asic designer, they say it looks impossible to make it run at 1 gps. So will start a discussion thread on forum (ed.note: [here](https://www.grin-forum.org/t/cuckatoo32-feasibility/1199)), about required memory bandwidth and how to achieve that. 
+* _tromp:_ I've been discussing cuckatoo32 feasibility with an asic designer, they say it looks impossible to make it run at 1 gps. So will start a discussion thread on forum (ed.note: [here](https://forum.grin.mw/t/cuckatoo32-feasibility/1199)), about required memory bandwidth and how to achieve that. 
 * Anything <1 gps affects progress-freeness.
 * Tromp working on Cuckaroo coding.
 * Discussion around primary vs secondary POW terminology. Alternatives suggested: 

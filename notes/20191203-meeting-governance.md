@@ -42,7 +42,7 @@ So that gives you a little tease at least
 * _lehnberg:_ There was a question about allowing closed source projects on the forum: https://gitter.im/grin_community/Lobby?at=5ddbf852c52bc74c968c8d14
    I quote:
    > Is there a problem to have posts about wallets that are closed source in the forum?
-   > Example: https://www.grin-forum.org/t/flare-wallet-simple-to-use-wallet-with-grin-support/
+   > Example: https://forum.grin.mw/t/flare-wallet-simple-to-use-wallet-with-grin-support/
    >Closed source wallets can steal funds more easily than open sourced wallets, but this alone does not imply that every closed source wallet developer is a scammer.
    >To forbid any closed source software to be promoted in our forums is quite a restriction to have. At the same time, allowing closed source software that does not seem to be an immediately obvious scam (whichever way that can be determined), also exposes the community to risk of being ripped off.
    In the thread we got replies and thoughts from Jasper, Blade Doyle, David Burkett, Energyburn, Hashmap and others. Just wanted to get some kind of decision that we're good to proceed with allowing closed source projects. In the thread I write:
@@ -57,7 +57,7 @@ So that gives you a little tease at least
    * _tromp:_ People can point out red flags in the product/service thread itself.
    * _lehnberg:_ Okay, and alert a mod and then there's some discussion and a "ruling" or whatever? How do we decide whether a custodial web wallet is an exit scam in the making or not?
    * _yeastplume:_ Do we need to? Who makes us the ruler here? And who do people appeal to? I can see a lot of problems if we get something like that wrong. We'd have to be passing opinions on people's intent as well. I think it's safest to let the community have their say in whatever thread. Encourage people to read entire threads before using a service, and staying out of it
-      * _DavidBurkett:_ This makes you the ruler: https://www.grin-forum.org/g/moderators
+      * _DavidBurkett:_ This makes you the ruler: https://forum.grin.mw/g/moderators
 
 ##### Decision: Closed source projects / potential scams on forum:
 
@@ -106,7 +106,7 @@ _No objections, explicit support from quentinlesceller, yeastplume, jaspervdm._
 
 #### 6.1 Moderation team
 * _lehnberg:_ We really need a Moderation team. The person who had volunteered, and we had made some progress with, unfortunately had to pull out
-for personal reasons. I've a couple of replacement ideas in mind, but have not had a chance to speak to those in question yet. So shame on me, and if there's any comfort, please know that I'm being punished for my lack of progress as I spend my days writing moderation justifications like [this one](https://www.grin-forum.org/t/mod-off-topic-screenshot-from-arrrr-telegram-group/6646/10) until this sub-team is working as it should.
+for personal reasons. I've a couple of replacement ideas in mind, but have not had a chance to speak to those in question yet. So shame on me, and if there's any comfort, please know that I'm being punished for my lack of progress as I spend my days writing moderation justifications like [this one](https://forum.grin.mw/t/mod-off-topic-screenshot-from-arrrr-telegram-group/6646/10) until this sub-team is working as it should.
 
 
 #### 6.2 Other teams

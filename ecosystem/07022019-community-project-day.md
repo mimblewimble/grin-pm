@@ -5,7 +5,7 @@ ID | Speaker | Topic | Link |
 1 | nijynot @nijynot | Grin wallet (Wimble) | https://www.figma.com/file/a1VuKCl7nG0b0zi6yypCi6/Wimble-Wallet-V2?node-id=84%3A24 |
 2 | Rheza Pahlevi @rheza | SuperGrin | https://github.com/rheza/SuperGrin |
 3 | lehnberg @lehnberg | vault713 | https://github.com/vault713 |
-4 | David Burkett @DavidBurkett | Grin++ | https://www.grin-forum.org/t/yo-dawg-i-heard-you-like-coinjoins/5296 |
+4 | David Burkett @DavidBurkett | Grin++ | https://forum.grin.mw/t/yo-dawg-i-heard-you-like-coinjoins/5296 |
 5 | hashmap @hashmap | Knockturn Allee | https://cycle42.com/knockturn |
 
 
@@ -312,7 +312,7 @@ David Burkett @DavidBurkett
 Didn’t get much chance to prepare, unfortunately, but here’s a quick summary of where Grin++ is going over the next few months:
 Grin++ is starting to be used by a significant number of users, which opens up a lot of doors. We can now finally begin to take full advantage of an alternative implementation by experimenting with new features. There are 2 new features that I’m most excited about trying out:
 
-1 - GrinJoin: You can read the details of the proposal here: https://www.grin-forum.org/t/yo-dawg-i-heard-you-like-coinjoins/5296
+1 - GrinJoin: You can read the details of the proposal here: https://forum.grin.mw/t/yo-dawg-i-heard-you-like-coinjoins/5296
 TL;DR: Grin++ will be integrating with a service I’m developing that will allow users to optionally send their transaction to a CoinJoin-like service, which should help further break tx linkability
 
 2 - Decentralized Addressing: Similar to vault713’s Grinbox and Beam’s SBBS, I plan on experimenting with schemes for adding “offline” transactions using bitcoin-like addresses to Grin, without the need for central server’s that could be used to compromise users’ privacy. I plan on working closely with vault713 devs, and with a few Beam devs to learn from their experiences. The goal is to make this work seamlessly with i2p once we make the transition.
@@ -340,7 +340,7 @@ Noah Yeh @noahyeh_twitter
 I see, just wondering, does this problem GrinJoin is trying to solve go away in the longer term?
 
 David Burkett @DavidBurkett 
-Link for those interested in donating: https://www.grin-forum.org/t/funding-campaign-grin/5277
+Link for those interested in donating: https://forum.grin.mw/t/funding-campaign-grin/5277
 
 chisana @chisa0a 
 @DavidBurkett interested in the offline capabilities, and helping with I2P integration.

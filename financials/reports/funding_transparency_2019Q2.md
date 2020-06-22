@@ -58,7 +58,7 @@ ETH | 58.47 |
 
 ### Inaccessible funds
 
-Due to [Ignotus absence](https://www.grin-forum.org/t/on-ignos-absence/5301) in this period, the project has lost access to the GRIN, ETH, and ZEC wallet addresses, which contained the following balances by the end of the period:
+Due to [Ignotus absence](https://forum.grin.mw/t/on-ignos-absence/5301) in this period, the project has lost access to the GRIN, ETH, and ZEC wallet addresses, which contained the following balances by the end of the period:
 
 Currency | Amount | Wallet address(es)
 |---|---:|---|

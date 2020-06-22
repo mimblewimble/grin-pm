@@ -42,7 +42,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 * @tromp has finished all solvers.
 
 #### 3.1 GPU Memory reductions
-* @tromp has also been busy working on implementing the [recent discovery of memory reductions](https://www.grin-forum.org/t/gpu-mean-memory-reductions/1517) for the POW algorithms. Known minimum memory required now is 5.5 GB and 11 GB for CuckARoo and CuckAToo respectively. These have been merged into `grin-miner`.
+* @tromp has also been busy working on implementing the [recent discovery of memory reductions](https://forum.grin.mw/t/gpu-mean-memory-reductions/1517) for the POW algorithms. Known minimum memory required now is 5.5 GB and 11 GB for CuckARoo and CuckAToo respectively. These have been merged into `grin-miner`.
 * Further reductions are possible at the cost of performance and complexity. There are no plans on implementing those in grin-miner.
 * _ignopeverell:_ In lieu of the discovery of lower memory requirement, there are no plans to change anything. 
    * **The right to make tweaks to CuckARoo remains however**, as has explicitly been communicated in the past.
@@ -69,7 +69,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 * _lehnberg:_ Last meeting we said narrowing it down to 3-5 statements would be good. This has not happened, if anything it feels like everytime I ask for the list to consolidate, we just get more suggestions. https://github.com/mimblewimble/grin-pm/issues/27 tracks most of them now.
 
 #### Decision: 
-   * [X] lehnberg to [create a forum poll](https://www.grin-forum.org/t/vote-on-grins-mission-statement/1724) for all suggestions.
+   * [X] lehnberg to [create a forum poll](https://forum.grin.mw/t/vote-on-grins-mission-statement/1724) for all suggestions.
    * Poll will be non-binding.
    * Results will be discussed on the next governance meeting with the aim to reach a conclusion.
 
@@ -101,12 +101,12 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 
 ##### 9.2.2 Currency code
 * Proposals discussed: `GRIN`, `GRN`, `XGR`, `XGRN`, `XGN`
-* [X] lehnberg to [create a forum poll](https://www.grin-forum.org/t/vote-on-grins-currency-code/1720/) for all suggestions.
+* [X] lehnberg to [create a forum poll](https://forum.grin.mw/t/vote-on-grins-currency-code/1720/) for all suggestions.
    * Poll will be non-binding.
    * Results will be discussed on the next governance meeting with the aim to reach a conclusion.
 
 ##### 9.2.3 Currency symbol
-* [X] lehnberg to [create a forum poll](https://www.grin-forum.org/t/vote-on-grins-currency-symbol/1726) for all suggestions.
+* [X] lehnberg to [create a forum poll](https://forum.grin.mw/t/vote-on-grins-currency-symbol/1726) for all suggestions.
    * Poll will be non-binding.
    * Results will be discussed on the next governance meeting with the aim to reach a conclusion.
 

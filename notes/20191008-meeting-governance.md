@@ -25,7 +25,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 
 ### 2. Action point follow ups from previous meetings
 
-#### 2.1 [Site redesign](https://www.grin-forum.org/t/grin-website-redesign/5533)
+#### 2.1 [Site redesign](https://forum.grin.mw/t/grin-website-redesign/5533)
 
 * _lehnberg:_ @nijynot just submitted a [pull request for the website redesign](https://github.com/mimblewimble/site/pull/147), with a live example at https://nijynot.github.io/site. I haven’t played around with it, but it looks very nice at a quick glance.
    * _jaspervdm:_ Yep looks really good.
@@ -91,7 +91,7 @@ _Explicit support from newtownf1, hashmap, yeastplume, DavidBurkett._
    * _lehnberg:_ As do I.
 
  
-### 7. Decision: Approve lehnberg [Request for Funding](https://www.grin-forum.org/t/request-for-funding-lehnberg-oct-jan-2019-20/6165)
+### 7. Decision: Approve lehnberg [Request for Funding](https://forum.grin.mw/t/request-for-funding-lehnberg-oct-jan-2019-20/6165)
 
 * _yeastplume:_ Fund @lehnberg. I find the worthiness of this modest funding request to be self-evident. He has gone above and beyond for this project multiple times, and I would very much like to see him continue in his current vein for as long as possible.
    * _jaspervdm:_ Agreed. 

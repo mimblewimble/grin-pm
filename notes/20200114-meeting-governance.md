@@ -59,7 +59,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
       * _jaspervdm_: It should be avoided if possible, would save us a lot of trouble.
 
 
-### 3. [Lehnberg funding request](https://www.grin-forum.org/t/request-for-funding-lehnberg-jan-mar-2020/6767)
+### 3. [Lehnberg funding request](https://forum.grin.mw/t/request-for-funding-lehnberg-jan-mar-2020/6767)
 
 
 * _lehnberg_: Before I hand off to yeastplume to lead that discussion, I just wanted to say that I realized that the first version of my request could have been made much clearer. I wasn't intentionally being vague, just was in a rush to finish for the day and wanted to keep it super short. That was a mistake, lesson learned, I've updated the request since, and I will do my best to avoid triggering situations like that again.

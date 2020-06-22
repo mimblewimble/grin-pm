@@ -23,7 +23,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 
 ### 2. Action point follow ups from previous meetings
 
-#### 2.1 [Site redesign](https://www.grin-forum.org/t/grin-website-redesign/5533)
+#### 2.1 [Site redesign](https://forum.grin.mw/t/grin-website-redesign/5533)
 
 * _lehnberg:_ No update from @nijynot
 

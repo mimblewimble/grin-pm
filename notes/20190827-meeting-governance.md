@@ -27,7 +27,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 
 ### 2. Action point follow ups from previous meetings
 
-#### 2.1 [Site redesign](https://www.grin-forum.org/t/grin-website-redesign/5533)
+#### 2.1 [Site redesign](https://forum.grin.mw/t/grin-website-redesign/5533)
 
 * _lehnberg:_ I saw that @nijynot was working on the redesign, but was  busy this week and wouldn’t have it ready, so I suspect we might need to wait a bit more for that one. Looking promising for sure, though.
    * _jaspervdm:_ Yes from what ive seen so far it looked really nice
@@ -43,7 +43,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 
 #### 3.1 Decision: Yeastplume Request for funding
 
-* _lehnberg:_ There’s a https://www.grin-forum.org/t/request-for-funding-yeastplume/5944:
+* _lehnberg:_ There’s a https://forum.grin.mw/t/request-for-funding-yeastplume/5944:
     > So, in keeping with other funding requsts, I’d like to ask for the equivalent of EUR30k to cover my full time work on Grin until the end of this year (covering the period from the last part of Sept through the end of December.
 
     So to be precise, it means it’s funding until Dec 31, 2019?

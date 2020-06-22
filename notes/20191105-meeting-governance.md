@@ -55,7 +55,7 @@ Covered as part of section 2 above.
 
 ### 5. Grincon1
 
-* _lehnberg:_ [Current schedule](https://www.grin-forum.org/t/grincon1-tentative-program-schedule/6384/) looks relatively solid now so might do good by putting it on [the website](https://grincon.org)?
+* _lehnberg:_ [Current schedule](https://forum.grin.mw/t/grincon1-tentative-program-schedule/6384/) looks relatively solid now so might do good by putting it on [the website](https://grincon.org)?
    * _quentinlesceller:_ Yes.
 * _lehnberg:_ Speakers we’ve reached out to, handed out slick presentation templates design courtesy of @nijynot. It’s been relatively quiet in the keybase channel for grincon, but yeah we’re moving forward. I reached out to one of the sponsors to confirm their donation. Would be good to get more sponsors of course, so if anyone wants to help spread the word, here are the details: http://grin.mw/grincon_sponsorship
 
@@ -84,7 +84,7 @@ _After some discussion, the following shepherds were agreed and assigned:_
    * And [Payment Proofs](https://github.com/mimblewimble/grin-rfcs/pull/31) - @antiochp.
 
 * _yeastplume:_ We probably want to aim to have these done and accepted by the end of this month. When is feature-complete for V3 supposed to be?
-   * _lehnberg:_ Not sure we’ve set dates for that, see timeline here: https://www.grin-forum.org/t/grin-v3-0-0-hard-fork-upgrade-jan-2020/6036 Might be good to tighten that timeline in the dev meeting on tuesday, and have firm dates on all those milestones.
+   * _lehnberg:_ Not sure we’ve set dates for that, see timeline here: https://forum.grin.mw/t/grin-v3-0-0-hard-fork-upgrade-jan-2020/6036 Might be good to tighten that timeline in the dev meeting on tuesday, and have firm dates on all those milestones.
    * _yeastplume:_ Yeah, let's do that.
 
 ### 8. Other questions

@@ -54,7 +54,7 @@ No updates.
    1. A couple of more DNS names
    1. Several more seed IPS to have as A names on those seeds
 * Several members of the meeting offered to host DNS seeds.
-* Decision to create a [dedicated forum topic](https://www.grin-forum.org/t/grin-mainnet-seeds-needed/1580) to solicit seed IPs from the community.
+* Decision to create a [dedicated forum topic](https://forum.grin.mw/t/grin-mainnet-seeds-needed/1580) to solicit seed IPs from the community.
 
 ### 6. Results from libsecp audit
 * Audit performed by [JP Aumasson](https://aumasson.jp/), who mostly looked at our patches and additions on top of libsecp, and their use in Grin.

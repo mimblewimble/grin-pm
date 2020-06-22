@@ -23,7 +23,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 
 ### 2. Action point follow ups from previous meetings
 
-#### 2.1 [Site redesign](https://www.grin-forum.org/t/grin-website-redesign/5533)
+#### 2.1 [Site redesign](https://forum.grin.mw/t/grin-website-redesign/5533)
 
 * _nijynot:_ Have updated the design, and added 3 pages, here's the [link](https://www.figma.com/file/mPRsCeypVXyVWmPevwTcGi/Grin-Website?node-id=816%3A4). There's also a page for community projects now, so we might want to think about how we present wallets/other apps. Implementing on our current site should not be too hard. I can start working on it soon, a bit busy in the coming weeks, so probably not done for the next gov meeting.
    * _yeastplume:_ Nice, that looks really good. No problem or pressure, thanks for putting together what you have.

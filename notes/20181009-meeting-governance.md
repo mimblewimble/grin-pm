@@ -24,7 +24,7 @@ _(apologies if I missed someone - open a PR or contact @lehnberg to add)_
 ## Agenda points & Actions
 
 ### 1. Agenda review
-[Proposed agenda](https://www.grin-forum.org/t/agenda-governance-oct-9-2018) accepted.
+[Proposed agenda](https://forum.grin.mw/t/agenda-governance-oct-9-2018) accepted.
 
 ### 2. Previous follow ups 
 
