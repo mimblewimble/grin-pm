@@ -22,8 +22,9 @@ A chronological list of decisions made by the Grin project, with references. Ava
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Jul 14 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/313)| | |
 Jul 07 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/310) | | |
-Jun 30 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/306)| | |
+Jun 30 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/306)| [Notes](notes/20200630-meeting-governance.md) | Yeast, Lehnberg, Antioch Q3 funding requests, Review of open RFCs, CoC & Documentation |
 Jun 23 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/304) | [Notes](notes/20200623-meeting-development.md) | v4.0.0 status, v5.0.0 high level focus discussion |
 Jun 16 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/302)| [Notes](notes/20200616-meeting-governance.md) | Review of open RFCs, Post 4.0.0 planning |
 Jun 09 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/299) | [Notes](notes/20200609-meeting-development.md) | v4.0.0 status, replay attacks / kernel uniqueness |
