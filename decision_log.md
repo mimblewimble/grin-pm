@@ -7,6 +7,9 @@ This document tracks decisions made by the Grin project and points to documentat
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+65 | 20200630 | Approve @antiochp funding request (Q3 2020) | [Meeting Note](notes/20200630-meeting-governance.md#decision-approve-antiochp-funding-request)
+64 | 20200630 | Approve @lehnberg funding request (Q3 2020) | [Meeting Note](notes/20200630-meeting-governance.md#decision-approve-lehnberg-funding-request)
+63 | 20200630 | Approve @yeastplume funding request (Q3 2020) | [Meeting Note](notes/20200630-meeting-governance.md#decision-approve-yeastplume-funding-request)
 62 | 20200512 | Deprecate http(s) by 5.0.0, announce by 4.0.0 | [Meeting Note](notes/20200512-meeting-development.md#5-decision-deprecate-https)
 61 | 20200407 | Approve @antiochp funding request (Q2 2020) | [Meeting Note](notes/20200407-meeting-governance.md#decision-approve-antiochp-funding-request)
 60 | 20200407 | Approve recurring quarterly payments to @quentinlesceller for forum.grin.mw | [Meeting Note](notes/20200407-meeting-governance.md#decision-forumgrinmw-payments-approved-for-quentinlesceller)
