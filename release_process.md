@@ -43,15 +43,16 @@ cargo publish
 For example, on Grin v4.0.0, the uploading order for `cargo publish` was:
 
 1. `util`
-2. `keychain`
-3. `core`
-4. `store`
-5. `chain`
-6. `pool`
-7. `p2p`
-8. `api`
-9. `servers`
-10. `grin`
+1. `keychain`
+1. `core`
+1. `store`
+1. `chain`
+1. `pool`
+1. `p2p`
+1. `api`
+1. `servers`
+1. `config`
+1. `grin`
 
 ### 1.4. Branching
 
