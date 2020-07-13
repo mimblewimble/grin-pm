@@ -7,18 +7,21 @@ This document contains a process that should be completed for every Grin release
 - [3. Update Brew Formulas](#3.-update-brew-formulas)
 - [4. Update Snapcraft](#4.-update-snapcraft)
 - [5. Update Grin Website](#5.-update-grin-website)
+- [6. Publish a Message on Grin-Forum](#6.-publish-a-message-on-grin-forum)
 
 ## 1. Grin release
 
 ### 1.1. Update Grin Cargo.toml
 
-Replace in every `Cargo.toml` files the version with the correct version.
+Replace in every `Cargo.toml` file the version with the new release version.
 
 ```toml
 [package]
 ...
 version = "X.X.X"
 ```
+
+Commit the files.
 
 ### 1.2. Tag Grin
 
@@ -37,11 +40,60 @@ On every submodule first then on the main package:
 cargo publish
 ```
 
+For example, on Grin v4.0.0, the uploading order for `cargo publish` was:
+
+1. `util`
+2. `keychain`
+3. `core`
+4. `store`
+5. `chain`
+6. `pool`
+7. `p2p`
+8. `api`
+9. `servers`
+10. `grin`
+
+### 1.4. Branching
+
+Grin follows [semantic versioning 2.0](https://semver.org).
+Patches are released from the maintenance branch and as such do not need a new brach. **Hence for patch only follow step 1.4.1.**
+
+If it's a major or minor release you'll need to create a new "maintenance" branch and update the current master branch.
+
+e.g. if we just released Grin v4.0.0 we will need to create a new branch named `current/v4.0.x` for patch on v4.0.0.
+
+```bash
+git checkout -b current/vX.X.X
+git push --set-upstream origin current/vX.X.X
+```
+
+#### 1.4.1. Alpha Tagging on Maintenance Branch
+
+On the **maintenance** branch `current/vX.X.X`, replace in every `Cargo.toml` file the version with the correct version and alpha name.
+
+```toml
+[package]
+...
+version = "X.X.X-alpha.1"
+```
+
+#### 1.4.2. Alpha Tagging on Master Branch
+
+On the **master** branch, replace in every `Cargo.toml` file the version with the correct version and alpha name.
+
+```toml
+[package]
+...
+version = "X.X
+```
+
+e.g. This PR for the master branch [(https://github.com/mimblewimble/grin/pull/3390](https://github.com/mimblewimble/grin/pull/3390).
+
 ## 2. Grin-Wallet Release
 
 ### 2.1. Update Grin Cargo.toml
 
-Replace in every `Cargo.toml` files the version with the correct version.
+Replace in every `Cargo.toml` file the version with the new release version.
 
 ```toml
 [package]
@@ -49,9 +101,11 @@ Replace in every `Cargo.toml` files the version with the correct version.
 version = "X.X.X"
 ```
 
+Commit the files.
+
 ### 2.2. Tag Grin
 
-```shell
+```bash
 git tag vX.X.X
 git push origin vX.X.X
 ```
@@ -66,11 +120,47 @@ On every submodule first then on the main package:
 cargo publish
 ```
 
+### 2.4. Branching
+
+Grin-Wallet follows [semantic versioning 2.0](https://semver.org).
+Patches are released from the maintenance branch and as such do not need a new brach. **Hence for patch only follow step 1.4.1.**
+
+If it's a major or minor release you'll need to create a new "maintenance" branch and update the current master branch.
+
+e.g. if we just released Grin-Wallet v4.0.0 we will need to create a new branch named `current/v4.0.x` for patch on v4.0.0.
+
+```bash
+git checkout -b current/vX.X.X
+git push --set-upstream origin current/vX.X.X
+```
+
+#### 2.4.1. Alpha Tagging on Maintenance Branch
+
+On the **maintenance** branch "current/vX.X.X` replace in every `Cargo.toml` file the version with the correct version and alpha name.
+
+```toml
+[package]
+...
+version = "X.X.X-alpha.1"
+```
+
+#### 2.4.2. Alpha Tagging on Master Branch
+
+On the **master** branch replace in every `Cargo.toml` file the version with the correct version and alpha name.
+
+```toml
+[package]
+...
+version = "X.X
+```
+
+e.g. This PR for the master branch [(https://github.com/mimblewimble/grin/pull/3390](https://github.com/mimblewimble/grin/pull/3390).
+
 ## 3. Update Brew Formulas
 
 On macOS with [homebrew](https://brew.sh) installed:
 
-```shell
+```bash
 brew bump-formula-pr grin --url=https://github.com/mimblewimble/grin/archive/vx.x.x.tar.gz
 
 brew bump-formula-pr grin-wallet --url=https://github.com/mimblewimble/grin-wallet/archive/vx.x.x.tar.gz
@@ -102,3 +192,10 @@ Examples PR:
 
 - [https://github.com/mimblewimble/site/pull/189](https://github.com/mimblewimble/site/pull/189)
 - [https://github.com/mimblewimble/site/pull/190](https://github.com/mimblewimble/site/pull/190)
+
+Publish a new blog post on the website to notify about the new update such as this one:
+[https://github.com/mimblewimble/site/pull/202](https://github.com/mimblewimble/site/pull/202)
+
+## 6. Publish a Message on Grin-Forum
+
+Create a message on forum.grin.mw in the annoucements category such as this one [https://forum.grin.mw/t/grin-grin-wallet-4-0-0-released](https://forum.grin.mw/t/grin-grin-wallet-4-0-0-released).
