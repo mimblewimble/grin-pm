@@ -19,7 +19,7 @@ At the end of Dec 31 2019, Grin held disposable funds to the equivalent of $911,
 
 Currency | Amount | USD x-rate Dec 31 2019 | USD Equivalent | Wallet address(es)
 |---|---:|---:|---:|---|
-GRIN | 3641.215226 | $0.951414 | $3,464.30 | https://donations.grin-tech.org
+GRIN | 3641.215226 | $0.951414 | $3,464.30 | https://grin.mw/fund
 BTC | 126.2485528 | $7,193.60 | $908,181.59 | 9hgKkhfPFpwKRQ6yARGwU2uuVay69NKu4<br />bc1qecw954uappnwhle6tmafqskn6vxmpr6lmmuwfwldphfxplcshgnssy9kmx
 | | | | $911,645.89 |
 
