@@ -57,7 +57,7 @@ For example, on Grin v4.0.0, the uploading order for `cargo publish` was:
 ### 1.4. Branching
 
 Grin follows [semantic versioning 2.0](https://semver.org).
-Patches are released from the maintenance branch and as such do not need a new brach. **Hence for patch only follow step 1.4.1.**
+Patches are released from the maintenance branch and as such do not need a new branch. **Hence for patch only follow step 1.4.1.**
 
 If it's a major or minor release you'll need to create a new "maintenance" branch and update the current master branch.
 
@@ -124,7 +124,7 @@ cargo publish
 ### 2.4. Branching
 
 Grin-Wallet follows [semantic versioning 2.0](https://semver.org).
-Patches are released from the maintenance branch and as such do not need a new brach. **Hence for patch only follow step 1.4.1.**
+Patches are released from the maintenance branch and as such do not need a new branch. **Hence for patch only follow step 1.4.1.**
 
 If it's a major or minor release you'll need to create a new "maintenance" branch and update the current master branch.
 
@@ -199,4 +199,4 @@ Publish a new blog post on the website to notify about the new update such as th
 
 ## 6. Publish a Message on Grin-Forum
 
-Create a message on forum.grin.mw in the annoucements category such as this one [https://forum.grin.mw/t/grin-grin-wallet-4-0-0-released](https://forum.grin.mw/t/grin-grin-wallet-4-0-0-released).
+Create a message on forum.grin.mw in the announcements  category such as this one [https://forum.grin.mw/t/grin-grin-wallet-4-0-0-released](https://forum.grin.mw/t/grin-grin-wallet-4-0-0-released).
