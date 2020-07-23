@@ -3,6 +3,9 @@
 ## Decision log
 A chronological list of decisions made by the Grin project, with references. Available [here](decision_log.md).
 
+## Release process
+Steps to be completed as part of every node or wallet release. Available [here](release_process.md).
+
 ## Financials
 
 | Document | Description |
