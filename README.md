@@ -3,6 +3,9 @@
 ## Decision log
 A chronological list of decisions made by the Grin project, with references. Available [here](decision_log.md).
 
+## Release process
+Steps to be completed as part of every node or wallet release. Available [here](release_process.md).
+
 ## Financials
 
 | Document | Description |
@@ -22,8 +25,9 @@ A chronological list of decisions made by the Grin project, with references. Ava
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Aug 04 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/322) | | |
 Jul 28 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/318)| | |
-Jul 21 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/316) | | |
+Jul 21 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/316) | [Notes](notes/20200721-meeting-development.md) | replay attacks & mitigation, review of potential 5.0.0 items: 1-sided txs, duplicate outputs, NRD, expiring kernels, coinbase outputs, BP+ |
 Jul 14 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/313)| [Notes](notes/20200714-meeting-governance.md) | Documentation, Replay/Play attack working group discussion |
 Jul 07 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/310) | [Notes](notes/20200707-meeting-development.md) | v4.0.0 status, replay attacks, coinbase outputs, v5.0.0 planning |
 Jun 30 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/306)| [Notes](notes/20200630-meeting-governance.md) | Yeast, Lehnberg, Antioch Q3 funding requests, Review of open RFCs, CoC & Documentation |
