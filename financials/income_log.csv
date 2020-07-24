@@ -189,3 +189,4 @@ income_id,date,type,source,currency,amount,exchange_rate,USD_equivalent,to_addre
 194,20200510,donation,unknown,GRIN,2,0.458742,0.92,https://council-donations.yeastplume.org,89813f2f-2f8e-4ecd-ad7f-5f73b2b51f77,,
 195,20200529,donation,unknown,GRIN,20,0.494470,9.89,https://council-donations.yeastplume.org,f2ebc89e-9e76-4b45-99d0-8f46358cb4b3,,
 196,20200604,donation,Grinnode.live,GRIN,100,0.574386,57.44,https://council-donations.yeastplume.org,f2ebc89e-9e76-4b45-99d0-8f46358cb4b3,Donation from node challenge,https://forum.grin.mw/t/grin-node-challenge-2020-win-over-800-grin-coins-and-free-grin-merchandise/7166/33
+197,20200723,donation,Nervos,BTC,10.0,9581.07,95810.7,bc1qecw954uappnwhle6tmafqskn6vxmpr6lmmuwfwldphfxplcshgnssy9kmx,d7e9a6a942569ce3cbf7eff0000926fd83698e6ffe28edf6e6508ed055b33d5c,Mimblewimble donation,https://forum.grin.mw/t/a-message-from-nervos/7568
