@@ -25,8 +25,9 @@ Steps to be completed as part of every node or wallet release. Available [here](
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Aug 11 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/328)| | |
 Aug 04 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/322) | | |
-Jul 28 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/318)| | |
+Jul 28 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/318)| [Notes](notes/20200728-meeting-governance.md) | Paouky funding request, CVE-2020-15899, scheduled hard forks |
 Jul 21 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/316) | [Notes](notes/20200721-meeting-development.md) | replay attacks & mitigation, review of potential 5.0.0 items: 1-sided txs, duplicate outputs, NRD, expiring kernels, coinbase outputs, BP+ |
 Jul 14 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/313)| [Notes](notes/20200714-meeting-governance.md) | Documentation, Replay/Play attack working group discussion |
 Jul 07 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/310) | [Notes](notes/20200707-meeting-development.md) | v4.0.0 status, replay attacks, coinbase outputs, v5.0.0 planning |
