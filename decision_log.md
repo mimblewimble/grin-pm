@@ -7,6 +7,7 @@ This document tracks decisions made by the Grin project and points to documentat
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+66 | 20200728 | Approve @paouky funding request | [Meeting Note](notes/20200728-meeting-governance.md#decision-approve-paouky-funding-request)
 65 | 20200630 | Approve @antiochp funding request (Q3 2020) | [Meeting Note](notes/20200630-meeting-governance.md#decision-approve-antiochp-funding-request)
 64 | 20200630 | Approve @lehnberg funding request (Q3 2020) | [Meeting Note](notes/20200630-meeting-governance.md#decision-approve-lehnberg-funding-request)
 63 | 20200630 | Approve @yeastplume funding request (Q3 2020) | [Meeting Note](notes/20200630-meeting-governance.md#decision-approve-yeastplume-funding-request)
