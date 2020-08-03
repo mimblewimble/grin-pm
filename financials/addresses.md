@@ -33,7 +33,7 @@ Any questions or concerns about authenticity can be raised publicly in the Grin 
 
 #### Grin
 
-`https://council-donations.yeastplume.org`
+`grin1wm78wjsf2ws507hea4zqrcywxltjwhtgfrwzhdrr9l80l7tpz5fsj58lk0`
 
 [Transaction log snapshot](grin-wallet-txs.md).
 
