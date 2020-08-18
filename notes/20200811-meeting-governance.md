@@ -151,6 +151,10 @@ We have sailed to some customers and by now as I know, they have put may be more
 average from  2800w to 3100 w
 
 john tromp, [11 aug 2020 at 12:09:16]:
+is that 1K-2K mining rigs?
+
+or gps?
+
 Must be latter or it would be very noticeable
 
 thomasvan hu, [11 aug 2020 at 12:10:26]:
@@ -223,9 +227,6 @@ john tromp, [11 aug 2020 at 12:25:51 (11 aug 2020 at 12:26:06)]:
 
 john tromp, [11 aug 2020 at 12:28:29]:
 I could never run the bIg loud one In my apt, but would defInItely run a small And quIet one
-
-thomasvan hu, [11 aug 2020 at 12:28:43]:
-And we hope more peoples to using grin, by using the small miners.
 
 thomasvan hu, [11 aug 2020 at 12:28:43]:
 And we hope more peoples to using grin, by using the small miners.
