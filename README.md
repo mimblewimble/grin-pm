@@ -25,8 +25,9 @@ Steps to be completed as part of every node or wallet release. Available [here](
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Sep 01 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/339) | | |
 Aug 25 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/336)| | |
-Aug 18 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/334) | | |
+Aug 18 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/334) | [Notes](notes/20200818-meeting-development.md) | 5.0.0 planning, slatepack docs, eliminating finalize step, fee RFC / block size limit |
 Aug 11 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/328)| [Notes](notes/20200811-meeting-governance.md) | ASIC AMA, CoC, Fix DAA, Wallet replay protection rules, Eliminating finalize step |
 Aug 04 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/322) | [Notes](notes/20200804-meeting-development.md) | General v5.0.0 discussion, BP+, NRD, Eliminating finalize step, expiring kernels |
 Jul 28 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/318)| [Notes](notes/20200728-meeting-governance.md) | Paouky funding request, CVE-2020-15899, scheduled hard forks |
