@@ -25,8 +25,9 @@ Steps to be completed as part of every node or wallet release. Available [here](
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Sep 22 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/345)| | |
 Sep 15 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/343) | | |
-Sep 08 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/341)| | |
+Sep 08 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/341)| [Notes](notes/20200908-meeting-governance.md) | @i1skn, @dtavarez funding requests, remove @ignotus as BDFL, remove @hashmap from core team, approve CoC change, new RFCs |
 Sep 01 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/339) | [Notes](notes/20200901-meeting-development.md) | 5.0.0 planning, fix DAA, fee RFC, unscheduled hard forks, PIBD assignment |
 Aug 25 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/336)| [Notes](notes/20200825-meeting-governance.md) | Documentation update, funding non-MW repo projects |
 Aug 18 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/334) | [Notes](notes/20200818-meeting-development.md) | 5.0.0 planning, slatepack docs, eliminating finalize step, fee RFC / block size limit |
