@@ -14,7 +14,6 @@ ID | Date | Decision | Reference |
 70 | 20200908 | Remove @hashmap from core team | [Meeting Note](notes/20200908-meeting-governance.md#decision-remove-hashmap-from-core-team)
 69 | 20200908 | Remove @ignotus as BDFL | [Meeting Note](notes/20200908-meeting-governance.md#decision-remove-ignotus-as-bdfl)
 68 | 20200908 | Approve @dtavarez funding request | [Meeting Note](notes/20200908-meeting-governance.md#decision-approve-dtavarez-funding-request)
-68 | 20200908 | Approve @dtavarez funding request | [Meeting Note](notes/20200908-meeting-governance.md#decision-approve-i1skn-funding-request)
 67 | 20200908 | Approve @i1skn funding request | [Meeting Note](notes/20200908-meeting-governance.md#decision-approve-i1skn-funding-request)
 66 | 20200728 | Approve @paouky funding request | [Meeting Note](notes/20200728-meeting-governance.md#decision-approve-paouky-funding-request)
 65 | 20200630 | Approve @antiochp funding request (Q3 2020) | [Meeting Note](notes/20200630-meeting-governance.md#decision-approve-antiochp-funding-request)
