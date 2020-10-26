@@ -1,4 +1,4 @@
-# 2020Q2 Funding Transparency Report
+# 2020Q3 Funding Transparency Report
 
 Last updated: Oct 26 2020
 
