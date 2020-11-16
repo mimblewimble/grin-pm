@@ -25,8 +25,9 @@ Steps to be completed as part of every node or wallet release. Available [here](
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Nov 24 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/368) | | |
 Nov 17 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/366)| | |
-Nov 10 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/363) | | |
+Nov 10 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/363) | [Notes](notes/20201110-meeting-development.md) | Testnet mining, Re-org attack, v5.0.0 planning review |
 Nov 03 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/360)| [Notes](notes/20201103-meeting-governance.md) | Council accountability, HTTPs deprecation |
 Oct 27 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/358) | [Notes](notes/20201027-meeting-development.md) | v5.0.0 updates & risk mitigations, testnet mining |
 Oct 20 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/355)| [Notes](notes/20201020-meeting-governance.md) | @jaspervdm funding request, RFC reviews, Council accountability |
