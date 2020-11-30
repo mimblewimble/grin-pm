@@ -18,10 +18,6 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 
 _(apologies if I missed someone - submit a PR or contact @lehnberg to add)_
 
-## Agenda: Development, Nov 10 2020
-
-https://github.com/mimblewimble/grin-pm/issues/363
-
 ## Agenda points & Actions
 
 ### 1. Retrospective
@@ -30,7 +26,7 @@ https://github.com/mimblewimble/grin-pm/issues/363
 
 ### 2. Agenda review
 
-The [proposed agenda](https://github.com/mimblewimble/grin-pm/issues/360) was reviewed and accepted with a point added to discuss the recent re-org attack.
+The [proposed agenda](https://github.com/mimblewimble/grin-pm/issues/363) was reviewed and accepted with a point added to discuss the recent re-org attack.
 
 ### 3. Action point follow ups from previous meetings
 
