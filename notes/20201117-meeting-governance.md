@@ -18,9 +18,6 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 
 _(apologies if I missed someone - submit a PR or contact @lehnberg to add)_
 
-## Agenda: Governance, Nov 17 2020
-
-
 ## Agenda points & Actions
 
 ### 1. Agenda review
