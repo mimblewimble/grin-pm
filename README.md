@@ -25,8 +25,9 @@ Steps to be completed as part of every node or wallet release. Available [here](
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Dec 22 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/376) | | |
 Dec 15 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/374)| | |
-Dec 08 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/372) | | |
+Dec 08 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/372) | [Notes](notes/20201208-meeting-development.md) | Slatepack, v5.0.0 planning, Naming, API listening on 0.0.0.0 |
 Dec 01 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/370)| [Notes](notes/20201201-meeting-governance.md) | Slatepack, Fund for mining proposal, HTTPs deprecation, PIBD RFC |
 Nov 24 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/368) | [Notes](notes/20201124-meeting-development.md) | Slatepack, Testnet, Re-org attack, v5.0.0 planning review |
 Nov 17 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/366)| [Notes](notes/20201117-meeting-governance.md) | Slatepack, HTTPs deprecation, PIBD RFC |
