@@ -25,8 +25,9 @@ Steps to be completed as part of every node or wallet release. Available [here](
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Jan 12 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/380)| | |
 Jan 05 | Hybrid | [Agenda](https://github.com/mimblewimble/grin-pm/issues/378)| | |
-
+</details>
 
 ### 2020
 <details open>
@@ -34,7 +35,7 @@ Jan 05 | Hybrid | [Agenda](https://github.com/mimblewimble/grin-pm/issues/378)| 
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
-Dec 22 | Hybrid | [Agenda](https://github.com/mimblewimble/grin-pm/issues/376) | | |
+Dec 22 | Hybrid | [Agenda](https://github.com/mimblewimble/grin-pm/issues/376) | [Notes](notes/20201222-meeting-development.md) | @dtavarez funding request, v5.0.0 planning, Naming, API listening on 0.0.0.0 |
 Dec 15 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/374)| [Notes](notes/20201215-meeting-governance.md) | Holiday planning, Lehnberg Q1 2021 funding, PIBD RFC |
 Dec 08 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/372) | [Notes](notes/20201208-meeting-development.md) | Slatepack, v5.0.0 planning, Naming, API listening on 0.0.0.0 |
 Dec 01 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/370)| [Notes](notes/20201201-meeting-governance.md) | Slatepack, Fund for mining proposal, HTTPs deprecation, PIBD RFC |
