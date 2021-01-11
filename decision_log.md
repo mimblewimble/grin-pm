@@ -7,6 +7,7 @@ This document tracks decisions made by the Grin project and points to documentat
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+76 | 20201215 | Approve @dtavarez Q1 2021 funding request | [Meeting Note](notes/20201222-meeting-development.md#decision-approve-dtavarez-funding-request)
 75 | 20201215 | Approve @lehnberg Q1 2021 funding request | [Meeting Note](notes/20201215-meeting-governance.md#decision-approve-lehnberg-funding-request)
 74 | 20201020 | Approve @jaspervdm Nov-Jan 20/21 funding request | [Meeting Note](notes/20201020-meeting-governance.md#decision-approve-jaspervdm-funding-request)
 73 | 20201006 | Approve @lehnberg Q4 2020 funding request | [Meeting Note](notes/20201006-meeting-governance.md#decision-approve-lehnberg-funding-request)
