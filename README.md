@@ -25,8 +25,9 @@ Steps to be completed as part of every node or wallet release. Available [here](
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Jan 26 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/386)| | |
 Jan 19 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/383)| | |
-Jan 12 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/380)| | |
+Jan 12 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/380)| [Notes](notes/20210112-meeting-development.md) | v5.0.0 last check up, post 5.0.0 wish list brainstorm |
 Jan 05 | Hybrid | [Agenda](https://github.com/mimblewimble/grin-pm/issues/378)| [Notes](notes/20210105-meeting-governance.md) | v5 planning, ASICs ordering using General Fund |
 </details>
 
