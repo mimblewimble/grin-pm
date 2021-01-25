@@ -132,7 +132,7 @@ The [proposed agenda](https://github.com/mimblewimble/grin-pm/issues/383) was re
 - _yeastplume:_ The dialogue is open anyhow, perhaps we can put this down as an emerging topic and move on to the next meeting points.
    - 👍: _vegycslol, cekickafa, dburkett, jaspervdm, lehnberg_
 
-### 4. GPU server for testate mining costs
+### 4. GPU server for testnet mining costs
 - _jaspervdm:_ Right, just wanted to pose the question whether or not we want to continue renting the gpu server we currently have? If so, for how long? The 3rd month expires on the 10th of february.
 - _cekickafa:_ Better continue.
 - _yeastplume:_ I think it's good spend. The poor yeastmonster has been stripped and harvested, a victim of spousal hatred.
