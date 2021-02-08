@@ -25,8 +25,9 @@ Steps to be completed as part of every node or wallet release. Available [here](
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Feb 16 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/394)| | |
 Feb 09 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/391)| | |
-Feb 02 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/388)| | |
+Feb 02 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/388)| [Notes](notes/20210202-meeting-governance.md) | Discussion about Funding requests, Exchange support |
 Jan 26 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/386)| [Notes](notes/20210126-meeting-development.md) | hard fork evaluation, post 5.0.0 wish list prioritization |
 Jan 19 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/383)| [Notes](notes/20210119-meeting-governance.md) | 2021 priorities, VPS GPU testnet mining, aggregator bounty |
 Jan 12 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/380)| [Notes](notes/20210112-meeting-development.md) | v5.0.0 last check up, post 5.0.0 wish list brainstorm |
