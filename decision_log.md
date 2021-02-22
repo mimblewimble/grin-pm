@@ -7,6 +7,7 @@ This document tracks decisions made by the Grin project and points to documentat
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+78 | 20210216 | Approve @antiochp Q1 2021 funding request | [Meeting Note](notes/20210216-meeting-governance.md#decision-approve-antiochp-funding-request)
 77 | 20210119 | Approve expensing GPU server for testnet mining costs | [Meeting Note](notes/20210119-meeting-governance.md#4-gpu-server-for-testnet-mining-costs)
 76 | 20201215 | Approve @dtavarez Q1 2021 funding request | [Meeting Note](notes/20201222-meeting-development.md#decision-approve-dtavarez-funding-request)
 75 | 20201215 | Approve @lehnberg Q1 2021 funding request | [Meeting Note](notes/20201215-meeting-governance.md#decision-approve-lehnberg-funding-request)
