@@ -25,8 +25,9 @@ Steps to be completed as part of every node or wallet release. Available [here](
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Mar 09 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/400)| | |
 Mar 02 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/398)| | |
-Feb 23 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/396)| | |
+Feb 23 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/396)| [Notes](notes/20210209-meeting-development.md) | Keybase bridges |
 Feb 16 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/394)| [Notes](notes/20210216-meeting-governance.md) | Community funding, Antioch funding request |
 Feb 09 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/391)| [Notes](notes/20210209-meeting-development.md) | Bug bounties, Github cleaning, Release planning, Branching policy |
 Feb 02 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/388)| [Notes](notes/20210202-meeting-governance.md) | Discussion about Funding requests, Exchange support |
