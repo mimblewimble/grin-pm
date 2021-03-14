@@ -46,6 +46,8 @@ BTC|7.638498|0.002864|7.641362
 
 ### Comments
 * Tx outputs were split into smaller 10BTC chunks in this period. Aside from the transaction fees involved in doing so, all spending in the period was related to funding requests, specifically:
+   * [@lehnberg Q4 2020 funding + domain costs](../../notes/20201006-meeting-governance.md#decision-approve-lehnberg-funding-request)
+   * [@antiochp Q4 2020 funding](../../notes/20200922-meeting-governance.md#decision-approve-antiochp-funding-request)
    * [@jaspervdm Nov-Jan 2020/21](../../notes/20201020-meeting-governance.md#decision-approve-jaspervdm-funding-request)
    * [@lehnberg Q1 2021](../../notes/20201215-meeting-governance.md#decision-approve-lehnberg-funding-request)
    * [@davidtavarez Q1 2021](../../notes/20201222-meeting-development.md#decision-approve-dtavarez-funding-request)
