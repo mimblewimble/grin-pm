@@ -1,6 +1,6 @@
 # 2020Q1 Funding Transparency Report
 
-Last updated: Apr 13 2020
+Last updated: Mar 08 2021
 
 ## Introduction
 This document provides a high level overview of Grin's financials for Q1 of 2020 (Jan 01 - Mar 31). The purpose is to keep the community up to date on funding activity in transparent and digestible way. The data is derived from what is reported in the financial logs under [/grin-pm/financials](https://github.com/mimblewimble/grin-pm/tree/master/financials).
@@ -14,14 +14,13 @@ This document provides a high level overview of Grin's financials for Q1 of 2020
 
 ### Disposable funds
 
-
-At the end of Dec 31 2019, Grin held disposable funds to the equivalent of $911,645.89 in the following assets:
+At the end of Dec 31 2019, Grin held disposable funds to the equivalent of $911,420.70 in the following assets:
 
 Currency | Amount | USD x-rate Dec 31 2019 | USD Equivalent | Wallet address(es)
 |---|---:|---:|---:|---|
 GRIN | 3641.215226 | $0.951414 | $3,464.30 | https://donations.grin-tech.org
-BTC | 126.2485528 | $7,193.60 | $908,181.59 | 9hgKkhfPFpwKRQ6yARGwU2uuVay69NKu4<br />bc1qecw954uappnwhle6tmafqskn6vxmpr6lmmuwfwldphfxplcshgnssy9kmx
-| | | | $911,645.89 |
+BTC | 126.21724918 | $7,193.60 | $907,956.40 | 39hgKkhfPFpwKRQ6yARGwU2uuVay69NKu4<br />bc1qecw954uappnwhle6tmafqskn6vxmpr6lmmuwfwldphfxplcshgnssy9kmx
+| | | | $911,420.70 |
 
 ### Additional details
 * See the [2019Q4 report](funding_transparency_2019Q4.md).
@@ -41,9 +40,9 @@ BTC | 0.10503181 | 3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs<br />bc1qdgs8vkpzr256qjlzl
 
 During Jan 01 - Mar 31 2020, Grin spent the following assets:
 
-Currency | Amount | 
-|---|---:|
-BTC | 9.40977282 | 
+Currency | Amount | Tx fees | Total amount |
+|---|---:|---:|---:|
+BTC | 9.40977282 | 0.00059561 | 9.41036843 | 
 
 ### Comments
 * There was very little income during this period.
@@ -56,13 +55,13 @@ BTC | 9.40977282 |
 
 ### Disposable funds
 
-At the end of Mar 31 2020, Grin held disposable funds to the equivalent of $754,621.80 in the following assets:
+At the end of Mar 31 2020, Grin held disposable funds to the equivalent of $754,416.42 in the following assets:
 
 Currency | Amount | USD x-rate Mar 31 2020 | USD Equivalent | Wallet address(es)
 |---|---:|---:|---:|---|
 GRIN | 3647.21555489 | $0.455882 | $1,662.70 | https://donations.grin-tech.org
-BTC | 116.94381179 | $6,438.64 | $752,959.10 | 9hgKkhfPFpwKRQ6yARGwU2uuVay69NKu4<br />bc1qecw954uappnwhle6tmafqskn6vxmpr6lmmuwfwldphfxplcshgnssy9kmx
-| | | | $754,621.80 |
+BTC | 116.91191256 | $6,438.64 | $752,753.72 | 39hgKkhfPFpwKRQ6yARGwU2uuVay69NKu4<br />bc1qecw954uappnwhle6tmafqskn6vxmpr6lmmuwfwldphfxplcshgnssy9kmx
+| | | | $754,416.42 |
 
 ### Comments
 * Quarter over Quarter, the disposable funds decreased by ~ $157,000.

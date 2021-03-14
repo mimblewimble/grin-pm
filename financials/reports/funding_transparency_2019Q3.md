@@ -1,6 +1,6 @@
 # 2019Q3 Funding Transparency Report
 
-Last updated: Dec 06 2019
+Last updated: Mar 06 2021
 
 ## Introduction
 This document provides a high level overview of Grin's financials for Q3 of 2019 (Jul 01 - Sep 30). The purpose is to keep the community up to date on funding activity in transparent and digestible way. The data is derived from what's reported in the financial logs under [/grin-pm/financials](https://github.com/mimblewimble/grin-pm/tree/master/financials).
@@ -14,12 +14,12 @@ This document provides a high level overview of Grin's financials for Q3 of 2019
 
 ### Disposable funds
 
-At the end of Jun 30 2019, Grin held disposable funds to the equivalent of $828,991.74 in the following assets:
+At the end of Jun 30 2019, Grin held disposable funds to the equivalent of $828,935.54 in the following assets:
 
 Currency | Amount | USD x-rate Jun 30 2019 | USD Equivalent | Wallet address(es)
 |---|---:|---:|---:|---|
-BTC | 76.63672687 | 10,817.16 | $828,991.74 | 3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs <br />bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65
-| | | | $828,991.74 |
+BTC | 76.63153207 | 10,817.16 | $828,935.54 | 3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs <br />bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65
+| | | | $828,935.54 |
 
 ### Inaccessible funds
 
@@ -47,10 +47,10 @@ BTC | 1.16 | 3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs <br />bc1qdgs8vkpzr256qjlzlfht72
 
 During Jul 01 - Sep 30 2019, Grin spent the following assets:
 
-Currency | Amount | 
-|---|---:|
-GRIN | 3156 | 
-BTC | 2.98 | 
+Currency | Amount | Tx fees | Total amount |
+|---|---:|---:|---:|
+GRIN | 3156 | | |
+BTC | 2.98 | 0.00008141 | 2.98008141 |
 
 
 ### Comments
@@ -63,13 +63,13 @@ BTC | 2.98 |
 
 ### Disposable funds
 
-At the end of Sep 30 2019, Grin held disposable funds to the equivalent of $620,521.18 in the following assets:
+At the end of Sep 30 2019, Grin held disposable funds to the equivalent of $620,477.83 in the following assets:
 
 Currency | Amount | USD x-rate Sep 30 2019 | USD Equivalent | Wallet address(es)
 |---|---:|---:|---:|---|
 GRIN | 0.7 | $1.38 | $0.97 | https://donations.grin-tech.org
-BTC | 74.81672687 | $8,293.87 | $620,520.21 | 3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs <br />bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65
-| | | | $620,521.18 |
+BTC | 74.81145066 | $8,293.87 | $620,476.45 | 3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs <br />bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65
+| | | | $620,477.83 |
 
 ### Inaccessible funds
 Having had no news from Ignotus during the quarter, we no longer expect these funds to be recoverable, and instead consider them lost permanently. There possibility of course remains that Ignotus returns to the project, which could lead to these funds being recovered. In that case it will be considered new income at the time.

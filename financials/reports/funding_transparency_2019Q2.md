@@ -1,6 +1,6 @@
 # 2019Q2 Funding Transparency Report
 
-Last updated: Dec 06 2019
+Last updated: Mar 06 2021
 
 ## Introduction
 This document provides a high level overview of Grin's financials for Q2 of 2019 (Apr 01 - Jun 30). The purpose is to keep the community up to date on funding activity in transparent and digestible way. The data is derived from what's reported in the financial logs under [/grin-pm/financials](https://github.com/mimblewimble/grin-pm/tree/master/financials).
@@ -14,14 +14,14 @@ This document provides a high level overview of Grin's financials for Q2 of 2019
 
 ## Status before the period
 
-At the end of Mar 31 2019, Grin held the equivalent of $123,423.73 in the following assets:
+At the end of Mar 31 2019, Grin held the equivalent of $123,404.98 in the following assets:
 
 Currency | Amount | USD x-rate Mar 31 2019 | USD Equivalent | Wallet address(es)
 |---|---:|---:|---:|---|
 GRIN | 498.217203 | 3.51 | $1,748.74 | N/A
-BTC | 29.55512885 | 4,105.40 | $121,335.63 | 3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs <br />bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65
-ZEC | 5.8 | 58.51 | $339.358 | t1QGYYXan3HHEuiPEfccKnUuWEP4CsVvPA5 |
-| | | | $123,423.73 |
+BTC | 29.55056279 | 4,105.40 | $121,316.88 | 3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs <br />bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65
+ZEC | 5.8 | 58.51 | $339.36 | t1QGYYXan3HHEuiPEfccKnUuWEP4CsVvPA5 |
+| | | | $123,404.98 |
 
 ### Comments
 * See details in the [2019Q1 report](funding_transparency_2019Q1.md).
@@ -40,11 +40,11 @@ ETH | 60.21257467 | 0x16726940ecebdfb3c352c29bf2620f59ef919a3b
 
 During Apr 01 - Jun 30 2019, Grin spent the following assets:
 
-Currency | Amount | 
-|---|---:|
-GRIN | 1888 | 
-BTC | 10.458 | 
-ETH | 58.47 |
+Currency | Amount | Tx fees | Total amount |
+|---|---:|---:|---:|
+GRIN | 1888 | | |
+BTC | 10.458 | 0.00062874| 10.45862874 |
+ETH | 58.47 | | |
 
 
 ### Comments
@@ -70,12 +70,12 @@ We expect these funds to be unavailable temporarily and recoverable once Ignotus
 
 ### Disposable funds
 
-At the end of Jun 30 2019, Grin held disposable funds to the equivalent of $828,991.74 in the following assets:
+At the end of Jun 30 2019, Grin held disposable funds to the equivalent of $828,935.54 in the following assets:
 
 Currency | Amount | USD x-rate Jun 30 2019 | USD Equivalent | Wallet address(es)
 |---|---:|---:|---:|---|
-BTC | 76.63672687 | 10,817.16 | $828,991.74 | 3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs <br />bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65
-| | | | $828,991.74 |
+BTC | 76.63153207 | 10,817.16 | $828,935.54 | 3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs <br />bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65
+| | | | $828,935.54 |
 
 ### Comments
 * Beneficial movements in the BTC exchange rate during the period.

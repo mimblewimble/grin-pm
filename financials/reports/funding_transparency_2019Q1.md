@@ -1,6 +1,6 @@
 # 2019Q1 Funding Transparency Report
 
-Last updated: May 02 2019
+Last updated: Mar 06 2021
 
 ## Introduction
 This document provides a high level overview of Grin's financials for Q1 of 2019 (Jan 01 - Mar 31). The purpose is to keep the community up to date on funding activity in transparent and digestible way. This is the first attempt at such a report, and is based on financial logs that was introduced during the quarter.
@@ -59,11 +59,11 @@ GRIN | 207.0 | ~€950 |
 
 During Jan 01 - Mar 31 2019, Grin spent the following assets:
 
-Currency | Amount | Wallet address(es)
-|---|---:|---|
-GRIN | 9,593.296153967 | N/A
-BTC | 4.482 | 3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs
-USD | 3600 | N/A
+Currency | Amount | Tx fees | Total amount | Wallet address(es)
+|---|---:|---:|---:|---|
+GRIN | 9,593.296153967 | | | N/A
+BTC | 4.482 | 0.00456606 | 4.48656606 |3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs
+USD | 3600 | | | N/A
 
 
 ### Comments
@@ -74,14 +74,14 @@ USD | 3600 | N/A
 
 ## Status after the period
 
-At the end of Mar 31 2019, Grin held the equivalent of $123,423.73 in the following assets:
+At the end of Mar 31 2019, Grin held the equivalent of $123,404.98 in the following assets:
 
 Currency | Amount | USD x-rate Mar 31 2019 | USD Equivalent | Wallet address(es)
 |---|---:|---:|---:|---|
 GRIN | 498.217203 | 3.51 | $1,748.74 | N/A
-BTC | 29.55512885 | 4,105.40 | $121,335.63 | 3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs <br />bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65
-ZEC | 5.8 | 58.51 | $339.358 | t1QGYYXan3HHEuiPEfccKnUuWEP4CsVvPA5 |
-| | | | $123,423.73 |
+BTC | 29.55056279 | 4,105.40 | $121,316.88 | 3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs <br />bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65
+ZEC | 5.8 | 58.51 | $339.36 | t1QGYYXan3HHEuiPEfccKnUuWEP4CsVvPA5 |
+| | | | $123,404.98 |
 
 ### Comments
 * Some minor beneficial movements in currency exchange rates.
