@@ -27,7 +27,7 @@ Due to [Ignotus absence](https://forum.grin.mw/t/on-ignos-absence/5301) as first
 
 Currency | Amount | Wallet address(es)
 |---|---:|---|
-GRIN | 7120.367203 | https://donations.grin-tech.org
+GRIN | 7120.367203 | grin1wm78wjsf2ws507hea4zqrcywxltjwhtgfrwzhdrr9l80l7tpz5fsj58lk0
 ZEC | 5.8 | t1QGYYXan3HHEuiPEfccKnUuWEP4CsVvPA5
 ETH | 1.742385670725710718 | 0x16726940eCEBdfb3c352C29bF2620f59EF919a3b
 
@@ -67,7 +67,7 @@ At the end of Sep 30 2019, Grin held disposable funds to the equivalent of $620,
 
 Currency | Amount | USD x-rate Sep 30 2019 | USD Equivalent | Wallet address(es)
 |---|---:|---:|---:|---|
-GRIN | 0.7 | $1.38 | $0.97 | https://donations.grin-tech.org
+GRIN | 0.7 | $1.38 | $0.97 | grin1wm78wjsf2ws507hea4zqrcywxltjwhtgfrwzhdrr9l80l7tpz5fsj58lk0
 BTC | 74.81145066 | $8,293.87 | $620,476.45 | 3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs <br />bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65
 | | | | $620,477.83 |
 
@@ -76,7 +76,7 @@ Having had no news from Ignotus during the quarter, we no longer expect these fu
 
 Currency | Amount | Wallet address(es)
 |---|---:|---|
-GRIN | 7120.367203 | https://donations.grin-tech.org
+GRIN | 7120.367203 | grin1wm78wjsf2ws507hea4zqrcywxltjwhtgfrwzhdrr9l80l7tpz5fsj58lk0
 ZEC | 5.8 | t1QGYYXan3HHEuiPEfccKnUuWEP4CsVvPA5
 ETH | 1.742385670725710718 | 0x16726940eCEBdfb3c352C29bF2620f59EF919a3b
 

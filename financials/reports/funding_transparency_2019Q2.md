@@ -32,7 +32,7 @@ During Apr 01 - Jun 30 2019, Grin received the following assets:
 
 Currency | Amount | Wallet address(es)
 |---|---:|---|
-GRIN | 8510.15 | https://donations.grin-tech.org
+GRIN | 8510.15 | grin1wm78wjsf2ws507hea4zqrcywxltjwhtgfrwzhdrr9l80l7tpz5fsj58lk0
 BTC | 57.53959802 | 3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs <br />bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65
 ETH | 60.21257467 | 0x16726940ecebdfb3c352c29bf2620f59ef919a3b 
 
@@ -62,7 +62,7 @@ Due to [Ignotus absence](https://forum.grin.mw/t/on-ignos-absence/5301) in this 
 
 Currency | Amount | Wallet address(es)
 |---|---:|---|
-GRIN | 7120.367203 | https://donations.grin-tech.org
+GRIN | 7120.367203 | grin1wm78wjsf2ws507hea4zqrcywxltjwhtgfrwzhdrr9l80l7tpz5fsj58lk0
 ZEC | 5.8 | t1QGYYXan3HHEuiPEfccKnUuWEP4CsVvPA5
 ETH | 1.742385670725710718 | 0x16726940eCEBdfb3c352C29bF2620f59EF919a3b
 
