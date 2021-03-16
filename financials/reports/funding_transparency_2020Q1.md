@@ -18,7 +18,7 @@ At the end of Dec 31 2019, Grin held disposable funds to the equivalent of $911,
 
 Currency | Amount | USD x-rate Dec 31 2019 | USD Equivalent | Wallet address(es)
 |---|---:|---:|---:|---|
-GRIN | 3641.215226 | $0.951414 | $3,464.30 | grin1wm78wjsf2ws507hea4zqrcywxltjwhtgfrwzhdrr9l80l7tpz5fsj58lk0
+GRIN | 3641.215226 | $0.951414 | $3,464.30 | `https://donations.grin-tech.org`
 BTC | 126.21724918 | $7,193.60 | $907,956.40 | 39hgKkhfPFpwKRQ6yARGwU2uuVay69NKu4<br />bc1qecw954uappnwhle6tmafqskn6vxmpr6lmmuwfwldphfxplcshgnssy9kmx
 | | | | $911,420.70 |
 
@@ -59,7 +59,7 @@ At the end of Mar 31 2020, Grin held disposable funds to the equivalent of $754,
 
 Currency | Amount | USD x-rate Mar 31 2020 | USD Equivalent | Wallet address(es)
 |---|---:|---:|---:|---|
-GRIN | 3647.21555489 | $0.455882 | $1,662.70 | grin1wm78wjsf2ws507hea4zqrcywxltjwhtgfrwzhdrr9l80l7tpz5fsj58lk0
+GRIN | 3647.21555489 | $0.455882 | $1,662.70 | `https://donations.grin-tech.org`
 BTC | 116.91191256 | $6,438.64 | $752,753.72 | 39hgKkhfPFpwKRQ6yARGwU2uuVay69NKu4<br />bc1qecw954uappnwhle6tmafqskn6vxmpr6lmmuwfwldphfxplcshgnssy9kmx
 | | | | $754,416.42 |
 
