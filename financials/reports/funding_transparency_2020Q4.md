@@ -33,7 +33,7 @@ During Oct 01 - Dec 30 2020, Grin received the following assets:
 
 Currency | Amount | Wallet address(es)
 |---|---:|---|
-GRIN | 0 | `https://donations.grin-tech.org`
+GRIN | 0 | https://council-donations.yeastplume.org
 BTC | 0 | bc1qecw954uappnwhle6tmafqskn6vxmpr6lmmuwfwldphfxplcshgnssy9kmx <br/> 39hgKkhfPFpwKRQ6yARGwU2uuVay69NKu4
 
 ### Spent
