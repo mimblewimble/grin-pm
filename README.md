@@ -25,8 +25,9 @@ Steps to be completed as part of every node or wallet release. Available [here](
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Mar 30 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/410)| | |
 Mar 23 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/408)| | |
-Mar 16 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/403)| | |
+Mar 16 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/403)| [Notes](notes/20210316-meeting-governance.md) | Ledger bounty, Community funding |
 Mar 09 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/400)| [Notes](notes/20210309-meeting-development.md) | Bug bounties, libsecp fork, PR cleanup, 5.1.0 release, archival nodes |
 Mar 02 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/398)| [Notes](notes/20210302-meeting-governance.md) | Send ASIC to Hendi, Community funding |
 Feb 23 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/396)| [Notes](notes/20210223-meeting-development.md) | Keybase bridges |
