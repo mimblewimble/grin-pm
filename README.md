@@ -25,8 +25,9 @@ Steps to be completed as part of every node or wallet release. Available [here](
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
+Apr 06 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/412)| | |
 Mar 30 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/410)| | |
-Mar 23 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/408)| | |
+Mar 23 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/408)| [Notes](notes/20210323-meeting-development.md) | BP Vulnerability, Bug bounties, 5.1.0 release |
 Mar 16 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/403)| [Notes](notes/20210316-meeting-governance.md) | Ledger bounty, Community funding |
 Mar 09 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/400)| [Notes](notes/20210309-meeting-development.md) | Bug bounties, libsecp fork, PR cleanup, 5.1.0 release, archival nodes |
 Mar 02 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/398)| [Notes](notes/20210302-meeting-governance.md) | Send ASIC to Hendi, Community funding |
