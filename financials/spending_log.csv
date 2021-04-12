@@ -51,3 +51,5 @@ spend_id,date,spend_description,decision_log_id,currency,amount,exchange_rate,US
 50,20191113,test,N/A,BTC,0.00360994,0,0,0.00002761,bc1qj97v2udv85f874n874fztd868rsuvty2dull4n,many,abe765890b8f02dffe1910a0e9aa02fc92e35b2b3e92f75c5691cd70e303ec91,receive test (still there) 
 51,20191113,test,N/A,BTC,0.00024557,0,0,0.00009688,39hgKkhfPFpwKRQ6yARGwU2uuVay69NKu4,1FMmXfjD9GsZmQ9hLsvEL7nM3MrKrN39FQ,262f665fd1ee55360a1cedd9ae468a5a852b5f1766b9eb38e617160fa171ba1d,send test (still there) 
 52,20191113,discrepancy,N/A,BTC,0.01744541,0,0,0,N/A,N/A,N/A,Accounting discrepancy discovered March 08 2021: most likely arisen due to the old way we were handling addresses and outputs prior to the consolidation. 
+53,20210302,antiochp Feb/Mar 2021 funding,78,BTC,0.505,48378.99,24431.39,0.000248,bc1qecw954uappnwhle6tmafqskn6vxmpr6lmmuwfwldphfxplcshgnssy9kmx,bc1q7fqfts8wgmepyewtx399j9cy0ma7js87p5u009,58caab2aa55162f31b51ac799593bbb428ce2fd1a3ff6b48fb7274bf4778cb6c,full payment (2 months)
+
