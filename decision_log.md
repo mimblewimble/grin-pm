@@ -7,6 +7,10 @@ This document tracks decisions made by the Grin project and points to documentat
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+83 | 20210413 | Approve @antiochp Q2 2021 funding request | tbd
+82 | 20210331 | Approve @gene funding request | tbd
+81 | 20210331 | Approve @trevyn funding request | tbd
+80 | tbd | Inflation bug bounty decision | tbd
 79 | 20210302 | Ship Council ASIC to @hendi | [Meeting Note](notes/20210302-meeting-governance.md#decision-ship-council-asic-to-hendi)
 78 | 20210216 | Approve @antiochp Q1 2021 funding request | [Meeting Note](notes/20210216-meeting-governance.md#decision-approve-antiochp-funding-request)
 77 | 20210119 | Approve expensing GPU server for testnet mining costs | [Meeting Note](notes/20210119-meeting-governance.md#4-gpu-server-for-testnet-mining-costs)
@@ -60,10 +64,10 @@ ID | Date | Decision | Reference |
 30 | 20190326 | Next steps in POW phase out discussion | [Meeting Note](notes/20190326-meeting-governance.md#decision-next-steps-regarding-phase-out-discussion)
 29 | 20190326 | Treasury management of ETH | [Meeting Note](notes/20190326-meeting-governance.md#decision-treasury-management-of-eth)
 28 | 20190326 | Funding for Antioch Peverell re-evaluated | [Meeting Note](notes/20190326-meeting-governance.md#decision-antiochp-funding-re-evaluation)
-27 | 20190312 | Funding for Ignotus Peverell  | [Meeting Note](notes/20190312-meeting-governance.md#decision-funding-for-ignotus-peverell) 
-26 | 20190312 | Quarterly income and spend reporting  | [Meeting Note](notes/20190312-meeting-governance.md#54-decision-reporting) 
-25 | 20190312 | How to update spending logs  | [Meeting Note](notes/20190312-meeting-governance.md#53-decision-updating-income-spending-logs) 
-24 | 20190312 | Treasury management and how to handle crypto balances  | [Meeting Note](notes/20190312-meeting-governance.md#decision-treasury-management) 
+27 | 20190312 | Funding for Ignotus Peverell  | [Meeting Note](notes/20190312-meeting-governance.md#decision-funding-for-ignotus-peverell)
+26 | 20190312 | Quarterly income and spend reporting  | [Meeting Note](notes/20190312-meeting-governance.md#54-decision-reporting)
+25 | 20190312 | How to update spending logs  | [Meeting Note](notes/20190312-meeting-governance.md#53-decision-updating-income-spending-logs)
+24 | 20190312 | Treasury management and how to handle crypto balances  | [Meeting Note](notes/20190312-meeting-governance.md#decision-treasury-management)
 23 | 20190312 | Review security vulnerability process | [Meeting Note](notes/20190312-meeting-governance.md#decision-review-our-security-vulnerability-process)
 22 | 20190312 | Move yeastplume funding out of income log | [Meeting Note](notes/20190312-meeting-governance.md#decision-move-out-yeastplume-funding-from-income_log)
 21 | 20190226 | Funding for antiochp | [Meeting Note](notes/20190226-meeting-governance.md#decision-fundingfor-antioch-peverell)
