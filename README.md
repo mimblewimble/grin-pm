@@ -27,7 +27,7 @@ Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
 Apr 27 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/418) | [Notes](notes/20210427-meeting-governance.md) | |
 Apr 20 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/416) | [Notes](notes/20210420-meeting-development.md) | |
-Apr 13 | Governance | [Notes](notes/20210323-meeting-development.md | [Notes](notes/20210413-meeting-governance.md) |
+Apr 13 | Governance | [Notes](notes/20210323-meeting-development.md) | [Notes](notes/20210413-meeting-governance.md) | |
 Apr 06 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/412) | [Notes](notes/20210406-meeting-development.md) |
 Mar 30 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/410)| [Notes](notes/20210330-meeting-governance.md) | 
 Mar 23 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/408) | [Notes](notes/20210323-meeting-development.md) | BP Vulnerability, Bug bounties, 5.1.0 release |
