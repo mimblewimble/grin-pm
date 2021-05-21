@@ -27,7 +27,7 @@ Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
 Apr 27 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/418) | [Notes](notes/20210427-meeting-governance.md) | Ledger Support Moves Forward with Mark_Hollis, Community Funding |
 Apr 20 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/416) | [Notes](notes/20210420-meeting-development.md) | Fix-past-fees, 5.1.0 Release |
-Apr 13 | Governance | [Notes](notes/20210323-meeting-development.md) | [Notes](notes/20210413-meeting-governance.md) | Community Fund Public Announcement, Fix-past-fees  |
+Apr 13 | Governance | [Agenda](notes/20210413-meeting-governance.md) | [Notes](notes/20210413-meeting-governance.md) | Community Fund Public Announcement, Fix-past-fees  |
 Apr 06 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/412) | [Notes](notes/20210406-meeting-development.md) | FCP, secp256k1-zkp Rebase |
 Mar 30 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/410)| [Notes](notes/20210330-meeting-governance.md) | Atomic Swap, Community Council Application |
 Mar 23 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/408) | [Notes](notes/20210323-meeting-development.md) | BP Vulnerability, Bug bounties, 5.1.0 release |
