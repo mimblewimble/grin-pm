@@ -25,8 +25,13 @@ Steps to be completed as part of every node or wallet release. Available [here](
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
-Apr 06 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/412)| | |
-Mar 30 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/410)| | |
+ 
+
+May 04 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/412)| [Notes](notes/20210504-meeting-governance.md) | |
+Apr 20 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/419)| [Notes](notes/20210420-meeting-development.md) | |
+Apr 13 | Governance | | [Notes](notes/20210323-meeting-development.md | [Notes](notes/20210413-meeting-governance.md) |
+Apr 06 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/412)| | [Notes](notes/20210406-meeting-development.md) |
+Mar 30 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/410)| | [Notes](notes/20210330-meeting-governance.md) |
 Mar 23 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/408)| [Notes](notes/20210323-meeting-development.md) | BP Vulnerability, Bug bounties, 5.1.0 release |
 Mar 16 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/403)| [Notes](notes/20210316-meeting-governance.md) | Ledger bounty, Community funding |
 Mar 09 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/400)| [Notes](notes/20210309-meeting-development.md) | Bug bounties, libsecp fork, PR cleanup, 5.1.0 release, archival nodes |
