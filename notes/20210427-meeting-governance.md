@@ -28,10 +28,7 @@ _(apologies if I missed someone - submit a PR or contact @lehnberg to add)_
 
 ## Agenda points & Actions
 ### 1. Retrospective
-- _joltz:_ Action points have been followed up on from last time. Anything new in Bounty Status? 
- - _mark_hollis:_ I've looked how Monero and BeamMW approached certain technical issues, like opening an existing wallet, which data the wallet needs for signing during different transaction types etc. I did mostly some research the last weeks. No blockers at the moment.
-
-https://forum.grin.mw/t/grin-ledger-hardware-wallet-progress-thread-by-markhollis/8670/5
+- _joltz:_ Action points have been followed up on from last time.
 
 ### 2. Agenda review
 The [proposed agenda](agenda for dev meeting later today - https://github.com/mimblewimble/grin-pm/issues/418) was accepted without changes.
