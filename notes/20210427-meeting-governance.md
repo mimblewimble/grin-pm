@@ -41,7 +41,7 @@ The [proposed agenda](agenda for dev meeting later today - https://github.com/mi
 - _joltz:_ Fix past fees RFC (https://github.com/mimblewimble/grin-rfcs/pull/77) should be ready to be merged and accepted as an RFC. Does anyone here with commit access mind wrapping up last steps there?
  - _antiochp:_ I can take a look at getting this merged.
 
-### 6. Community Funding Update 
+### 6. Community Council Candidates - Voting Done on Forum 
 (https://forum.grin.mw/t/call-for-grin-community-candidates-for-additional-fund-granting-control/8521/4 )
 
 - _joltz:_ The community is voting on each candidate by liking their forum post. If you are a candidate and have not made a post, please do so now
