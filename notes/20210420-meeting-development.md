@@ -29,7 +29,7 @@ and in parallel the secp256k1-zkp rebase
 The [proposed agenda](agenda for dev meeting later today - https://github.com/mimblewimble/grin-pm/issues/416) was accepted without changes.
 
 ### 3. Action point follow ups from previous meetings
-- Triage / GitHub cleaning is is ongoing with @ phyro.
+- Triage / GitHub cleaning is ongoing with @ phyro.
  - _phyro:_ I would like to add that we need more people looking at the grin-wallet. Right now we ping quentin for most things, but it's quite a lot and things. We may be moving a bit slow on that repo imo
 
 - "fixpastfees" RFC -> FCP
