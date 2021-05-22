@@ -1,6 +1,6 @@
 # Meeting Notes: Development, Apr 06 2021
 
-Governance meeting held @ 3PM [UTC](http://www.timebie.com/std/utc.php) in [grincoin#dev channel on Keybase](https://keybase.io/team/grincoin). Meeting lasted ~ 30 min.
+Governance meeting held @ 3PM [UTC](http://www.timebie.com/std/utc.php) in [grincoin#dev channel on Keybase](https://keybase.io/team/grincoin). Meeting lasted ~ 45 min.
 
 Notes are truncated, and conversations sorted based on topic and not always chronological. Quotes are edited for brevity and clarity, and not always exact.
 
@@ -39,6 +39,6 @@ but its not far off, maybe a couple of weeks (plus some testing)
 _None._
 
 
- 
+
 
 **Meeting adjourned.**

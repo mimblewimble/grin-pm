@@ -1,6 +1,6 @@
 # Meeting Notes: Governance, Apr 13 2021
 
-Governance meeting held @ 3PM [UTC](http://www.timebie.com/std/utc.php) in [grincoin#general channel on Keybase](https://keybase.io/team/grincoin). Meeting lasted ~ 30 min.
+Governance meeting held @ 3PM [UTC](http://www.timebie.com/std/utc.php) in [grincoin#general channel on Keybase](https://keybase.io/team/grincoin). Meeting lasted ~ 50 min.
 
 Notes are truncated, and conversations sorted based on topic and not always chronological. Quotes are edited for brevity and clarity, and not always exact.
 
@@ -51,7 +51,7 @@ The main task I'm now looking into is how grin-wallet could initialize a wallet 
 - Not a major update, the decision making process is still ongoing.
 
 
-### 5.1 Community Fund Announcement 
+### 5.1 Community Fund Announcement
 - _mcmmike:_ I would like, once we agreed on the candidates to have a public announcment where we (or you as a council) descibe what we have done and what the community fund will be used for. This is more like a "press release" because I am getting a lot of questions regarding the history of this community-funds on why it exists, etc. its important to put it into context I think for the public
  - 👍: _renzokuken, _goyle, _defistalker, _ollx2070, _quentinlesceller
 
@@ -68,7 +68,7 @@ If anyone else would like to contribute to that please ping @mcmmike
 
 
 
-### 7. Funding Request @ antiochp 
+### 7. Funding Request @ antiochp
 [here](https://forum.grin.mw/t/request-for-funding-antioch-apr-jun-q2-2021/871)
 - Consensus to approve @ antiochp funding request for q2 2021 passed:
  - 👍:_dburkett,  _renzokuken,  _goyle,  _defistalker,  _ollx2070,  _quentinlesceller, _mcmmike, _cekickafa, _geneferneau, _phyro, _tromp, _defistalker, _dtavarez, _unpourtous
@@ -76,6 +76,6 @@ If anyone else would like to contribute to that please ping @mcmmike
 ### 7. Other Questions
 
 
- 
+
 
 **Meeting adjourned.**

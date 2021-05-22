@@ -1,6 +1,6 @@
 # Meeting Notes: Governance, Apr 27 2021
 
-Governance meeting held @ 3PM [UTC](http://www.timebie.com/std/utc.php) in [grincoin#general channel on Keybase](https://keybase.io/team/grincoin). Meeting lasted ~ 30 min.
+Governance meeting held @ 3PM [UTC](http://www.timebie.com/std/utc.php) in [grincoin#general channel on Keybase](https://keybase.io/team/grincoin). Meeting lasted ~ 60 min.
 
 Notes are truncated, and conversations sorted based on topic and not always chronological. Quotes are edited for brevity and clarity, and not always exact.
 
@@ -15,7 +15,7 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 - mcmmike
 - mark_hollis
 - vegycslol
-- hendi 
+- hendi
 - goyle
 - cekickafa
 - defistaker
@@ -28,7 +28,10 @@ _(apologies if I missed someone - submit a PR or contact @lehnberg to add)_
 
 ## Agenda points & Actions
 ### 1. Retrospective
-- _joltz:_ Action points have been followed up on from last time.
+- _joltz:_ Action points have been followed up on from last time. Anything new in Bounty Status?
+ - _mark_hollis:_ I've looked how Monero and BeamMW approached certain technical issues, like opening an existing wallet, which data the wallet needs for signing during different transaction types etc. I did mostly some research the last weeks. No blockers at the moment.
+
+https://forum.grin.mw/t/grin-ledger-hardware-wallet-progress-thread-by-markhollis/8670/5
 
 ### 2. Agenda review
 The [proposed agenda](agenda for dev meeting later today - https://github.com/mimblewimble/grin-pm/issues/418) was accepted without changes.
@@ -41,7 +44,7 @@ The [proposed agenda](agenda for dev meeting later today - https://github.com/mi
 - _joltz:_ Fix past fees RFC (https://github.com/mimblewimble/grin-rfcs/pull/77) should be ready to be merged and accepted as an RFC. Does anyone here with commit access mind wrapping up last steps there?
  - _antiochp:_ I can take a look at getting this merged.
 
-### 6. Community Council Candidates - Voting Now on Forum 
+### 6. Community Funding Update
 (https://forum.grin.mw/t/call-for-grin-community-candidates-for-additional-fund-granting-control/8521/4 )
 
 - _joltz:_ The community is voting on each candidate by liking their forum post. If you are a candidate and have not made a post, please do so now

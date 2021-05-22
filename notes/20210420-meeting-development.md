@@ -1,6 +1,6 @@
-# Meeting Notes: Development, Apr 06 2021
+# Meeting Notes: Development, Apr 20 2021
 
-Governance meeting held @ 3PM [UTC](http://www.timebie.com/std/utc.php) in [grincoin#dev channel on Keybase](https://keybase.io/team/grincoin). Meeting lasted ~ 30 min.
+Governance meeting held @ 3PM [UTC](http://www.timebie.com/std/utc.php) in [grincoin#dev channel on Keybase](https://keybase.io/team/grincoin). Meeting lasted ~ 50 min.
 
 Notes are truncated, and conversations sorted based on topic and not always chronological. Quotes are edited for brevity and clarity, and not always exact.
 
@@ -29,7 +29,7 @@ and in parallel the secp256k1-zkp rebase
 The [proposed agenda](agenda for dev meeting later today - https://github.com/mimblewimble/grin-pm/issues/416) was accepted without changes.
 
 ### 3. Action point follow ups from previous meetings
-- Triage / GitHub cleaning is ongoing with @ phyro.
+- Triage / GitHub cleaning is is ongoing with @ phyro.
  - _phyro:_ I would like to add that we need more people looking at the grin-wallet. Right now we ping quentin for most things, but it's quite a lot and things. We may be moving a bit slow on that repo imo
 
 - "fixpastfees" RFC -> FCP
@@ -54,6 +54,6 @@ No ETA but the biggest part is done.
 _None._
 
 
- 
+
 
 **Meeting adjourned.**
