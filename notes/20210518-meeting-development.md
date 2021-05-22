@@ -26,22 +26,8 @@ _(apologies if I missed someone - submit a PR or contact @lehnberg to add)_
 The [proposed agenda](agenda for dev meeting later today - https://github.com/mimblewimble/grin-pm/issues/419) was accepted without changes.
 
 ### 4. Atomic-Swaps bounty update with @geneferneau
-
-I haven't tested the RPC/sync workflow, yet (still syncing testnet chain). There are tests for the command line / manual flow, though
-
-@deeev was kind enough to donate some testnet coins, so I should be able to do a testnet tx when the chain syncs. If people want to try out  the wallet commands, I can write up a basic tutorial
-
-but, my tree is based on a fork of `grin` that doesn't include fixpastfees (waiting to update after `grin-wallet` gets it)
-
-so, I think I'll be spending the rest of this week testing + writing docs and RFC
-
-I'll be making my atomic swap PR pretty soon. next for the RFC to communicate the design, then the PR for review
-
-
-
-
-
- - _:_ Any known blocks to merge the PR? Just needs more review?
+- _geneferneau:_ I haven't tested the RPC/sync workflow, yet (still syncing testnet chain). There are tests for the command line / manual flow, though @deeev was kind enough to donate some testnet coins, so I should be able to do a testnet tx when the chain syncs. If people want to try out  the wallet commands, I can write up a basic tutorial but, my tree is based on a fork of `grin` that doesn't include fixpastfees (waiting to update after `grin-wallet` gets it so, I think I'll be spending the rest of this week testing + writing docs and RFC; I'll be making my atomic swap PR pretty soon. next for the RFC to communicate the design, then the PR for review
+ - _joltz:_ Any known blocks to merge the PR? Just needs more review?
   - _tromp:_ need 2 more reviews ideally. can you review, @dburkett and @quentinlesceller ? (https://github.com/mimblewimble/grin-wallet/pull/602)
    - _quentinlesceller:_ yes absolutely can review that
    - _dburkett:_ It looked fairly straightforward, so I should be able to fit that in today; I will also try to get to gene's grin-wallet PR later today.
