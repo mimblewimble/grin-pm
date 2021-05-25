@@ -5,6 +5,7 @@ Last updated: 25/05/21
 ## Table of Contents
 1. [Introduction](#introduction)
 1. [Crates.io](#crates.io)
+1. [Discord](#discord)
 1. [Email](#email)
 1. [Forum](#forum)
 1. [Funds](#funds)
@@ -12,6 +13,7 @@ Last updated: 25/05/21
 1. [Keybase](#keybase)
 1. [Mailing List](#mailing-list)
 1. [Snapcraft](#snapcraft)
+1. [Telegram](#telegram)
 1. [Twitter](#twitter)
 1. [Website](#website)
 
@@ -26,6 +28,11 @@ Ability to publish to [grin crates](https://crates.io/search?q=grin) to crates.i
 - [quentinlesceller](https://github.com/quentinlesceller)
 - [yeastplume](https://github.com/yeastplume)
 
+## Discord
+
+Owner of Discord "Grin Community":
+- [mcm-mike](https://github.com/mcm-mike)
+
 ## Email
 
 * Ownership of grincouncil@protonmail.com:
@@ -37,7 +44,7 @@ _As per [CoC]( https://github.com/mimblewimble/grin/blob/master/CODE_OF_CONDUCT.
 
 ## Forum 
 
-Currently hosted on Discourse at forum.grin.mw. 
+Currently hosted on Discourse at forum.grin.mw. Paid monthly by [quentinlesceller](https://github.com/quentinlesceller).
 
 ### Administrators
 
@@ -131,6 +138,11 @@ Owners of mimblewimble@lists.launchpad.net:
 
 Owner of [Grin Snapcraft](https://snapcraft.io/grin):
 - [quentinlesceller](https://github.com/quentinlesceller)
+
+## Telegram
+
+Owner of [t.me/GrinPrivacy](t.me/GrinPrivacy):
+- [Mac](https://forum.grin.mw/u/neo/summary)
 
 ## Twitter
 
