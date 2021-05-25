@@ -4,16 +4,16 @@ Last updated: 25/05/21
 
 ## Table of Contents
 1. [Introduction](#introduction)
-1. [Crates.io](crates.io)
-1. [Email](email)
-1. [Forum](forum)
-1. [Funds](funds)
+1. [Crates.io](#crates.io)
+1. [Email](#email)
+1. [Forum](#forum)
+1. [Funds](#funds)
 1. [Github](#github)
 1. [Keybase](#keybase)
 1. [Mailing List](#mailing-list)
-1. [Snapcraft](snapcraft)
-1. [Twitter](twitter)
-1. [Website](website)
+1. [Snapcraft](#snapcraft)
+1. [Twitter](#twitter)
+1. [Website](#website)
 
 
 ## Introduction
