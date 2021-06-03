@@ -25,7 +25,8 @@ Steps to be completed as part of every node or wallet release. Available [here](
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
-May 25 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/422) | | |
+Jun 01 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/424) | [Notes](notes/20210601-meeting-development.md) | 5.1.0 Release Update, Atomic Swap Update, Ledger Hardware Update, Tor Bridge Discussion, Introducing Changelog.md |
+May 25 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/422) | [Notes](notes/20210525-meeting-governance.md) | Bounty Statuses, RFC Update, Community Funding Status, Council Asset Audit, Funding Request + Addressing Community Contributions |
 May 18 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/419) | [Notes](notes/20210518-meeting-development.md) | Atomic-Swaps Bounty with @geneferneau, 5.1.0 Release, Ledger-Integration Update w/ @mark_hollis |
 May 11 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/420) | [Notes](notes/20210511-meeting-governance.md) | Ledger-Integration Update w/ @mark_hollis, Atomic-Swap Update w/ @geneferneau, RFC Updates, Community Funding Status, Council-Funding Audit |
 May 04 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/419) | [Notes](notes/20210504-meeting-development.md) | Ledger Support Bounty Update w/ @mark_hollis, 5.1.0 Release-Update |
