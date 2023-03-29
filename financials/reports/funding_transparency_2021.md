@@ -29,7 +29,7 @@ BTC | 96.872644 | $29,374 | $2,845,537 | bc1qecw954uappnwhle6tmafqskn6vxmpr6lmmu
 
 ### Received
 
-During Jan 01 - Dec 31 2021, Grin received the following assets: 
+During Jan 01 - Dec 31 2021, Grin OC received the following assets: 
 
 Currency | Amount | Wallet address(es)
 |---|---:|---|
@@ -54,7 +54,7 @@ BTC|0.00168701|Transaction Fees|
 
 ### Disposable funds
 
-At the end of Dec 31 2021, the status of Grin's disposable funds were as follows:
+At the end of Dec 31 2021, the status of Grin OC's disposable funds were as follows:
 
 Currency | Amount | USD x-rate Dec 31 2021 | USD Equivalent | Wallet address(es)
 |---|---:|---:|---:|---|

@@ -27,11 +27,11 @@ BTC | 50.49161 | $16,967 | $856,691 | bc1q2x8gu8n85ylur5j83yflhpg5hf80nhnyem98k2
 
 ### Received
 
-During Jan 01 - Mar 31 2023, Grin received no donations
+During Jan 01 - Mar 31 2023, Grin OC received no donations
 
 ### Spent
 
-During Jan 01 - Mar 31 2023, Grin spent the following assets on the following activities:
+During Jan 01 - Mar 31 2023, Grin OC spent the following assets on the following activities:
 
 Currency | Amount | Category
 |---|---:|---:|
@@ -42,7 +42,7 @@ BTC|0.00005|Transaction Fees|
 
 ### Disposable funds (TBD April 1st)
 
-At the end of March 31 2023, the status of Grin's disposable funds were as follows:
+At the end of March 31 2023, the status of Grin OC's disposable funds were as follows:
 
 Currency | Amount | USD x-rate March 31 2023 | USD Equivalent | Wallet address(es)
 |---|---:|---:|---:|---|

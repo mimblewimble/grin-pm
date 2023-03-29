@@ -28,11 +28,11 @@ BTC | 57.119721 | $46,306 | $2,845,537 | bc1q2x8gu8n85ylur5j83yflhpg5hf80nhnyem9
 
 ### Received
 
-During Jan 01 - Dec 31 2022, Grin received no donations
+During Jan 01 - Dec 31 2022, Grin OC received no donations
 
 ### Spent
 
-During Jan 01 - Dec 31 2022, Grin spent the following assets on the following activities:
+During Jan 01 - Dec 31 2022, Grin OC spent the following assets on the following activities:
 
 Currency | Amount | Category
 |---|---:|---:|
@@ -44,7 +44,7 @@ BTC|0.00028716|Transaction Fees|
 
 ### Disposable funds
 
-At the end of Dec 31 2022, the status of Grin's disposable funds were as follows:
+At the end of Dec 31 2022, the status of Grin OC's disposable funds were as follows:
 
 Currency | Amount | USD x-rate Dec 31 2022 | USD Equivalent | Wallet address(es)
 |---|---:|---:|---:|---|
