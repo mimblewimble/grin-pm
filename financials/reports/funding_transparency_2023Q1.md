@@ -1,6 +1,6 @@
 # 2023Q1 Grin Original Council (OC) Funding Transparency Report
 
-Last updated: April 3st, 2023
+Last updated: April 3rd, 2023
 
 ## Introduction
 This document provides a high level overview of the Grin's Original Council (OC) financials for Q12023 (Jan 1st-Mar 31st). The purpose is to keep the community up to date on funding activity in transparent and digestible way. The data is derived from what is reported in the financial logs under [/grin-pm/financials](https://github.com/mimblewimble/grin-pm/tree/master/financials).
