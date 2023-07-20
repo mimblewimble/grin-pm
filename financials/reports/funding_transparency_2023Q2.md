@@ -1,6 +1,6 @@
 # 2023Q2 Grin Original Council (OC) Funding Transparency Report
 
-Last updated: Jun 30th, 2023
+Last updated: Jul 20th, 2023
 
 ## Introduction
 This document provides a high level overview of the Grin's Original Council (OC) financials for Q22023 (Apr 1st-Jun 30th). The purpose is to keep the community up to date on funding activity in transparent and digestible way. The data is derived from what is reported in the financial logs under [/grin-pm/financials](https://github.com/mimblewimble/grin-pm/tree/master/financials).
@@ -40,13 +40,13 @@ BTC|0.000062|Transaction Fees|
   
 ## Status after the period
 
-### Disposable funds (TBD July 1st)
+### Disposable funds
 
 At the end of Jun 30 2023, the status of Grin OC's disposable funds were as follows:
 
 Currency | Amount | USD x-rate March 31 2023 | USD Equivalent | Wallet address(es)
 |---|---:|---:|---:|---|
-BTC | 47.158502 | $30,694.79 | $1,447,567 | bc1q2x8gu8n85ylur5j83yflhpg5hf80nhnyem98k2pld46lf4czhmgsxq8wlu
+BTC | 47.158502 | $30,447.25 | $1,435,846 | bc1q2x8gu8n85ylur5j83yflhpg5hf80nhnyem98k2pld46lf4czhmgsxq8wlu
 
 ### Comments
 * Over the quarter, the value of BTC increased by ~8%, positively impacting the available funds.
