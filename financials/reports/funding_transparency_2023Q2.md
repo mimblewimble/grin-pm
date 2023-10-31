@@ -44,7 +44,7 @@ BTC|0.000062|Transaction Fees|
 
 At the end of Jun 30 2023, the status of Grin OC's disposable funds were as follows:
 
-Currency | Amount | USD x-rate March 31 2023 | USD Equivalent | Wallet address(es)
+Currency | Amount | USD x-rate June 30th 2023 | USD Equivalent | Wallet address(es)
 |---|---:|---:|---:|---|
 BTC | 47.158502 | $30,447.25 | $1,435,846 | bc1q2x8gu8n85ylur5j83yflhpg5hf80nhnyem98k2pld46lf4czhmgsxq8wlu
 
