@@ -1,6 +1,6 @@
 # 2023Q3 Grin Original Council (OC) Funding Transparency Report
 
-Last updated: Oct 31th, 2023
+Last updated: Feb 29, 2024
 
 ## Introduction
 This document provides a high level overview of the Grin's Original Council (OC) financials for Q32023 (July 1st-Sept 30th). The purpose is to keep the community up to date on funding activity in transparent and digestible way. The data is derived from what is reported in the financial logs under [/grin-pm/financials](https://github.com/mimblewimble/grin-pm/tree/master/financials).
@@ -35,7 +35,7 @@ During July 01 - Sept 30 2023, Grin OC spent the following assets on the followi
 
 Currency | Amount | Category
 |---|---:|---:|
-BTC|1.56285|Development and Maintenance|
+BTC|1.56280819|Development and Maintenance|
 BTC|0.00004543|Transaction Fees|
   
 ## Status after the period
