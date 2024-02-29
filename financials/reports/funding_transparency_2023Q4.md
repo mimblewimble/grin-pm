@@ -37,7 +37,7 @@ During Oct 1 - Dec 31 2023, Grin OC spent the following assets on the following 
 Currency | Amount | Category
 |---|---:|---:|
 BTC|0.96108118|Development and Maintenance|
-BTC|0.02996438|Hosting Expenses / Infrastructure|
+BTC|0.0299|Hosting Expenses / Infrastructure|
 BTC|0.00093197|Transaction Fees|
   
 ## Status after the period
