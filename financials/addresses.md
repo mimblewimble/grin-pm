@@ -45,11 +45,15 @@ Any questions or concerns about authenticity can be raised publicly in the Grin 
 
 https://blockchair.com/bitcoin/address/39hgKkhfPFpwKRQ6yARGwU2uuVay69NKu4
 
+Currently unavailable.
+
 ##### Segwit
 
 `bc1qecw954uappnwhle6tmafqskn6vxmpr6lmmuwfwldphfxplcshgnssy9kmx`
 
 https://blockchair.com/bitcoin/address/bc1qecw954uappnwhle6tmafqskn6vxmpr6lmmuwfwldphfxplcshgnssy9kmx
+
+Currently unavailable.
 
 #### Ethereum
 
