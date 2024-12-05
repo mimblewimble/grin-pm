@@ -25,9 +25,18 @@ Steps to be completed as part of every node or wallet release. Available [here](
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
-Apr 06 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/412)| | |
-Mar 30 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/410)| | |
-Mar 23 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/408)| [Notes](notes/20210323-meeting-development.md) | BP Vulnerability, Bug bounties, 5.1.0 release |
+Jun 09 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/427) | [Notes](notes/20210609-meeting-governance.md) | Bounty Status, Core-Council Ending Public Meetings, Community Funding Status, Council Asset Audit |
+Jun 01 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/424) | [Notes](notes/20210601-meeting-development.md) | 5.1.0 Release Update, Atomic Swap Update, Ledger Hardware Update, Tor Bridge Discussion, Introducing Changelog.md |
+May 25 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/422) | [Notes](notes/20210525-meeting-governance.md) | Bounty Statuses, RFC Update, Community Funding Status, Council Asset Audit, Funding Request + Addressing Community Contributions |
+May 18 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/419) | [Notes](notes/20210518-meeting-development.md) | Atomic-Swaps Bounty with @geneferneau, 5.1.0 Release, Ledger-Integration Update w/ @mark_hollis |
+May 11 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/420) | [Notes](notes/20210511-meeting-governance.md) | Ledger-Integration Update w/ @mark_hollis, Atomic-Swap Update w/ @geneferneau, RFC Updates, Community Funding Status, Council-Funding Audit |
+May 04 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/419) | [Notes](notes/20210504-meeting-development.md) | Ledger Support Bounty Update w/ @mark_hollis, 5.1.0 Release-Update |
+Apr 27 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/418) | [Notes](notes/20210427-meeting-governance.md) | Ledger Support Moves Forward with Mark_Hollis, Community Funding |
+Apr 20 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/416) | [Notes](notes/20210420-meeting-development.md) | Fix-past-fees, 5.1.0 Release-Update |
+Apr 13 | Governance | [Agenda](notes/20210413-meeting-governance.md) | [Notes](notes/20210413-meeting-governance.md) | Community Fund Public Announcement, Fix-past-fees  |
+Apr 06 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/412) | [Notes](notes/20210406-meeting-development.md) | FCP, secp256k1-zkp Rebase |
+Mar 30 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/410)| [Notes](notes/20210330-meeting-governance.md) | Atomic Swap, Community Council Application |
+Mar 23 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/408) | [Notes](notes/20210323-meeting-development.md) | BP Vulnerability, Bug bounties, 5.1.0 Release-Update |
 Mar 16 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/403)| [Notes](notes/20210316-meeting-governance.md) | Ledger bounty, Community funding |
 Mar 09 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/400)| [Notes](notes/20210309-meeting-development.md) | Bug bounties, libsecp fork, PR cleanup, 5.1.0 release, archival nodes |
 Mar 02 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/398)| [Notes](notes/20210302-meeting-governance.md) | Send ASIC to Hendi, Community funding |
@@ -48,15 +57,15 @@ Jan 05 | Hybrid | [Agenda](https://github.com/mimblewimble/grin-pm/issues/378)| 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
 Dec 22 | Hybrid | [Agenda](https://github.com/mimblewimble/grin-pm/issues/376) | [Notes](notes/20201222-meeting-development.md) | @dtavarez funding request, v5.0.0 planning, Naming, API listening on 0.0.0.0 |
-Dec 15 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/374)| [Notes](notes/20201215-meeting-governance.md) | Holiday planning, Lehnberg Q1 2021 funding, PIBD RFC |
+Dec 15 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/374) | [Notes](notes/20201215-meeting-governance.md) | Holiday planning, Lehnberg Q1 2021 funding, PIBD RFC |
 Dec 08 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/372) | [Notes](notes/20201208-meeting-development.md) | Slatepack, v5.0.0 planning, Naming, API listening on 0.0.0.0 |
-Dec 01 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/370)| [Notes](notes/20201201-meeting-governance.md) | Slatepack, Fund for mining proposal, HTTPs deprecation, PIBD RFC |
+Dec 01 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/370) | [Notes](notes/20201201-meeting-governance.md) | Slatepack, Fund for mining proposal, HTTPs deprecation, PIBD RFC |
 Nov 24 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/368) | [Notes](notes/20201124-meeting-development.md) | Slatepack, Testnet, Re-org attack, v5.0.0 planning review |
-Nov 17 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/366)| [Notes](notes/20201117-meeting-governance.md) | Slatepack, HTTPs deprecation, PIBD RFC |
+Nov 17 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/366) | [Notes](notes/20201117-meeting-governance.md) | Slatepack, HTTPs deprecation, PIBD RFC |
 Nov 10 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/363) | [Notes](notes/20201110-meeting-development.md) | Testnet mining, Re-org attack, v5.0.0 planning review |
-Nov 03 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/360)| [Notes](notes/20201103-meeting-governance.md) | Council accountability, HTTPs deprecation |
+Nov 03 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/360) | [Notes](notes/20201103-meeting-governance.md) | Council accountability, HTTPs deprecation |
 Oct 27 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/358) | [Notes](notes/20201027-meeting-development.md) | v5.0.0 updates & risk mitigations, testnet mining |
-Oct 20 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/355)| [Notes](notes/20201020-meeting-governance.md) | @jaspervdm funding request, RFC reviews, Council accountability |
+Oct 20 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/355) | [Notes](notes/20201020-meeting-governance.md) | @jaspervdm funding request, RFC reviews, Council accountability |
 Oct 13 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/353) | [Notes](notes/20201013-meeting-development.md) | Re-org  monitoring, v5.0.0 scope freeze, Grin-Pi |
 Oct 06 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/351)| [Notes](notes/20201006-meeting-governance.md) | QA Funding request, @lehnberg funding request, deprecating http(s), floonet, RFC reviews |
 Sep 29 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/348) | [Notes](notes/20200929-meeting-development.md) | re-org risk monitoring, v5.0.0 planning, slatepack adoption |
@@ -148,7 +157,7 @@ Mar 26 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/87
 Mar 19 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/77)| [Notes](notes/20190319-meeting-development.md) | TravisCI alternatives, v1.1.0 release date, v1.0.3 release, Hard fork timeline and process |
 Mar 12 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/71)| [Notes](notes/20190312-meeting-governance.md) | Funding for Igno, CVE-2019-9195 post-mortem, Treasury management  |
 Mar 05 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/68)| [Notes](notes/20190305-meeting-development.md) | v1.1.0 planning, nightly builds, rust-secp release |
-| Feb 26 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/66)| [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190226-meeting-governance.md)| PR approach, Funding for Antioch  | 
+| Feb 26 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/66)| [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190226-meeting-governance.md)| PR approach, Funding for Antioch  |
 Feb 19 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/63)| [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190219-meeting-development.md) | v1.0.2 release, Error management |
 Feb 12 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/58) | [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190212-meeting-governance.md) | Decision on security audit firm, Friends of Grin, Risk mgmt |
 Feb 05 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/56)| [Notes](https://github.com/mimblewimble/grin-pm/blob/master/notes/20190205-meeting-development.md) | http deprecation, wallets |
