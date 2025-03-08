@@ -6,9 +6,7 @@
 - [Contact](#contact)
 - [List of addresses](#list-of-addresses)
   - [Grin General Fund](#grin-general-fund)
-    - [Grin](#grin)
     - [Bitcoin](#bitcoin)
-      - [Legacy](#legacy)
       - [Segwit](#segwit)
     - [Ethereum](#ethereum)
     - [Zcash](#zcash)
@@ -31,27 +29,13 @@ Any questions or concerns about authenticity can be raised publicly in the Grin 
 
 ### Grin General Fund
 
-#### Grin
-
-`grin1wm78wjsf2ws507hea4zqrcywxltjwhtgfrwzhdrr9l80l7tpz5fsj58lk0`
-
-[Transaction log snapshot](grin-wallet-txs.md).
-
 #### Bitcoin
-
-##### Legacy
-
-`39hgKkhfPFpwKRQ6yARGwU2uuVay69NKu4`
-
-https://blockchair.com/bitcoin/address/39hgKkhfPFpwKRQ6yARGwU2uuVay69NKu4
-
-Currently unavailable.
 
 ##### Segwit
 
-`bc1qecw954uappnwhle6tmafqskn6vxmpr6lmmuwfwldphfxplcshgnssy9kmx`
+`bc1q2x8gu8n85ylur5j83yflhpg5hf80nhnyem98k2pld46lf4czhmgsxq8wlu`
 
-https://blockchair.com/bitcoin/address/bc1qecw954uappnwhle6tmafqskn6vxmpr6lmmuwfwldphfxplcshgnssy9kmx
+https://blockchair.com/bitcoin/address/bc1q2x8gu8n85ylur5j83yflhpg5hf80nhnyem98k2pld46lf4czhmgsxq8wlu
 
 Currently unavailable.
 
@@ -62,4 +46,3 @@ Currently unavailable.
 #### Zcash
 
 Currently unavailable.
-
