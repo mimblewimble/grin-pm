@@ -35,8 +35,17 @@ May 20 | Governance | [Agenda](https://github.com/grincc/agenda/issues/173) | | 
 
 Date | Topic | Agenda  | Notes | Tl;dr
 |:---|:---|---|---|:---|
-Apr 06 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/412)| | |
-Mar 30 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/410)| | |
+Jun 09 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/427) | [Notes](2021/20210609-meeting-governance.md) | Council ending public meetings, Community funding status, Council asset audit |
+Jun 01 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/424) | [Notes](2021/20210601-meeting-development.md) | 5.1.0 AVX2 fix, Atomic swap RFC/PR review, Ledger bounty update, Tor bridge PR |
+May 25 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/422) | [Notes](2021/20210525-meeting-governance.md) | Community fund vote results, Council asset audit, Newsletter revival, newjack777 funding |
+May 18 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/419) | [Notes](2021/20210518-meeting-development.md) | Atomic swap testnet testing, 5.1.0 AVX2 issue, Ledger bounty update |
+May 11 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/420) | [Notes](2021/20210511-meeting-governance.md) | Gene atomic swap funding, Community fund voting, Council asset audit proposal |
+May 04 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/419) | [Notes](2021/20210504-meeting-development.md) | 5.1.0 beta out, fixpastfees merged, Ledger bounty update |
+Apr 27 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/418) | [Notes](2021/20210427-meeting-governance.md) | Ledger bounty research, fixpastfees RFC merge, Community fund voting, dtavarez slatepack discussion |
+Apr 20 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/416) | [Notes](2021/20210420-meeting-development.md) | fixpastfees FCP, secp256k1-zkp rebase, 5.1.0 release planning |
+Apr 13 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/414) | [Notes](2021/20210413-meeting-governance.md) | Antiochp Q2 funding approved, Community fund update, fixpastfees FCP |
+Apr 06 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/412) | [Notes](2021/20210406-meeting-development.md) | fixpastfees FCP, secp256k1-zkp rebase, 5.1.0 release planning |
+Mar 30 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/410) | [Notes](2021/20210330-meeting-governance.md) | Gene & Trevyn funding approved, TradeOgre compensation declined, Community funding |
 Mar 23 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/408)| [Notes](2021/20210323-meeting-development.md) | BP Vulnerability, Bug bounties, 5.1.0 release |
 Mar 16 | Governance | [Agenda](https://github.com/mimblewimble/grin-pm/issues/403)| [Notes](2021/20210316-meeting-governance.md) | Ledger bounty, Community funding |
 Mar 09 | Development | [Agenda](https://github.com/mimblewimble/grin-pm/issues/400)| [Notes](2021/20210309-meeting-development.md) | Bug bounties, libsecp fork, PR cleanup, 5.1.0 release, archival nodes |

@@ -7,6 +7,10 @@ This document tracks decisions made by the Grin project and points to documentat
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+83 | 20210413 | Approve @antiochp Q2 2021 funding request | tbd
+82 | 20210331 | Approve @gene funding request | tbd
+81 | 20210331 | Approve @trevyn funding request | tbd
+80 | tbd | Inflation bug bounty decision | tbd
 79 | 20210302 | Ship Council ASIC to @hendi | [Meeting Note](notes/20210302-meeting-governance.md#decision-ship-council-asic-to-hendi)
 78 | 20210216 | Approve @antiochp Q1 2021 funding request | [Meeting Note](notes/20210216-meeting-governance.md#decision-approve-antiochp-funding-request)
 77 | 20210119 | Approve expensing GPU server for testnet mining costs | [Meeting Note](notes/20210119-meeting-governance.md#4-gpu-server-for-testnet-mining-costs)
