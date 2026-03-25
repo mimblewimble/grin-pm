@@ -1,0 +1,46 @@
+### Grin General Council (GGC) Fund
+
+As of July 2025, the Community Council (CC) and the Original Council (OC) have merged into a single Grin General Council (GGC). All funds from both councils have been consolidated into a new 4-of-7 multisig wallet.
+
+## MERGE
+
+| Council | Address                                                          | Notes                                          |
+| ------- | ---------------------------------------------------------------- | ---------------------------------------------- |
+| OC      | `bc1q2x8gu8n85ylur5j83yflhpg5hf80nhnyem98k2pld46lf4czhmgsxq8wlu` | Funds transferred to GGC Jul 2025 (~41.52 BTC) |
+| CC      | `bc1qmdhmgmhd6j89225hzdh7dxqgmen3y2q0g4vgpez0tw9tkp4ae39qsqvuyl` | Funds transferred to GGC Jul 2025 (~22.43 BTC) |
+
+wallet adress : `bc1qmsy32rn6hu5vrelpfyqj52cmrpwwr690dkca6pefpw0p843urwnqws6d6v`
+
+wallet explorer link: https://blockchair.com/bitcoin/address/bc1qmsy32rn6hu5vrelpfyqj52cmrpwwr690dkca6pefpw0p843urwnqws6d6v
+
+## AFTER MERGE GGC FUND BALANCE
+
+  ***63.94941748 BTC***
+
+## Activity  after the merge
+
+### Received
+
+ During AUG 1 - Dec 31 2025, Grin GGC received no donations.
+
+### Spent
+
+ During July 1 - Dec 31 2025, Grin OC spent the following assets on the following activities:
+
+Currency    | Amount | Category
+ |---|---:|---:|
+ BTC|0.93085218|Development and Maintenance| 
+ BTC|0.015195|Hosting Expenses|
+ BTC|0.0001719|Transaction Fees|
+
+## Status after the period
+
+### Disposable funds
+
+At the end of Dec 31 2025, the status of Grin GGC's disposable funds were as follows:
+
+Currency | Amount | USD x-rate Dec 31 2024 | USD Equivalent | Wallet address(es)
+|---|---:|---:|---:|---|
+BTC | 63.00348784 | $91,997.73 | $5,796,178 | bc1qmsy32rn6hu5vrelpfyqj52cmrpwwr690dkca6pefpw0p843urwnqws6d6v
+
+### Comments
