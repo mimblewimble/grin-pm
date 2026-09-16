@@ -36,9 +36,9 @@ As of July 2025, the Community Council (CC) and the Original Council (OC) have m
 
 ##### Segwit
 
-`bc1qmsy32rn6hu5vrelpfyqj52cmrpwwr690dkca6pefpw0p843urwnqws6d6v`
+`bc1qmrsfczpd7xye6h4h32577yxljnam86zlkgpjmpe998x222pqsu7sejz5nk`
 
-https://blockchair.com/bitcoin/address/bc1qmsy32rn6hu5vrelpfyqj52cmrpwwr690dkca6pefpw0p843urwnqws6d6v
+https://blockchair.com/bitcoin/address/bc1qmrsfczpd7xye6h4h32577yxljnam86zlkgpjmpe998x222pqsu7sejz5nk
 
 #### Previous addresses (no longer in use)
 
@@ -46,6 +46,7 @@ https://blockchair.com/bitcoin/address/bc1qmsy32rn6hu5vrelpfyqj52cmrpwwr690dkca6
 |---------|---------|-------|
 | OC | `bc1q2x8gu8n85ylur5j83yflhpg5hf80nhnyem98k2pld46lf4czhmgsxq8wlu` | Funds transferred to GGC Jul 2025 (~41.52 BTC) |
 | CC | `bc1qmdhmgmhd6j89225hzdh7dxqgmen3y2q0g4vgpez0tw9tkp4ae39qsqvuyl` | Funds transferred to GGC Jul 2025 (~22.43 BTC) |
+| GGC | `bc1qmsy32rn6hu5vrelpfyqj52cmrpwwr690dkca6pefpw0p843urwnqws6d6v` | Original GGC 4-of-7 multisig (Jul 2025); funds moved to new GGC address |
 
 #### Ethereum
 
