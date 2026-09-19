@@ -20,7 +20,8 @@ Central hub for Grin project documentation, governance, and financial transparen
 | [Burn Rate & Runway](financials/reports/burnrate_runway.md) | Monthly spend and runway estimates |
 | [Income Log](financials/income_log.csv) | Detailed income records |
 | [Spending Log](financials/spending_log.csv) | Detailed spending records (OC) |
-| [Spending Log (GGC)](financials/spending_log_ggc.csv) | Detailed spending records (GGC) |
+| [Spending Log (GGC)](financials/spending_log_ggc.csv) | Detailed spending records (GGC) - original multisig address |
+| [Spending Log (GGC) 2](financials/spending_log_ggc_2.csv) | Detailed spending records (GGC) - current multisig address |
 
 ## Meeting Notes
 

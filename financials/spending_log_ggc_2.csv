@@ -1,0 +1,2 @@
+spend_id,date,spend_description,decision_log_id,currency,amount,exchange_rate,USD_equivalent,tx_fee,from_address,to_address,tx_reference,comment
+26,20260904,Wiesche Grin development August 2026,GGC,BTC,0.03719,"81,220","3,021",0.00000332,bc1qmrsfczpd7xye6h4h32577yxljnam86zlkgpjmpe998x222pqsu7sejz5nk,bc1q6ew2v5m72qa4p2ghahzt3ftnmsf63cav2l97em,a504a568639023fb8d41c3c8799aab9ec6c96dd77bd7d129bb27f443124d47f4,https://forum.grin.mw/t/grin-development-progress-reports/12612/9
